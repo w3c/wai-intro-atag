@@ -2,5 +2,5 @@
 
 Current Preview:
 
-https://w3c.github.io/wai-intro-atag/
+https://w3c.github.io/wai-intro-atag/standards-guidelines/atag/
 
