@@ -1,7 +1,6 @@
 ---
 title: WAI-ATAG
 permalink: /standards-guidelines/atag/
-redirect_from: /
 layout: default
 ---
 
