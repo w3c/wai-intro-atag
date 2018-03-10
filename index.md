@@ -42,7 +42,7 @@ to:
 ATAG is part of a series of accessibility guidelines, including the Web
 Content Accessibility Guidelines (WCAG) and the User Agent Accessibility
 Guidelines (UAAG). [Essential Components of Web
-Accessibility](http://www.w3.org/WAI/intro/components.php) explains the
+Accessibility]({{ "/fundamentals/components/" | relative_url }}) explains the
 relationship between the different guidelines.
 
 ## Who ATAG is for
