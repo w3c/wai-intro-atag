@@ -37,7 +37,7 @@ to:
 -   help authors create more accessible web content — specifically:
     enable, support, and promote the production of content that conforms
     to Web Content Accessibility Guidelines
-    ([WCAG](http://www.w3.org/WAI/intro/wcag)).
+    ([WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})).
 
 ATAG is part of a series of accessibility guidelines, including the Web
 Content Accessibility Guidelines (WCAG) and the User Agent Accessibility
