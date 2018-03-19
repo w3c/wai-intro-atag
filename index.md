@@ -2,6 +2,8 @@
 title: WAI-ATAG
 permalink: /standards-guidelines/atag/
 layout: default
+github:
+  repository: w3c/wai-intro-atag
 ---
 
 Quick links: [ATAG at a
