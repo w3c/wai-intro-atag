@@ -1,15 +1,26 @@
 ---
-title: WAI-ATAG
+title: "Authoring Tool Accessibility Guidelines (ATAG) Overview"
+nav_title: "ATAG Overview"
 permalink: /standards-guidelines/atag/
 layout: default
 github:
   repository: w3c/wai-intro-atag
 ---
 
-Quick links: [ATAG at a
-Glance](http://www.w3.org/WAI/intro/atag-glance), [ATAG 2.0
-Recommendation](http://www.w3.org/TR/ATAG20/), [Implementing ATAG
-2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page introduces the Authoring Tool Accessibility Guidelines (ATAG) web standard.
+
+Quick links to resources:
+* [ATAG at a Glance](http://www.w3.org/WAI/intro/atag-glance)
+* [ATAG 2.0 Recommendation](http://www.w3.org/TR/ATAG20/)
+* [Implementing ATAG 2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {::options toc_levels="2" /}
 
