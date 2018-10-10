@@ -5,6 +5,9 @@ permalink: /standards-guidelines/atag/
 layout: default
 github:
   repository: w3c/wai-intro-atag
+footer: |
+  <p><strong>Status:</strong> Updated 24 September 2015 (first published July 2005)<br>
+  Editor: Shawn Lawton Henry. Developed with the Education and Outreach Working Group (<a href="/WAI/EO/">EOWG</a>) and the Authoring Tool Accessibility Working Group (<a href="/WAI/AU/">AUWG</a>).</p>
 ---
 
 {::nomarkdown}
