@@ -6,9 +6,11 @@ layout: default
 github:
   repository: w3c/wai-intro-atag
   path: "glance.md"
+feedbackmail: wai@w3.org
 footer: |
-  <p>Status: Draft updated: 2016/05/18<br>
-  Editors: Jeanne Spellman and Shawn Lawton Henry. Developed with the Education and Outreach Working Group (EOWG) and Authoring Tool Accessibility Guidelines Working Group (ATAG WG).</p>
+  <p><strong>Date:</strong> Updated 18 May 2016.</p>
+  <p><strong>Editors:</strong> Jeanne Spellman and <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Authoring Tool Accessibility Working Group (<a href="https://www.w3.org/WAI/AU/">AUWG</a>) and the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 {::nomarkdown}
