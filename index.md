@@ -5,9 +5,12 @@ permalink: /standards-guidelines/atag/
 layout: default
 github:
   repository: w3c/wai-intro-atag
+feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Status:</strong> Updated 24 September 2015 (first published July 2005)<br>
-  Editor: Shawn Lawton Henry. Developed with the Education and Outreach Working Group (<a href="/WAI/EO/">EOWG</a>) and the Authoring Tool Accessibility Working Group (<a href="/WAI/AU/">AUWG</a>).</p>
+  <p><strong>Date:</strong> Updated 24 September 2015. First published July 2005.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the Authoring Tool Accessibility Working Group (<a href="https://www.w3.org/WAI/AU/">AUWG</a>).</p>
+
 ---
 
 {::nomarkdown}
