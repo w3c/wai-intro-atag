@@ -140,6 +140,10 @@ Process](http://www.w3.org/WAI/intro/w3c-process).)
 February 2000. While ATAG 1.0 is still a valid standard, it is outdated.
 ATAG 2.0 is the current standard.
 
+## Translations
+
+ATAG 2.0 is available as an Authorized W3C Translation in Chinese, Simplified: [无障碍创作工具指南(ATAG) 2.0](https://www.w3.org/Translations/ATAG20-zh/).
+
 ## Who develops ATAG
 
 ATAG was developed by the Authoring Tool Accessibility Guidelines
