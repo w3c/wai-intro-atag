@@ -21,14 +21,11 @@ This page provides a paraphrased summary of Authoring Tool Accessibility
 Guidelines (ATAG) 2.0. For the normative technical specification, see
 [www.w3.org/TR/ATAG20](http://www.w3.org/TR/ATAG20/).
 
-**To learn about ATAG 2.0, please see the [ATAG
-Overview](http://www.w3.org/WAI/intro/atag.php).**
+**To learn about ATAG 2.0, please see the [ATAG Overview](http://www.w3.org/WAI/intro/atag.php).**
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
 {:/}
-
-
 
 
 ## [Part A](http://www.w3.org/TR/ATAG20/#part_a): Make the authoring tool user interface accessible {#PartA}
@@ -47,7 +44,7 @@ Overview](http://www.w3.org/WAI/intro/atag.php).**
 
 -   Make alternative content available to authors
 -   Ensure that editing-view presentation can be [[programmatically
-    determined](http://www.w3.org/TR/ATAG20/#def-Programmatically-Determined)]{.termref}
+    determined](http://www.w3.org/TR/ATAG20/#def-Programmatically-Determined)]
 
 {::nomarkdown}
 {% include box.html type="end" %}
