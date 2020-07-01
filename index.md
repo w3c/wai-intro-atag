@@ -7,7 +7,7 @@ github:
   repository: w3c/wai-intro-atag
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 24 September 2015. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 1 July 2020. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the Authoring Tool Accessibility Working Group (<a href="https://www.w3.org/WAI/AU/">AUWG</a>).</p>
 
@@ -23,6 +23,7 @@ Quick links to resources:
 * [ATAG at a Glance](http://www.w3.org/WAI/intro/atag-glance)
 * [ATAG 2.0 Recommendation](http://www.w3.org/TR/ATAG20/)
 * [Implementing ATAG 2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
+* [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -41,7 +42,7 @@ Quick links to resources:
 {% include_cached toc.html type="end" %}
 {:/}
 
-## ATAG
+## Authoring Tools and ATAG
 
 Authoring tools are software and services that "authors" (web
 developers, designers, writers, etc.) use to produce web content (static
@@ -72,10 +73,10 @@ following types of authoring tools:
 -   web page authoring tools, for example, what-you-see-is-what-you-get
     (WYSIWYG) HTML editors
 -   software for generating websites, for example, content management
-    systems (CMS), courseware tools, content aggregators
+    systems (CMS) and learning management systems (LMS), courseware tools, content aggregators
 -   software that converts to web content technologies, for example,
-    word processors and other office document applications with "Save as
-    HTML"
+    word processors and other office document applications with Save as
+    HTML or EPUB
 -   multimedia authoring tools
 -   websites that let users add content, such as blogs, wikis, photo
     sharing sites, online forums, and social networking sites
@@ -123,7 +124,11 @@ guideline; and for each success criterion, it provides the further
 explanation of the intent of the success criteria, examples, and links
 to resources.
 
-## Is ATAG 2.0 a finished standard?
+## ATAG Report Tool
+
+The [**ATAG Report Tool**](https://www.w3.org/WAI/atag/report-tool/) helps evaluators report on the accessibility of authoring tools. It guides you through the ATAG requirements, lets you record your evaluation results for each requirement, and generates a report of the authoring tool's ATAG conformance.
+
+## ATAG Versions: 1.0 and 2.0
 
 ATAG 2.0 is a W3C Recommendation. This means that ATAG 2.0 is a
 completed standard, having received public comments, completed
@@ -132,8 +137,6 @@ that are using ATAG 2.0 to make their products more accessible, and
 being approved by the W3C membership. (These stages are explained in
 [How WAI Develops Accessibility Guidelines through the W3C
 Process](http://www.w3.org/WAI/intro/w3c-process).)
-
-## ATAG Versions: 1.0 and 2.0
 
 [Authoring Tool Accessibility Guidelines
 1.0](http://www.w3.org/TR/2000/REC-ATAG10-20000203/) was approved in
