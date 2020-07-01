@@ -21,7 +21,7 @@ This page introduces the Authoring Tool Accessibility Guidelines (ATAG) web stan
 
 Quick links to resources:
 * [ATAG at a Glance](http://www.w3.org/WAI/intro/atag-glance)
-* [ATAG 2.0 Recommendation](http://www.w3.org/TR/ATAG20/)
+* [ATAG 2.0 Standard](http://www.w3.org/TR/ATAG20/)
 * [Implementing ATAG 2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
 * [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
 
