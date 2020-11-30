@@ -47,7 +47,7 @@ Quick links to resources:
 Authoring tools are software and services that "authors" (web
 developers, designers, writers, etc.) use to produce web content (static
 web pages, dynamic web applications, etc.). Examples of authoring tools
-are listed below under "[Who ATAG is for](#for)".
+are listed below under "[Who ATAG is for](#who-atag-is-for)".
 
 The Authoring Tool Accessibility Guidelines (ATAG) documents explain how
 to:
