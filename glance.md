@@ -1,17 +1,29 @@
 ---
+# translation notes are after "#" in this section
+
 title: "ATAG at a Glance"
 nav_title: "At a Glance"
-permalink: /standards-guidelines/atag/glance/
-layout: default
+permalink: /standards-guidelines/atag/glance/   # Translators, do not change this
+
 github:
   repository: w3c/wai-intro-atag
-  path: "glance.md"
+  path: glance.md   # Add the language shortcode to the middle of the filename, for example: glance.fr.md
+permalink: /standards-guidelines/atag/glance/   # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/atag/glance/fr
+
+lang: en   # Change "en" to the translated language shortcode
+last_updated: 2020-02-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+# translators:   # remove from the beginning of the line: "# " and add your name(s)
+# - name: Translator 1's Name
+
+layout: default
 feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated 18 May 2016.</p>
   <p><strong>Editors:</strong> Jeanne Spellman and <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Authoring Tool Accessibility Working Group (<a href="https://www.w3.org/WAI/AU/">AUWG</a>) and the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+
 ---
+
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
