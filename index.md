@@ -1,10 +1,21 @@
 ---
+# translation notes are after "#" in this section
+
 title: "Authoring Tool Accessibility Guidelines (ATAG) Overview"
 nav_title: "ATAG Overview"
-permalink: /standards-guidelines/atag/
-layout: default
+ref: /standards-guidelines/atag/   # Translators, do not change this
+
 github:
   repository: w3c/wai-intro-atag
+  path: index.md    # Add the language shortcode to the middle of the filename, for example: index.fr.md
+permalink: /standards-guidelines/atag/  # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/atag/fr
+
+lang: en   # Change "en" to the translated language shortcode
+last_updated: 2020-02-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+# translators:   # remove from the beginning of the line: "# " and add your name(s)
+# - name: Translator 1's Name
+
+layout: default
 feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated 1 July 2020. First published July 2005.</p>
@@ -12,6 +23,7 @@ footer: |
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the Authoring Tool Accessibility Working Group (<a href="https://www.w3.org/WAI/AU/">AUWG</a>).</p>
 
 ---
+
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
