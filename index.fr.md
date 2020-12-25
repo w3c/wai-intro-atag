@@ -12,30 +12,32 @@ permalink: /standards-guidelines/atag/fr  # Add the language shortcode to the en
 
 lang: fr   # Change "en" to the translated language shortcode
 last_updated: 2020-12-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators:   # remove from the beginning of the line: "# " and add your name(s)
-# - name: Translator 1's Name
+translators:   # remove from the beginning of the line: "# " and add your name(s)
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 
 layout: default
 feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date :</strong> Mise à jour : 1 juillet 2020. Première publication en juillet 2005.</p>
   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
-  <p>Développé avec les données du Groupe de travail pour l'Éducaton et la Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) et le Groupe de travail pour les Règles d'accessibilité pour les outils d'édition (<a href="https://www.w3.org/WAI/AU/">AUWG</a>).</p>
+  <p>Développé avec les données du Groupe de travail Éducaton et la Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) et le Groupe de travail pour les Règles d'accessibilité pour les outils d'édition (<a href="https://www.w3.org/WAI/AU/">AUWG</a>).</p>
 
 ---
 
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
-This page introduces the Authoring Tool Accessibility Guidelines (ATAG) web standard.
+Cette page introduit le standard Web "Règles d'accessibilité pour les outils d'édition (ATAG)".
 
-Quick links to resources:
-* [ATAG at a Glance](http://www.w3.org/WAI/intro/atag-glance)
-* [ATAG 2.0 Standard](http://www.w3.org/TR/ATAG20/)
-* [Implementing ATAG 2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
-* [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
+Liens rapides vers d'autres ressources :
+* [Les ATAG en un coup d'oeil](http://www.w3.org/WAI/intro/atag-glance)
+* [Le standard ATAG 2.0](http://www.w3.org/TR/ATAG20/)
+* [Mise en pratique d'ATAG 2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
+* [Outil de reporting ATAG](https://www.w3.org/WAI/atag/report-tool/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -44,7 +46,7 @@ Quick links to resources:
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include_cached toc.html type="start" title="Table des matières" %}
 {:/}
 
 -   TOC is created automatically.
@@ -54,128 +56,75 @@ Quick links to resources:
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Authoring Tools and ATAG
+## Les outils d'édition et les ATAG
 
-Authoring tools are software and services that "authors" (web
-developers, designers, writers, etc.) use to produce web content (static
-web pages, dynamic web applications, etc.). Examples of authoring tools
-are listed below under "[Who ATAG is for](#who-atag-is-for)".
+Les outils d'édition sont des logiciels et des services que les "auteurs" (développeurs, designers, rédacteurs, etc.) utilisent pour produire du contenu Web (des pages Web statiques, des applications Web dynamiques, etc.). Vous trouverez une liste d'exemple d'outils d'édition dans la rubrique ci-dessous [À qui sont destinées les ATAG](#who-atag-is-for)".
 
-The Authoring Tool Accessibility Guidelines (ATAG) documents explain how
-to:
+Les documents sur les Règles d'accessibilité pour les outils d'édition (ATAG) expliquent comment :
 
--   make the authoring tools themselves accessible, so that people with
-    disabilities can create web content, ***and***
--   help authors create more accessible web content — specifically:
-    enable, support, and promote the production of content that conforms
-    to Web Content Accessibility Guidelines
-    ([WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})).
+-   rendre les outils d'édition eux-mêmes accessibles pour permettre aux personnes handicapées de créer du contenu Web, ***et***
+-   accompagner les auteurs dans la création de contenu Web plus accessible  — et plus particulièrement :
+    rendre possible, soutenir et promouvoir la production de contenus conformes aux Règles pour l'accessibilité des contenus Web    ([WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})).
 
-ATAG is part of a series of accessibility guidelines, including the Web
-Content Accessibility Guidelines (WCAG) and the User Agent Accessibility
-Guidelines (UAAG). [Essential Components of Web
-Accessibility]({{ "/fundamentals/components/" | relative_url }}) explains the
-relationship between the different guidelines.
+Les ATAG font partie d'une série de règles pour l'accessibilité, dont les Règles pour l'accessibilité des contenus Web (WCAG) et les Règles pour l'accessibilité des agents utilisateurs (UAAG). [Composants essentiels de l'accessibilité Web]({{ "/fundamentals/components/" | relative_url }}) explique la relation entre les différentes règles.
 
-## Who ATAG is for
+## À qui sont destinées les ATAG
 
-ATAG is primarily for developers of authoring tools, including the
-following types of authoring tools:
+Les ATAG sont premièrement destinées aux développeurs d'outils d'édition, dont les types d'outils d'édition suivants :
 
--   web page authoring tools, for example, what-you-see-is-what-you-get
-    (WYSIWYG) HTML editors
--   software for generating websites, for example, content management
-    systems (CMS) and learning management systems (LMS), courseware tools, content aggregators
--   software that converts to web content technologies, for example,
-    word processors and other office document applications with Save as
-    HTML or EPUB
--   multimedia authoring tools
--   websites that let users add content, such as blogs, wikis, photo
-    sharing sites, online forums, and social networking sites
--   other types of tools listed in the glossary definition of [authoring
-    tools](http://www.w3.org/TR/ATAG20/#def-Authoring-Tool)
+-   les outils d'édition de page Web, par exemple, les éditeurs HTML "WYSIWYG" ("what-you-see-is-what-you-get" : ce que vous voyez est ce que vous obtenez)
+-   les logiciels de création de site Web, par exemple, les systèmes de gestion de contenu (CMS) et les systèmes de gestion de l'apprentissage (LMS), les didacticiels, les agrégateurs de contenu
+-   les logiciels qui convertissent les technologies de contenu Web, par exemple, les logiciels de traitement de texte et d'autres applications de documents Office avec des fonctionnalités telles que "enregistré sous HTML" ou "enregistré sous EPUB"
+-   les outils d'édition multimédias
+-   les sites Web qui permettent aux utilisateurs d'ajouter du contenu, tels que les blogues, les sites wiki, les plateformeS de partage de photos, les forums en ligne et les sites de réseaux sociaux
+-   d'autres types d'outils sont listés dans le glossaire des [outils d'édition](http://www.w3.org/TR/ATAG20/#def-Authoring-Tool)
 
-ATAG and supporting resources are also intended to meet the needs of
-many different audiences, including policy makers, managers, and others.
-For example:
+Les ATAG et les ressources relatives à celles-ci cherchent également à répondre aux besoins d'une grande variété de publics, y compris les décideurs et les responsables d'entreprise, entre autres.
+Par exemple :
 
--   People who want to [choose authoring
-    tools](http://www.w3.org/WAI/impl/software) that are accessible and
-    that produce accessible content can use ATAG to evaluate authoring
-    tools.
--   People who want to encourage their existing authoring tool developer
-    to improve accessibility in future versions can refer the authoring
-    tool vendor to ATAG.
+-   Les personnes qui veulent opter pour des [outils d'édition](http://www.w3.org/WAI/impl/software) accessibles et qui produisent du contenu accessible peuvent utiliser les ATAG pour évaluer les outils d'édition
+-   Les personnes qui souhaitent encourager le développeur de leur outil d'édition déjà existant à améliorer l'accessibilité pour les versions futures peuvent proposer au fournisseur de l'outil d'édition de se référer aux ATAG.
 
-## What is in ATAG 2.0
+## Que contient la recommandation ATAG 2.0
 
-[**ATAG 2.0**](http://www.w3.org/TR/ATAG20/) has two main parts:
+[**ATAG 2.0**](http://www.w3.org/TR/ATAG20/) est constitué de deux parties principales :
 
--   Part A is about making the authoring tool itself accessible.
--   Part B is about the authoring tool helping authors produce
-    accessible content.
+-   La partie A explique comment rendre un outil d'édition lui-même accessible.
+-   La partie B explique comment l'outil d'édition peut aider les auteurs à produire un contenu accessible.
 
-**ATAG 2.0** is organized in layers:
+**ATAG 2.0** est organisé en couches :
 
--   **Principles** provide high-level organization for the guidelines.
--   **Guidelines** provide the framework and objectives for the success
-    criteria.
--   **Success criteria are the accessibility requirements**, which are
-    written as testable statements, at [three
-    levels](http://www.w3.org/TR/ATAG20/#intro_understand_levels_conformance):
+-   Les **principes** permettent d'organiser les règles de façon macroscopique.
+-   Les **règles** fournissent un modèle et des objectifs pour les critères de succès.
+-   **Les critères de succès sont les recommandations en accessibilité**, rédigées sous forme de déclarations testables, à [trois niveaux](http://www.w3.org/TR/ATAG20/#intro_understand_levels_conformance):
     A, AA, AAA.
 
-[**ATAG at a Glance**](http://www.w3.org/WAI/intro/atag-glance) provides
-a short summary of the accessibility principles and guidelines in ATAG
-2.0.
+[**Les ATAG en un coup d'oeil**](http://www.w3.org/WAI/intro/atag-glance) fournit un bref résumé des principes et des règles d'accessibilité dans l'ATAG 2.0.
 
-[**Implementing ATAG 2.0**](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
-is a supporting informative document that helps readers understand and
-use ATAG. Implementing ATAG 2.0 provides the rationale for each
-guideline; and for each success criterion, it provides the further
-explanation of the intent of the success criteria, examples, and links
-to resources.
+[**Mise en pratique d'ATAG 2.0**](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
+est un document informatif complémentaire qui a pour but d'aider les lecteurs à comprendre et à appliquer les ATAG. Mise en pratique d'ATAG 2.0 fournit une justification pour chaque règle ; et pour chaque critère de succès, la recommandation ATAG 2.0 fournit des explications complémentaires sur les objectifs des critères de succès, des exemples, et des liens vers d'autres ressources.
 
-## ATAG Report Tool
+## L'outil de reporting ATAG
 
-The [**ATAG Report Tool**](https://www.w3.org/WAI/atag/report-tool/) helps evaluators report on the accessibility of authoring tools. It guides you through the ATAG requirements, lets you record your evaluation results for each requirement, and generates a report of the authoring tool's ATAG conformance.
+L'[**outil de reporting ATAG**](https://www.w3.org/WAI/atag/report-tool/) aide les évaluateurs à faire un rapport de l'accessibilité des outils d'édition. Ils vous guide à travers les recommandations ATAG, vous permet d'enregistrer vos résultats d'évaluation pour chaque recommandation, et génère un rapport sur la conformité ATAG de l'outil d'édition.
 
-## ATAG Versions: 1.0 and 2.0
+## Les versions ATAG : 1.0 et 2.0
 
-ATAG 2.0 is a W3C Recommendation. This means that ATAG 2.0 is a
-completed standard, having received public comments, completed
-implementation testing, demonstrated real world examples of products
-that are using ATAG 2.0 to make their products more accessible, and
-being approved by the W3C membership. (These stages are explained in
-[How WAI Develops Accessibility Guidelines through the W3C
-Process](http://www.w3.org/WAI/intro/w3c-process).)
+ATAG 2.0 est une recommandation du W3C. Cela signifie qu'ATAG 2.0 est un standard abouti, qui a reçu les commentaires du public, dont la mise en pratique a été entièrement testée, qui a démontré des exemples de produits rendus plus accessibles grâce à la mise en pratique d'ATAG 2.0, et qui a été approuvé par les membres du W3C. (Ces étapes sont expliquées dans la section
+[Comment la WAI élabore les règles d'accessibilité selon le processus du W3C](http://www.w3.org/WAI/intro/w3c-process).)
 
-[Authoring Tool Accessibility Guidelines
-1.0](http://www.w3.org/TR/2000/REC-ATAG10-20000203/) was approved in
-February 2000. While ATAG 1.0 is still a valid standard, it is outdated.
-ATAG 2.0 is the current standard.
+[Les Règles d'accessibilité pour les outils d'édition 1.0](http://www.w3.org/TR/2000/REC-ATAG10-20000203/) ont été approuvées en février 2000. Bien qu'ATAG 1.0 soit un standard valable, il est dépassé.
+ATAG 2.0 est le standard actuel.
 
-## Translations
+## Traductions
 
-ATAG 2.0 is available as an Authorized W3C Translation in Chinese, Simplified: [无障碍创作工具指南(ATAG) 2.0](https://www.w3.org/Translations/ATAG20-zh/).
+La traduction agréée d'ATAG 2.0 en chinois simplifié est disponible sur cette page : [无障碍创作工具指南(ATAG) 2.0](https://www.w3.org/Translations/ATAG20-zh/).
 
-## Who develops ATAG
+## Qui élabore les ATAG
 
-ATAG was developed by the Authoring Tool Accessibility Guidelines
-Working Group ([ATAG WG](http://www.w3.org/WAI/AU/)), which is part of
-the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web
-Accessibility Initiative ([WAI](http://www.w3.org/WAI/)). For more
-information about the working group, see the [AUWG
-page](http://www.w3.org/WAI/AU/).
+Les ATAG ont été élaborées par le Groupe de travail pour les Règles d'accessibilité pour les outils d'édition ([ATAG WG](http://www.w3.org/WAI/AU/)), qui fait partie  de l'Initiative pour l'accessibilité Web ([WAI](http://www.w3.org/WAI/)) du World Wide Web Consortium ([W3C](http://www.w3.org/)). Pour plus d'informations sur le groupe de travail, allez sur la page du [AUWG](http://www.w3.org/WAI/AU/).
 
-[How WAI Develops Accessibility Guidelines through the W3C Process:
-Milestones and Opportunities to
-Contribute](http://www.w3.org/WAI/intro/w3c-process) describes formal
-periods for public review. Opportunities for review and comment of WAI
-documents are announced on the [WAI home page](http://www.w3.org/WAI/)
-and [WAI Interest Group](http://www.w3.org/WAI/IG/) mailing list. An
-email address for sending comments is included in the "Status of this
-Document" section.
+[Comment la WAI élabore les Règles d'accessibilité selon le processus du W3C : étapes importantes et opportunités pour contribuer](http://www.w3.org/WAI/intro/w3c-process) décrit les périodes officielles destinées à la révision du public. Les opportunités pour réviser et commenter les documents de la WAI sont annoncées sur la [page d'accueil de la WAI](http://www.w3.org/WAI/)
+et sur la liste d'e-mail [Groupe d'intérêt de la WAI](http://www.w3.org/WAI/IG/). Vous trouverez l'adresse e-mail permettant d'envoyer des commentaires dans la section "Statut de ce document".
 
-Opportunities for contributing to ATAG and other WAI work are introduced
-in [Participating in WAI](http://www.w3.org/WAI/participation).
+Les opportunités pour contribuer aux ATAG et autres travaux de la WAI sont introduites sur la page [Participer à la WAI](http://www.w3.org/WAI/participation).
