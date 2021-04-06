@@ -7,7 +7,7 @@ ref: /standards-guidelines/atag/   # Translators, do not change this
 
 github:
   repository: w3c/wai-intro-atag
-  path: index.fr.md    # Add the language shortcode to the middle of the filename, for example: index.fr.md
+  path: content/index.fr.md    # Add the language shortcode to the middle of the filename, for example: index.fr.md
 permalink: /standards-guidelines/atag/fr  # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/atag/fr
 
 lang: fr   # Change "en" to the translated language shortcode
