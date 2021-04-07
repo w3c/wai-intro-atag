@@ -3,11 +3,11 @@
 
 title: "ATAG at a Glance"
 nav_title: "At a Glance"
-permalink: /standards-guidelines/atag/glance/   # Translators, do not change this
+ref: /standards-guidelines/atag/glance/   # Translators, do not change this
 
 github:
   repository: w3c/wai-intro-atag
-  path: glance.md   # Add the language shortcode to the middle of the filename, for example: glance.fr.md
+  path: content/glance.md   # Add the language shortcode to the middle of the filename, for example: content/glance.fr.md
 permalink: /standards-guidelines/atag/glance/   # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/atag/glance/fr
 
 lang: en   # Change "en" to the translated language shortcode
