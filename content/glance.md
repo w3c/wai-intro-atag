@@ -3,7 +3,7 @@
 
 title: "ATAG at a Glance"
 nav_title: "At a Glance"
-permalink: /standards-guidelines/atag/glance/   # Translators, do not change this
+ref: /standards-guidelines/atag/glance/   # Translators, do not change this
 
 github:
   repository: w3c/wai-intro-atag
