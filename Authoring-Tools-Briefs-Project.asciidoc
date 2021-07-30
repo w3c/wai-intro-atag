@@ -2,41 +2,41 @@
 
 The majority of digital content is generated using authoring tools, but those who generate this content don't think they are using an 'authoring tool'. Ordinary people just don't think in these terms. Whether they use a content management system (CMS), code, video or graphics editors -  these tools have a primary role in guiding and supporting users in creating accessible content.
 
-Using a tool that supports the creation of accessible content as well as being accessible itself, is the sweet spot we want to hit. These tools are by nature, more inclusive and can greatly improve the efficiency of designers, developers, and content authors in employment, education and other contexts.
+Using a tool that supports the creation of accessible content, as well as being accessible itself, is the sweet spot we want to hit. These tools are, by nature, more inclusive and can greatly improve the efficiency of designers, developers, and content authors in employment, education and other contexts.
 
 Where a content author has little knowledge of accessibility, a good tool can also assist the author, and provide them with the ques and support they need to produce accessible content. Procurers of technology for use in education and the workplace have a responsibility to choose tools that support people with disabilities, so the tool is not itself a barrier and is usable.
 
 === Outreach Goals ===
 
-We aim to create resources to raise awareness of the benefits of accessible authoring tools. The objective of these resources is to target various sectors with informational briefs that are designed to both illustrate the importance and power of authoring tools for accessibility. This is both for the user of these tools as well as for their ability to create accessible content.
+We aim to create resources to raise awareness of the benefits of accessible authoring tools. The objective of these resources is to target various sectors with informational briefs that are designed to both illustrate the importance and power of authoring tools for accessibility. This is both for the user of these tools and for their ability to create accessible content.
 
 At a high level, the proposed target audience (for each sector) is generally two types:
 
 * Management / Decision Makers
 * Technical people / Content creators
 
-To support these goals we aim to create 'briefs' for various industry sectors that are suggested below. These will include:
+To support these goals, we aim to create 'briefs' for various industry sectors that are suggested below. These will include:
 
 * Short written briefs that highlight the benefits of accessible authoring tools.
-* Potentially the creation of graphics for dissemination that are thought provoking/useful. These could be downloaded from GitHub for distribution and printing.
+* Potentially the creation of graphics for dissemination that are thought-provoking/useful. These could be downloaded from GitHub for distribution and printing.
 
 Feedback is welcome on the suitability of the target audience options, as well as the messaging.
 
 === Note on general takeaways we want to get across ===
 
-There are some common takeaways that we will like to make that can be either added to each of the sectors: These may include:
+There are some common takeaways that we would like to make that can be either added to each of the sectors: These may include:
 
 * Procure accessible only.
 * The tools you choose have an impact on how accessible your content is.
 * Choose an authoring tool with an accessible user interface.
 * Choose an authoring tool that produces accessible content.
-* Promote learn about simple, non technical things user can do to create accessible content with authoring - this could be structuring content using headings, clear descriptive link text etc.
+* Promote learn about simple, non-technical thing's user can do to create accessible content with authoring - this could be structuring content using headings, clear descriptive link text etc.
 * Promote positive engagement with vendors to ask for more or improved accessibility if not satisfied.
 * Raise awareness of ATAG.
 * Encourage procurers to check the documentation of the system they aim to use to ensure it supports accessibility, and that this can be measure using ATAG.
 * Do not disable accessibility related features in tooling.
-* When building industry specific tools ensure accessibility is supported by the content creation aspects of the tool.
-* When building industry specific tool make sure each sector develops according to ATAG.
+* When building industry specific tools, ensure accessibility is supported by the content creation aspects of the tool.
+* When building industry specific tools, make sure each sector develops according to ATAG.
 
 === Outreach to specific audience sectors & options ===
 
