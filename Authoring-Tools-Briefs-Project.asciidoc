@@ -58,7 +58,7 @@ The following are some suggested topics for the briefs described above, from whi
 
 == Option 2: Publishing - web ==
 === Audience: Product Owners, Content Designers, Writers, Designers Producers, 3-party services, etc. ===
-* <strong>Key Messages:</strong>
+* <b>Key Messages:</b>
 * Digital publishing tools need to be accessible to everyone, including staff with disabilities working in getting content online.
 * These include CMS, blogging tools, wikis, video creation tools, graphics tools, presentation tools.
 
