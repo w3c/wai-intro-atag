@@ -49,7 +49,7 @@ The following are some suggested topics for the briefs described above, from whi
 
 == Option 1: Publishing - e-books ==
 === Audience: Product Owners, Content Designers, Writers, Designers Producers, 3-party services, etc. ===
-==== Key Messages:====
+==== Key Messages ====
 * Digital publishing tools need to be accessible to everyone, including staff with disabilities.
 
 * Q: I'm not sure what the focus should be here? Are we saying the tools to create e-books themselves need to be covered in this project? To what degree do we need to cover e-book accessibility itself?
@@ -58,13 +58,13 @@ The following are some suggested topics for the briefs described above, from whi
 
 == Option 2: Publishing - web ==
 === Audience: Product Owners, Content Designers, Writers, Designers Producers, 3-party services, etc. ===
-==== Key Messages:====
+==== Key Messages ====
 * Digital publishing tools need to be accessible to everyone, including staff with disabilities working in getting content online.
 * These include CMS, blogging tools, wikis, video creation tools, graphics tools, presentation tools.
 
 == Option 3: Education ==
 === Audience: Teachers, education IT departments, 3-party services, etc. ===
-==== Key Messages:====
+==== Key Messages ====
 * learning management systems need to be accessible to everyone, including students as well as teachers with disabilities.
 * Bespoke systems need to be designed with accessibility in mind and support the creation of accessible content.
 * Your courses need to be accessible to students with disabilities
@@ -76,7 +76,7 @@ The following are some suggested topics for the briefs described above, from whi
 
 == Option 4:  Social Media ==
 === Audience: End-Users, e.g. marketing departments, influencers, product owners, innovation managers, etc. ===
-==== Key Messages:====
+==== Key Messages ====
 * Your postings may not be accessible to everyone
 * Most platforms provide accessibility features that are easy to use - should we provide examples?
 * Social media postings need to be accessible for everyone
@@ -86,7 +86,7 @@ The following are some suggested topics for the briefs described above, from whi
 
 == Option 5: Healthcare ==
 === Audience: Developers, esp. IT departments, 3-party services, etc. ===
-==== Key Messages:====
+==== Key Messages ====
 * HR / CRM systems need to be accessible to everyone
 * This includes doctors and nurses as well as patients with disabilities
 * Formats that people receive any online prescriptions or healthcare advice need to be accessible, and accessible authoring tools can help with that.
