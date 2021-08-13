@@ -17,7 +17,7 @@ At a high level, the proposed target audience (for each sector) is generally two
 
 To support these goals, we aim to create 'briefs' for various industry sectors that are suggested below. 
 
-=== Over of briefs == 
+=== Over of briefs ===
 
 These will include:
 
@@ -32,7 +32,7 @@ Feedback is welcome on the suitability of the target audience options, as well a
 There are some common takeaways that we would like to make that can be either added to each of the sectors: These may include:
 
 * Procure accessible only.
-* The tools you choose have an impact on how accessible your content is.
+* The tools you choose impact how accessible your content is.
 * Choose an authoring tool with an accessible user interface.
 * Choose an authoring tool that produces accessible content.
 * Promote learn about simple, non-technical thing's user can do to create accessible content with authoring - this could be structuring content using headings, clear descriptive link text etc.
@@ -40,8 +40,8 @@ There are some common takeaways that we would like to make that can be either ad
 * Raise awareness of ATAG.
 * Encourage procurers to check the documentation of the system they aim to use to ensure it supports accessibility, and that this can be measure using ATAG.
 * Do not disable accessibility related features in tooling.
-* When building industry specific tools, ensure accessibility is supported by the content creation aspects of the tool.
-* When building industry specific tools, make sure each sector develops according to ATAG.
+* When building industry-specific tools, ensure accessibility is supported by the content creation aspects of the tool.
+* When building industry-specific tools, make sure each sector develops according to ATAG.
 
 === Outreach to specific audience sectors & options ===
 
@@ -49,7 +49,7 @@ The following are some suggested topics for the briefs described above, from whi
 
 == Option 1: Publishing - e-books ==
 === Audience: Product Owners, Content Designers, Writers, Designers Producers, 3-party services, etc. ===
-* '''Key Messages:'''
+* <strong>Key Messages:</strong>
 * Digital publishing tools need to be accessible to everyone, including staff with disabilities.
 
 * Q: I'm not sure what the focus should be here? Are we saying the tools to create e-books themselves need to be covered in this project? To what degree do we need to cover e-book accessibility itself?
@@ -58,16 +58,16 @@ The following are some suggested topics for the briefs described above, from whi
 
 == Option 2: Publishing - web ==
 === Audience: Product Owners, Content Designers, Writers, Designers Producers, 3-party services, etc. ===
-* '''Key Messages:'''
+* <strong>Key Messages:</strong>
 * Digital publishing tools need to be accessible to everyone, including staff with disabilities working in getting content online.
 * These include CMS, blogging tools, wikis, video creation tools, graphics tools, presentation tools.
 
 == Option 3: Education ==
 === Audience: Teachers, education IT departments, 3-party services, etc. ===
-* '''Key Messages:'''
+* <strong>Key Messages:</strong>
 * learning management systems need to be accessible to everyone, including students as well as teachers with disabilities.
 * Bespoke systems need to be designed with accessibility in mind and support the creation of accessible content.
-* your courses need to be accessible to students with disabilities
+* Your courses need to be accessible to students with disabilities
 * Your platforms need to be usable by teachers with disabilities
 * Chose the correct accessible learning management system
 * CMS, blogging tools, wikis. Video creation tools, graphics tools. Presentation tools.
@@ -76,19 +76,19 @@ The following are some suggested topics for the briefs described above, from whi
 
 == Option 4:  Social Media ==
 === Audience: End-Users, e.g. marketing departments, influencers, product owners, innovation managers, etc. ===
-* '''Key Messages:'''
-* your postings may not be accessible to everyone
-* most platforms provide accessibility features that are easy to use - should we provide examples?
-* social media postings need to be accessible for everyone
-* many social media platforms provide accessibility features
-* you also need to provide features if you want to be relevant
+* <strong>Key Messages:</strong>
+* Your postings may not be accessible to everyone
+* Most platforms provide accessibility features that are easy to use - should we provide examples?
+* Social media postings need to be accessible for everyone
+* Many social media platforms provide accessibility features
+* You also need to provide features if you want to be relevant
 * Your platform can be more inclusive by being more accessible
 
 == Option 5: Healthcare ==
 === Audience: Developers, esp. IT departments, 3-party services, etc. ===
-* '''Key Messages:'''
+* <strong>Key Messages:</strong>
 * HR / CRM systems need to be accessible to everyone
-* this includes doctors and nurses as well as patients with disabilities
+* This includes doctors and nurses as well as patients with disabilities
 * Formats that people receive any online prescriptions or healthcare advice need to be accessible, and accessible authoring tools can help with that.
 
 @@ Josh knows little about this space and not sure who to talk to 
