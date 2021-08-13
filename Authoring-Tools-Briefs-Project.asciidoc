@@ -17,11 +17,12 @@ At a high level, the proposed target audience (for each sector) is generally two
 
 To support these goals, we aim to create 'briefs' for various industry sectors that are suggested below. 
 
-=== Over of briefs ===
+=== Overview of briefs ===
 
 These will include:
 
-* Short written briefs that highlight the benefits of accessible authoring tools. Each brief will be a single page with several related sections. (@@ I'm not sure how to express what the tone should be - friendly, informative, informal??)
+* Short written briefs that highlight the benefits of accessible authoring tools. Each brief will be a single page with several related sections (similar to [https://www.w3.org/WAI/planning/involving-users/ Involving Users in Web Projects for Better, Easier Accessibility])
+* Tone (@@ I'm not sure how to express what the tone should be - friendly, informative, informal??)
 * These will be for web only (@@ Shadi is this ok? Or do you want to include print?)
 * Potentially the creation of graphics for dissemination that are thought-provoking/useful. These could be downloaded from GitHub for distribution and printing.
 
