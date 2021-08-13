@@ -65,7 +65,7 @@ The following are some suggested topics for the briefs described above, from whi
 == Option 3: Education ==
 === Audience: Teachers, education IT departments, 3-party services, etc. ===
 ==== Key Messages ====
-* learning management systems need to be accessible to everyone, including students as well as teachers with disabilities.
+* Learning management systems need to be accessible to everyone, including students as well as teachers with disabilities.
 * Bespoke systems need to be designed with accessibility in mind and support the creation of accessible content.
 * Your courses need to be accessible to students with disabilities
 * Your platforms need to be usable by teachers with disabilities
