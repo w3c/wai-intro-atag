@@ -15,9 +15,14 @@ At a high level, the proposed target audience (for each sector) is generally two
 * Management / Decision Makers
 * Technical people / Content creators
 
-To support these goals, we aim to create 'briefs' for various industry sectors that are suggested below. These will include:
+To support these goals, we aim to create 'briefs' for various industry sectors that are suggested below. 
 
-* Short written briefs that highlight the benefits of accessible authoring tools.
+=== Over of briefs == 
+
+These will include:
+
+* Short written briefs that highlight the benefits of accessible authoring tools. Each brief will be a single page with several related sections. (@@ I'm not sure how to express what the tone should be - friendly, informative, informal??)
+* These will be for web only (@@ Shadi is this ok? Or do you want to include print?)
 * Potentially the creation of graphics for dissemination that are thought-provoking/useful. These could be downloaded from GitHub for distribution and printing.
 
 Feedback is welcome on the suitability of the target audience options, as well as the messaging.
@@ -39,6 +44,8 @@ There are some common takeaways that we would like to make that can be either ad
 * When building industry specific tools, make sure each sector develops according to ATAG.
 
 === Outreach to specific audience sectors & options ===
+
+The following are some suggested topics for the briefs described above, from which we propose to select 3 topics to develop into final briefs. Please review and let us know if there are preferences, gaps or ommissions. 
 
 == Option 1: Publishing - e-books ==
 === Audience: Product Owners, Content Designers, Writers, Designers Producers, 3-party services, etc. ===
@@ -68,7 +75,7 @@ Q: I'm not sure what the focus should be here? Are we saying the tools to create
 @@ Josh to arrange calls and get input from lecturers etc
 
 == Option 4:  Social Media ==
-=== Audience: End-Users, e.g. marketing departments, influencers, product owners, innovation managers, etc.etc. ===
+=== Audience: End-Users, e.g. marketing departments, influencers, product owners, innovation managers, etc. ===
 '''Key Messages:'''
 * your postings may not be accessible to everyone
 * most platforms provide accessibility features that are easy to use - should we provide examples?
