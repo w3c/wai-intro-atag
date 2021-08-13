@@ -45,12 +45,12 @@ There are some common takeaways that we would like to make that can be either ad
 
 === Outreach to specific audience sectors & options ===
 
-The following are some suggested topics for the briefs described above, from which we propose to select 3 topics to develop into final briefs. Please review and let us know if there are preferences, gaps or ommissions. 
+The following are some suggested topics for the briefs described above, from which we propose to select 3 topics to develop into final briefs. Please review and let us know if there are preferences, gaps or omissions. 
 
 == Option 1: Publishing - e-books ==
 === Audience: Product Owners, Content Designers, Writers, Designers Producers, 3-party services, etc. ===
 '''Key Messages:'''
-* digital publishing tools need to be accessible to everyone, including staff with disabilities.
+* Digital publishing tools need to be accessible to everyone, including staff with disabilities.
 
 Q: I'm not sure what the focus should be here? Are we saying the tools to create e-books themselves need to be covered in this project? To what degree do we need to cover e-book accessibility itself?
 
