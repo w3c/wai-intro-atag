@@ -26,6 +26,16 @@ These will include:
 * These will be for web only (@@ Shadi is this ok? Or do you want to include print?)
 * Potentially the creation of graphics for dissemination that are thought-provoking/useful. These could be downloaded from GitHub for distribution and printing.
 
+=== Suggested structure for briefs ===
+
+* [@@ Related Video on authoring tools?] Authoring Tools Accessibility Overview
+* Introduction
+* How using accessible authoring tools helps 
+* Procuring the right accessible tools
+* Practical things you can do
+* More Information and Guidance
+* Terminology
+
 Feedback is welcome on the suitability of the target audience options, as well as the messaging.
 
 === Note on general takeaways we want to get across ===
