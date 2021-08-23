@@ -63,6 +63,6 @@ You may even already be making documents more accessible, but not even know it. 
 * [https://www.w3.org/WAI/fundamentals/foundations-course/ Want to learn more? Take the Digital Accessibility Foundations Free Online Course]
 * [https://www.w3.org/WAI/news/2019-12-03/new-online-course-w3cx-introduction-to-web-accessibility/ New Online Course: W3Cx Introduction to Web Accessibility]
 
-===Terminology=== 
+=== Terminology === 
  
  @@
