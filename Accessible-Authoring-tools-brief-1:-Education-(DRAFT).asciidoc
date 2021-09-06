@@ -12,7 +12,7 @@ Where a teacher or lecturer has little knowledge of accessibility, a good tool c
 
 The accessibility of your content has an impact on the quality of your teaching and learning activities, to create a level playing field and remove barriers for teachers and students with disabilities alike.
 
-
+ 
 === How using accessible authoring tools helps === 
 
 Using the right tool can reduce 'extra' work needed to reach your accessibility goals, reduce the need to retrofit content for accessibility, and unnecessarily duplicate your workload by creating content first time round that meets diverse user needs.
@@ -56,6 +56,10 @@ You may even already be making documents more accessible, but not even know it. 
 
 === More Information and Guidance ===
 
+
+* [https://www.w3.org/WAI/standards-guidelines/wcag/glance/ WCAG at a glance] This give a simple helpful summary of WCAG 2.1 in a way that is easy to digest.
+* [https://www.w3.org/WAI/WCAG21/quickref/  How to Meet WCAG (Quick Reference)] - A customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2 requirements (success criteria) and techniques 
+* [https://www.w3.org/WAI/standards-guidelines/wcag/faq/ WCAG FAQ
 * [https://www.w3.org/WAI/fundamentals/accessibility-principles/ Accessibility Principles]
 * [https://www.w3.org/WAI/perspective-videos/ Web Accessibility Perspectives Videos: Explore the Impact and Benefits for Everyone]
 * [https://www.w3.org/WAI/people-use-web/ How People with Disabilities Use the Web]
