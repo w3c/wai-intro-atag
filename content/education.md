@@ -22,6 +22,7 @@ github:
   repository: w3c/wai-intro-atag
   path: content/education.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 permalink: /standards-guidelines/atag/education/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+layout: default
 
 # NEW: 3 navigation lines below are only needed for multi-page resources where you have previous and next at the bottom. If so, un-comment them; otherwise delete these lines.
 # navigation:
