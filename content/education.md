@@ -9,7 +9,7 @@ title_html: "Accessible Tooling for Education<br>Get the gist of what your tool 
 nav_title: "Education"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022111@-30   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-10-25   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -30,12 +30,12 @@ permalink: /standards-guidelines/atag/education/   # Add the language shortcode 
 # @@SLH To Do: figure out if need to add lang here, too, and if this replaces "order" from older resources?
 
 ref: /standards-guidelines/atag/education/   # Translators, do not change this
-changelog: /@@/changelog/
-acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
+# changelog: /@@/changelog/ 
+# acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
 license: creative-commons   # NEW: delete if not creative-commons
 
 description:  # NEW: add a 150ish-character-description for social media   # translate the description
-image: /content-images/wai-@@repo/social.png  # NEW: image for social media
+# image: /content-images/wai-@@repo/social.png  # NEW: image for social media
 
 # NEW: Footer below has several options, and not all will be relevant for specific pages. (Ask Shawn if questions.)
 
