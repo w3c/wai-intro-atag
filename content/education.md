@@ -4,8 +4,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Accessible Tooling for Education"
-title_html: "Accessible Tooling for Education<br>Get the gist of what your tool needs to support accessible education"
+title: "[Draft] Accessible Tooling for Education"
+title_html: "[Draft] Accessible Tooling for Education<br>Get the gist of what your tool needs to support accessible education"
 nav_title: "Education"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -56,7 +56,7 @@ footer: >
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page helps you realize why Authoring Tool Accessibility Guidelines (ATAG) applies to your authoring tool.
+This page helps you understand how Authoring Tool Accessibility Guidelines (ATAG) applies to authoring tools for education.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -73,48 +73,33 @@ This page helps you realize why Authoring Tool Accessibility Guidelines (ATAG) a
 {% include toc.html type="end" %}
 {:/}
 
-## Introduction
+## Does ATAG really apply to my tool?
 
-"The LMS I use at the university allows me to create materials for my courses, as well as grade assignments from my students."
+"The LMS I use at the university allows me to create materials for my courses, as well as grade assignments from my students. I can use the built-in WYSYWYG editor to create content, and I can preview the results in the tool. This is because the tool meets [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)."
 
-W3C/WAI's Authoring Tool Accessibility Guidelines (ATAG) explains how to:
+W3C WAI's Authoring Tool Accessibility Guidelines (ATAG) explains how to:
 
 * make authoring tools themselves accessible, and
 * support the creation of content that conforms to the Web Content Accessibility Guidelines (WCAG)
 
-For more info, see [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/).
+For more info on ATAG requirements, see [[ATAG at a glance]](/standards-guidelines/atag/glance/).
 
-Ilya is a senior instructor. She is blind, and uses her computer with a screen reader. Authoring tools can help or hinder Ilya  when creating accessible content. For more info on what ATAG contains, see [[ATAG at a glance]](/standards-guidelines/atag/glance)
+Ilya is a senior instructor. She is blind, and uses her computer with a screen reader. By meeting ATAg, you can make the difference for Ilya to be able to create accessible content. For the complete list of ATAG requirements, see [ATAG 2.0 document](https://www.w3.org/tr/atag).
 
-The list below contains some of the ways for you to meet ATAG. This way, Ilya can create accessible training using your tool. For the whole list of requirements under ATAG, see [Authoring Tool Accessibility Guidelines (ATAG) 2.0 document](https://www.w3.org/TR/ATAG/)
+Here are some aspects for you to make sure your tool:
 
----
+* is accessible to authors with disabilities, and
+* can produce accessible content.
 
-## Draft ideas
+## Draft Key Points may Include
 
-### Support Different Ways of Content Presentation
+### Make editors accessible
 
-Some groups of users with disabilities need to customize the font type and/or size. Others may need to tweak  spacing between sections, paragraphs, and words. Ensure your tool enables users to customize font types, sizes, and spacing.
+### Make Previews Accessible
 
-### Support Inclusion and Presentation of Alternatives
+### Support Navigation and Orientation
 
-Some people cannot see images and video well or at all. Others cannot hear audio well or at all. Ensure your tool support content authors to provide the necessary alternatives for images, audio, and video. This alternatives include captions, transcript, description, and sign language interpretation.
+* keyboard
+* headings
 
-### Ability to Define Reading Order
-
-The reading order specifies how content should be read and processed. This may be apparent visually, but it also needs to be communicated to assistive technologies. Ensure your tool supports content authors when specifying the reading order.
-
-### Support for Navigation and Content Identification
-
-Users rely on a variety of methods for navigating and identifying content. These include tables of contents, regions, links, and headings.
-
-Ensure your tool supports content authors to specify these methods. For example, every unit may be presented on a separate page for users to more easily locate it. Different sections within the unit may have accessible headings to facilitate navigation and identification of the different content sections.
-
-### Communicate Students Progress
-
-Ensure students are aware of their progress through the training. This includes information about the current lesson, how many lessons they have completed, and how many lessons remain.
-
-###  Ability to complete quizzes, submit assignments 
-
-Ensure your tool supports students when  submitting quizzes, completing assignments, and any other assessment.
 
