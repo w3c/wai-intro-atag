@@ -75,7 +75,7 @@ This page helps you understand how Authoring Tool Accessibility Guidelines (ATAG
 
 ## Does ATAG really apply to my tool?
 
-"The LMS I use at the university allows me to create materials for my courses, as well as grade assignments from my students. I can use the built-in WYSYWYG editor to create content, and I can preview the results in the tool. This is because the tool meets [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)."
+"The LMS I use at the university allows me to create materials for my courses, as well as grade assignments from my students. I can use the built-in editor to create content, and I can preview the results in the tool. This is because the tool meets [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)."
 
 W3C WAI's Authoring Tool Accessibility Guidelines (ATAG) explains how to:
 
