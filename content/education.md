@@ -29,7 +29,7 @@ permalink: /standards-guidelines/atag/education/   # Add the language shortcode 
   # next: /path/to/next/file/
 # @@SLH To Do: figure out if need to add lang here, too, and if this replaces "order" from older resources?
 
-ref: standards-guidelines/atag/education/   # Translators, do not change this
+ref: /standards-guidelines/atag/education/   # Translators, do not change this
 changelog: /@@/changelog/
 acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
 license: creative-commons   # NEW: delete if not creative-commons
