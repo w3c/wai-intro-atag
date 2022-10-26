@@ -61,55 +61,6 @@ inline_css: |
   .issue {font-weight: bold; display:table-cell; width: 6em;}
   q:before {content: open-quote;color: #005a6a;font-weight: bold;}
   q:after {content: close-quote;color: #005a6a;font-weight: bold;}
-  .sc dt {
-    display: list-item;
-    list-style-type: disc;
-    float: left;
-    font-weight: bold;
-    margin-left: 2em;
-    margin-right: 1ex;
-    margin-top: 0;
-  }
-  .sc dt:after {
-    content: ":";
-  }
-  /* new start */	
-  .sc dl dd {margin: 0 0 0.5em 2em;}
-  .sc dd {margin-left: 0;}
-  .sc dd {display: block;  margin-inline-start: 40px;}
-  /* new end */	
-  .sc p:last-of-type {margin-bottom: 1em}
-  .sc p:last-child, .sc *:last-child {margin-bottom: 0}
-  .sclabel {
-    padding: 0;
-    margin: 0;
-    color: #686868;
-  }
-  div.note, div.ednote, div.warning {
-      margin-top: 1em;
-      margin-bottom: 1em;
-  }
-  .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
-    .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
-  .note, .ednote, .warning {
-      padding: .5em;
-      border-left-width: 1px;
-      border-left-style: solid;
-  }
-  div.note , div.ednote,  div.warning {
-      padding: 1em 1.2em 0.5em;
-      margin: 1em 0;
-      position: relative;
-      clear: both;
-  }
-  span.note, span.ednote, span.warning { padding: .1em .5em .15em; }
-  .note, .ednote {
-      border-color: #52e052;
-  }
-  .note-p {margin-top: 0}
-  #markdown-toc ul li {
-    margin-bottom: 0;
-  }
 
 ---
 
@@ -150,7 +101,7 @@ If you develop or maintain an LMS, you can help your users by making your tool:
 
 ### Make your tool accessible for users with disabilities
 
-<p class="persona">Ilsa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.</p>
+<p class="persona"><span class="issue">Persona:</span> Ilsa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.</p>
 <div class="quotes">
   <ul>
     <li>
@@ -168,7 +119,7 @@ The tool itself should be accessible to instructors who have auditory, cognitive
 
 ### Support alternatives to images and multimedia
 
-<p class="persona">@@ persona intro</p>
+<p class="persona"><span class="issue">Persona:</span> @@ persona intro</p>
 <div class="quotes">
   <ul>
     <li>
@@ -186,7 +137,7 @@ people may not see/hear well or at all. They need alternatives to images and mul
 
 ### Ensure your tool produces accessible content
 
-<p class="persona">@@ persona intro</p>
+<p class="persona"><span class="issue">Persona:</span> @@ persona intro</p>
 <div class="quotes">
   <ul>
     <li>
@@ -209,7 +160,7 @@ Accessible LMS make it easier for content authors to create accessible content.
 
 ### Promote accessibility features
 
-<p class="persona">@@ persona intro</p>
+<p class="persona"><span class="issue">Persona:</span> @@ persona intro</p>
 <div class="quotes">
   <ul>
     <li>
