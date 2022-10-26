@@ -54,31 +54,27 @@ footer: >
 
 ## What do I Need to Know About Accessibility?
 
-"I am a blind professor. I need an accessible LMS tool to create accessible materials for my students."
+> I am a blind professor. I need an accessible LMS tool to create accessible materials for my students.
 
 An LMS allows professors, lecturers, and other instructors to author training materials. If you develop or maintain an LMS, you can make it:
 
 * accessible to authors with disabilities, and
 * capable of producing accessible content.
 
-W3C WAI's Authoring Tool Accessibility Guidelines (ATAG) tell you how to do it. For more info, see : [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)
+W3C WAI's Authoring Tool Accessibility Guidelines (ATAG) tell you how to do it. For more info, see [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)
 
-"With my screen reader, I can use the tool to create accessible resource materials and assignments. I can preview the results all within the tool."
+> With my screen reader, I can use the LMS to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments.
 
-[[Description]]
+The tool itself should be accessible. That means it should comply to Web Content Accessibility Guidelines (WCAG). For more info, see A1 The authoring tool user interface follows applicable accessibility guidelines.
 
-"The tool generates accessible content for my students. When there is an accessibility issue, the tool guides me to fix it."
+> When I need to use images and multimedia content in my courses, the tool suggests to include alternatives, such as description, transcripts, and captions.
 
-[[Description]]
+People may not be able to see and/or hear well or at all. Your tool needs to support inclusion of alternatives to images and multimedia content. For more info, see Assist authors with managing alternative content for non-text content.
 
-"When I need to use images and multimedia content in my courses, the tool suggests to include alternatives, such as description, transcripts, and captions."
+> The tool generates accessible content for my students. When there is an potential accessibility issue, the tool guides me to get it right.
 
-[[Description]]
-
-"The tool enables me to track students progress and assess their knowledge.
-
-[[Description]]
+Your tool needs to be able to generate accessible content. For more info, see B1 Fully automatic processes produce accessible content, and B2 Authors are supported in producing accessible content
 
 ---
 
-For the complete list of ATAG requirements, see [ATAG 2.0 document](https://www.w3.org/tr/atag).
+Here are jusst a few things you can do to help your users who create learning resources. For the complete list of ATAG requirements, see [ATAG 2.0 document](https://www.w3.org/tr/atag).
