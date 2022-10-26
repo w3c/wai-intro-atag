@@ -52,29 +52,42 @@ footer: >
 
 ---
 
-## What do I Need to Know About Accessibility?
+## Why does Accessibility Apply to LMS Developers?
 
-> I am a blind professor. I need an accessible LMS tool to create accessible materials for my students.
+An LMS allows professors, lecturers, and other instructors to author training materials. Authors have responsibility for their content to be accessible. But the tool they use to produce their content can help or hinder their ability to create accessible content.
 
-An LMS allows professors, lecturers, and other instructors to author training materials. If you develop or maintain an LMS, you can make it:
+If you develop or maintain an LMS, you can help your users by making your tool:
 
 * accessible to authors with disabilities, and
 * capable of producing accessible content.
 
-W3C WAI's Authoring Tool Accessibility Guidelines (ATAG) tell you how to do it. For more info, see [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)
+## Make your Tool Accessible
 
-> With my screen reader, I can use the LMS to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments.
+> I am a blind instructor. With my screen reader, I can use the LMS to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. The tool works well with my screen reader
 
-The tool itself should be accessible. That means it should comply to Web Content Accessibility Guidelines (WCAG). For more info, see A1 The authoring tool user interface follows applicable accessibility guidelines.
+The tool itself should be accessible. That means people with disabilities should be able to use it, just like people without disabilities do.
 
-> When I need to use images and multimedia content in my courses, the tool suggests to include alternatives, such as description, transcripts, and captions.
+## Support Alternatives to Images and Multimedia
 
-People may not be able to see and/or hear well or at all. Your tool needs to support inclusion of alternatives to images and multimedia content. For more info, see Assist authors with managing alternative content for non-text content.
+> I am a professor who uses screen magnifier software. When I need to use images and multimedia content in my courses, the LMS suggests the inclusion of alternatives, such as description, transcripts, and captions.
 
-> The tool generates accessible content for my students. When there is a potential accessibility issue, the tool guides me to get it right.
+people may not see/hear well or at all. They need alternatives to images and multimedia content. Such alternatives include description, captions, and transcripts. When your tool supports the inclusion of such alternatives, it helps content authors make multimedia content accessible.
 
-Your tool needs to be able to generate accessible content. For more info, see B1 Fully automatic processes produce accessible content, and B2 Authors are supported in producing accessible content
+## Ensure your Tool can Produce Accessible Content
 
----
+> I am a lecturer with autism. I use a tool that generates accessible content for my students. When there is a potential accessibility issue, the tool guides me to get it right.
 
-Here are jusst a few things you can do to help your users who create learning resources. For the complete list of ATAG requirements, see [ATAG 2.0 document](https://www.w3.org/tr/atag).
+Your tool needs to be able to produce accessible content. This includes:
+
+* ensuring any automatically-generated content is accessible
+* helping authors fix potential accessibility issues.
+
+Accessible LMS make it easier for content authors to create accessible content.
+
+## Meet ATAG
+
+Here are just a few things you can do to help your users to create accessible learning resources. If you want to learn more, visit:
+
+* [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/) &mdash; introduces the Authoring Tool Accessibility Guidelines (ATAG) web standard.
+* [[ATAG at a Glance]](/standards-guidelines/atag/glance/) &mdash; Provides a paraphrased summary of Authoring Tool Accessibility Guidelines (ATAG) 2.0. 
+* [ATAG 2.0 document](https://www.w3.org/tr/atag) &mdash; provides guidelines for designing web content authoring tools that are both more accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors.
