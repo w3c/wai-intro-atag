@@ -58,9 +58,8 @@ A Learning Management System (LMS) allows professors, lecturers, and other instr
 
 If you develop or maintain an LMS, you can help your users by making your tool:
 
-* work well for people with disabilities
-* support the creation of accessible content
-* 
+* accessible to authors with disabilities, and
+* capable of producing accessible content.
 
 ## Make your Tool Accessible
 
@@ -95,8 +94,8 @@ Promote the accessibility features of your tool. For example, you can document h
 
 By meeting ATAG, you'll make your tool:
 
-* accessible to authors with disabilities, and
-* capable of producing accessible content.
+* work well for people with disabilities
+* support the creation of accessible content
 
 To learn more, visit:
 
