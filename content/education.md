@@ -63,7 +63,7 @@ If you develop or maintain an LMS, you can help your users by making your tool:
 
 ## Make your Tool Accessible
 
-> I am a blind instructor. With my screen reader, I can use the LMS to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. The tool works well with my screen reader
+> I am a blind instructor. With my screen reader, I can use the LMS to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. The tool works well with my screen reader.
 
 The tool itself should be accessible. That means people with disabilities should be able to use it, just like people without disabilities do.
 
@@ -71,11 +71,11 @@ The tool itself should be accessible. That means people with disabilities should
 
 > I am a professor who uses screen magnifier software. When I need to use images and multimedia content in my courses, the LMS suggests the inclusion of alternatives, such as description, transcripts, and captions.
 
-people may not see/hear well or at all. They need alternatives to images and multimedia content. Such alternatives include description, captions, and transcripts. When your tool supports the inclusion of such alternatives, it helps content authors make multimedia content accessible.
+people may not see/hear well or at all. They need alternatives to images and multimedia content, such as description, captions, and transcripts. When your tool supports the inclusion of these alternatives, it helps authors make multimedia content more accessible.
 
 ## Ensure your Tool can Produce Accessible Content
 
-> I am a lecturer with autism. I use a tool that generates accessible content for my students. When there is a potential accessibility issue, the tool guides me to get it right.
+> I am a lecturer with autism. I use a tool that generates accessible content for my students. When there is a potential accessibility issue, the tool guides me to fix it.
 
 Your tool needs to be able to produce accessible content. This includes:
 
@@ -84,9 +84,15 @@ Your tool needs to be able to produce accessible content. This includes:
 
 Accessible LMS make it easier for content authors to create accessible content.
 
+## Promote Accessibility Features
+
+> I am an trainer. I have been asked to create an accessible course, but I am new to accessibility. Fortunately, the tool is very well documented for accessibility and I have been able to get started very easily.
+
+Promote the accessibility features of your tool. For example, you can document how to produce accessible content. When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as it encourages authors to create accessible content.
+
 ## Meet ATAG
 
-Here are just a few things you can do to help your users to create accessible learning resources. If you want to learn more, visit:
+Here are just a few things you can do to help your users to create accessible learning resources. If you want to learn more about how to meet ATAG, visit:
 
 * [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/) &mdash; introduces the Authoring Tool Accessibility Guidelines (ATAG) web standard.
 * [[ATAG at a Glance]](/standards-guidelines/atag/glance/) &mdash; Provides a paraphrased summary of Authoring Tool Accessibility Guidelines (ATAG) 2.0. 
