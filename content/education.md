@@ -54,7 +54,7 @@ footer: >
 
 ## Why does Accessibility Apply to LMS Developers?
 
-An Learning Management System (LMS) allows professors, lecturers, and other instructors to author training materials. Authors have responsibility for their content to be accessible. But the tool they use to produce their content can help or hinder their ability to create accessible content.
+A Learning Management System (LMS) allows professors, lecturers, and other instructors to author training materials. Authors have responsibility for their content to be accessible. But the tool they use to produce their content can help or hinder their ability to create accessible content.
 
 If you develop or maintain an LMS, you can help your users by making your tool:
 
