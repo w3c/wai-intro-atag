@@ -52,54 +52,33 @@ footer: >
 
 ---
 
-{::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
-{:/}
+## What do I Need to Know About Accessibility?
 
-This page helps you understand how Authoring Tool Accessibility Guidelines (ATAG) applies to authoring tools for education.
+"I am a blind professor. I need an accessible LMS tool to create accessible materials for my students."
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+An LMS allows professors, lecturers, and other instructors to author training materials. If you develop or maintain an LMS, you can make it:
 
-{::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
-{:/}
+* accessible to authors with disabilities, and
+* capable of producing accessible content.
 
-- This will be replaced by an automatically generated TOC when using Markdown formatting.
-{:toc}
+W3C WAI's Authoring Tool Accessibility Guidelines (ATAG) tell you how to do it. For more info on ATAG requirements, see : [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)
 
-{::nomarkdown}
-{% include toc.html type="end" %}
-{:/}
+"With my screen reader, I can use the tool to create accessible resource materials and assignments. I can preview the results all within the tool."
 
-## Does ATAG really apply to my tool?
+[[Description]]
 
-"The LMS I use at the university allows me to create materials for my courses, as well as grade assignments from my students. I can use the built-in editor to create content, and I can preview the results in the tool. This is because the tool meets [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)."
+"The tool generates accessible content for my students. When there is an accessibility issue, the tool guides me to fix it."
 
-W3C WAI's Authoring Tool Accessibility Guidelines (ATAG) explains how to:
+[[Description]]
 
-* make authoring tools themselves accessible, and
-* support the creation of content that conforms to the Web Content Accessibility Guidelines (WCAG)
+"When I need to use images and multimedia content in my courses, the tool suggests to include alternatives, such as description, transcripts, and captions."
 
-For more info on ATAG requirements, see [[ATAG at a glance]](/standards-guidelines/atag/glance/).
+[[Description]]
 
-Ilya is a senior instructor. She is blind, and uses her computer with a screen reader. By meeting ATAg, you can make the difference for Ilya to be able to create accessible content. For the complete list of ATAG requirements, see [ATAG 2.0 document](https://www.w3.org/tr/atag).
+"The tool enables me to track students progress and assess their knowledge.
 
-Here are some aspects for you to make sure your tool:
+[[Description]]
 
-* is accessible to authors with disabilities, and
-* can produce accessible content.
+---
 
-## Draft Key Points may Include
-
-### Make editors accessible
-
-### Make Previews Accessible
-
-### Support Navigation and Orientation
-
-* keyboard
-* headings
-
-
+For the complete list of ATAG requirements, see [ATAG 2.0 document](https://www.w3.org/tr/atag).
