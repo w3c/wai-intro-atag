@@ -58,7 +58,7 @@ A Learning Management System (LMS) allows professors, lecturers, and other instr
 
 If you develop or maintain an LMS, you can help your users by making your tool:
 
-* work well for people with diabilities
+* work well for people with disabilities
 * support the creation of accessible content
 * 
 
