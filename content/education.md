@@ -4,8 +4,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "[Draft] Accessible Tooling for Education"
-title_html: "[Draft] Accessible Tooling for Education<br>Get the gist of what your tool needs to support accessible education"
+title: "[Draft] Education"
+# title_html: "[Draft] Accessible Tooling for Education<br>Get the gist of what your tool needs to support accessible education"
 nav_title: "Education"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -61,7 +61,7 @@ An LMS allows professors, lecturers, and other instructors to author training ma
 * accessible to authors with disabilities, and
 * capable of producing accessible content.
 
-W3C WAI's Authoring Tool Accessibility Guidelines (ATAG) tell you how to do it. For more info on ATAG requirements, see : [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)
+W3C WAI's Authoring Tool Accessibility Guidelines (ATAG) tell you how to do it. For more info, see : [[Authoring Tool Accessibility Guidelines (ATAG) Overview]](/standards-guidelines/atag/)
 
 "With my screen reader, I can use the tool to create accessible resource materials and assignments. I can preview the results all within the tool."
 
