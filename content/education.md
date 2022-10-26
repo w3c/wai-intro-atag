@@ -70,7 +70,7 @@ inline_css: |
 
 This page introduces a standard to help you make your learning management system (LMS) and other authoring tools for instructors accessible to people with disabilites.
 
-It includes quotes from personas (fictional people) to help you understand some aspects of accessibility for your tools.
+It includes quotes from personas (fictional users of your tool) to help you understand some aspects of accessibility for your tools.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -101,7 +101,7 @@ If you develop or maintain an LMS, you can help your users by making your tool:
 
 ### Make your tool accessible for users with disabilities
 
-<p class="persona"><span class="issue">Persona:</span> Ilsa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.</p>
+<p class="persona"><strong>Persona:</strong> Ilsa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.</p>
 <div class="quotes">
   <ul>
     <li>
@@ -119,7 +119,7 @@ The tool itself should be accessible to instructors who have auditory, cognitive
 
 ### Support alternatives to images and multimedia
 
-<p class="persona"><span class="issue">Persona:</span> @@ persona intro</p>
+<p class="persona"><strong>Persona:</strong> @@ persona intro</p>
 <div class="quotes">
   <ul>
     <li>
@@ -137,7 +137,7 @@ people may not see/hear well or at all. They need alternatives to images and mul
 
 ### Ensure your tool produces accessible content
 
-<p class="persona"><span class="issue">Persona:</span> @@ persona intro</p>
+<p class="persona"><strong>Persona:</strong> @@ persona intro</p>
 <div class="quotes">
   <ul>
     <li>
@@ -160,7 +160,7 @@ Accessible LMS make it easier for content authors to create accessible content.
 
 ### Promote accessibility features
 
-<p class="persona"><span class="issue">Persona:</span> @@ persona intro</p>
+<p class="persona"><strong>Persona:</strong> @@ persona intro</p>
 <div class="quotes">
   <ul>
     <li>
