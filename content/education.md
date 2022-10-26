@@ -71,7 +71,7 @@ The tool itself should be accessible. That means it should comply to Web Content
 
 People may not be able to see and/or hear well or at all. Your tool needs to support inclusion of alternatives to images and multimedia content. For more info, see Assist authors with managing alternative content for non-text content.
 
-> The tool generates accessible content for my students. When there is an potential accessibility issue, the tool guides me to get it right.
+> The tool generates accessible content for my students. When there is a potential accessibility issue, the tool guides me to get it right.
 
 Your tool needs to be able to generate accessible content. For more info, see B1 Fully automatic processes produce accessible content, and B2 Authors are supported in producing accessible content
 
