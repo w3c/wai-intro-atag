@@ -101,20 +101,14 @@ If you develop or maintain an LMS, you can help your users by making your tool:
 
 ### Make your Tool Accessible for Users with Disabilities
 
-<p class="persona"><strong>Persona:</strong>
-  Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
-</p>
+<p class="persona"><strong>Persona: </strong>Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>
-        Some LMSs don't enable me to create accessible materials. Their built-in editor does not work with my screen reader. I cannot preview the contents within the tool.
-      </q></span></p>
+      <p><span class="issue">Problem: </span><span><q>Some LMSs don't enable me to create accessible materials. Their built-in editor does not work with my screen reader. I cannot preview the contents within the tool.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>
-        Other LMSs enable me to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. The tool works well with my screen reader.
-      </q></span></p>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs enable me to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. The tool works well with my screen reader.</q></span></p>
     </li>
   </ul>
 </div>
@@ -123,20 +117,14 @@ The tool itself should be accessible to instructors who have auditory, cognitive
 
 ### Support Alternatives to Images and Multimedia
 
-<p class="persona"><strong>Persona:</strong>
-  John is a high school history teacher. He has low vision and uses screen magnifier software.
-</p>
+<p class="persona"><strong>Persona: </strong>John is a high school history teacher. He has low vision and uses screen magnifier software.</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>
-        Some LMSs don't support the inclusion of alternatives to images and multimedia. I have a hard time when I need to include them. I need third-party software to make them available for my students.
-      </q></span></p>
+      <p><span class="issue">Problem: </span><span><q>Some LMSs don't support the inclusion of alternatives to images and multimedia. I have a hard time when I need to include them. I need third-party software to make them available for my students.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>
-        Other LMSs suggest the inclusion of alternatives, such as description, transcripts, and captions, for the images and multimedia content that I use in  my courses
-      </q></span></p>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs suggest the inclusion of alternatives, such as description, transcripts, and captions, for the images and multimedia content that I use in my courses</q></span></p>
     </li>
   </ul>
 </div>
@@ -145,20 +133,15 @@ people may not see/hear well or at all. They need alternatives to images and mul
 
 ### Ensure your Tool Produces Accessible Content
 
-<p class="persona"><strong>Persona:</strong>
-  Ivan is a linguistics lecturer with autism.
+<p class="persona"><strong>Persona: </strong>Ivan is a linguistics lecturer with autism.
 </p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>
-        Some LMSs don't guide me to fix existing accessibility issues of my courses. It is very difficult to fix these problems when I use them.
-      </q></span></p>
+      <p><span class="issue">Problem: </span><span><q>Some LMSs don't guide me to fix existing accessibility issues of my courses. It is very difficult to fix these problems when I use them.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>
-        Other LMSs guide me to fix potential accessibility issues. Creating accessible content is much easier when I use one of those.
-      </q></span></p>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs guide me to fix potential accessibility issues. Creating accessible content is much easier when I use one of those.</q></span></p>
     </li>
   </ul>
 </div>
@@ -172,20 +155,14 @@ Accessible LMS make it easier for content authors to create accessible content.
 
 ### Promote accessibility features
 
-<p class="persona"><strong>Persona:</strong>
-  Jenny is an online English teacher with attention deficit. She is new to accessibility.
-</p>
+<p class="persona"><strong>Persona: </strong>Jenny is an online English teacher with attention deficit. She is new to accessibility.</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>
-        Some LMSs don't document their accessibility features. It is hard to pick one or the other when I need to deliver accessible materials.
-      </q></span></p>
+      <p><span class="issue">Problem: </span><span><q>Some LMSs don't document their accessibility features. It is hard to pick one or the other when I need to deliver accessible materials.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>
-        Other LMSs are very well documented for accessibility. I have been able to get started very easily.
-      </q></span></p>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs are very well documented for accessibility. I have been able to get started very easily.</q></span></p>
     </li>
   </ul>
 </div>
