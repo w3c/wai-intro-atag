@@ -174,9 +174,11 @@ Promote the accessibility features of your tool. For example, you can document h
 There is an international standard to help you meet accessibility user needs for learning management systems (LMS) and other authoring tools: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
 ATAG covers the above examples:
-* @@wording from above &mdash; @@wording from ATAG
-* @@wording from above &mdash; @@wording from ATAG
-* ...
+
+* Make your Tool Accessible for Users with Disabilities &mdash; Make the authoring tool user interface accessible
+* Support alternatives to images and multimedia &mdash; Assist authors with managing alternative content for non-text content
+* Ensure your tool produces accessible content &mdash; Authors are supported in producing accessible content
+* Promote accessibility features &mdash; Authoring tools promote and integrate their accessibility features
 
 Use ATAG to make your tool:
 
