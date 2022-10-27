@@ -68,7 +68,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your learning management system (LMS) and other authoring tools for instructors accessible to people with disabilites.
+This page introduces a standard to help you make your learning management system (LMS) and other authoring tools for instructors accessible to people with disabilities.
 
 It includes quotes from personas (fictional users of your tool) to help you understand some aspects of accessibility for your tools.
 
@@ -99,57 +99,69 @@ If you develop or maintain an LMS, you can help your users by making your tool:
 
 ## Examples
 
-### Make your tool accessible for users with disabilities
+### Make your Tool Accessible for Users with Disabilities
 
-<p class="persona"><strong>Persona:</strong> Ilsa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.</p>
+<p class="persona"><strong>Persona:</strong>
+  Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
+</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>Some LMSs don't... </q></span></p>
+      <p><span class="issue">Problem:</span><span><q>
+        Some LMSs don't enable me to create accessible materials. Their built-in editor does not work with my screen reader. I cannot preview the contents within the tool.
+      </q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>Other LMSs ...</q></span></p>
+      <p><span class="issue">Works well:</span><span><q>
+        Other LMSs enable me to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. The tool works well with my screen reader.
+      </q></span></p>
     </li>
   </ul>
 </div>
 
-@@previous draft: I am a blind instructor. With my screen reader, I can use the LMS to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. The tool works well with my screen reader.
+The tool itself should be accessible to instructors who have auditory, cognitive, neurological, physical, speech, and visual disabilities. Users with disabilities need to be able to use your tool to do everything that users without disabilities do.
 
-The tool itself should be accessible to instructors who have auditory, cognitive, neurological, physical, speech, and visual disabilies. Users with disabilities needs to be able to use your tool to do everyting that users without disabilities do.
+### Support Alternatives to Images and Multimedia
 
-### Support alternatives to images and multimedia
-
-<p class="persona"><strong>Persona:</strong> @@ persona intro</p>
+<p class="persona"><strong>Persona:</strong>
+  John is a high school history teacher. He has low vision and uses screen magnifier software.
+</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>Some LMSs don't... </q></span></p>
+      <p><span class="issue">Problem:</span><span><q>
+        Some LMSs don't support the inclusion of alternatives to images and multimedia. I have a hard time when I need to include them. I need third-party software to make them available for my students.
+      </q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>Other LMSs ...</q></span></p>
+      <p><span class="issue">Works well:</span><span><q>
+        Other LMSs suggest the inclusion of alternatives, such as description, transcripts, and captions, for the images and multimedia content that I use in  my courses
+      </q></span></p>
     </li>
   </ul>
 </div>
-
-@@previous draft: I am a professor who uses screen magnifier software. When I need to use images and multimedia content in my courses, the LMS suggests the inclusion of alternatives, such as description, transcripts, and captions.
 
 people may not see/hear well or at all. They need alternatives to images and multimedia content, such as description, captions, and transcripts. When your tool supports the inclusion of these alternatives, it helps authors make multimedia content more accessible.
 
-### Ensure your tool produces accessible content
+### Ensure your Tool Produces Accessible Content
 
-<p class="persona"><strong>Persona:</strong> @@ persona intro</p>
+<p class="persona"><strong>Persona:</strong>
+  Ivan is a linguistics lecturer with autism.
+</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>Some LMSs don't... </q></span></p>
+      <p><span class="issue">Problem:</span><span><q>
+        Some LMSs don't guide me to fix existing accessibility issues of my courses. It is very difficult to fix these problems when I use them.
+      </q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>Other LMSs ...</q></span></p>
+      <p><span class="issue">Works well:</span><span><q>
+        Other LMSs guide me to fix potential accessibility issues. Creating accessible content is much easier when I use one of those.
+      </q></span></p>
     </li>
   </ul>
 </div>
-
-@@previous draft: I am a lecturer with autism. I use a tool that generates accessible content for my students. When there is a potential accessibility issue, the tool guides me to fix it.
 
 Your tool needs to be able to produce accessible content. This includes:
 
@@ -160,25 +172,29 @@ Accessible LMS make it easier for content authors to create accessible content.
 
 ### Promote accessibility features
 
-<p class="persona"><strong>Persona:</strong> @@ persona intro</p>
+<p class="persona"><strong>Persona:</strong>
+  Jenny is an online English teacher with attention deficit. She is new to accessibility.
+</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>Some LMSs don't... </q></span></p>
+      <p><span class="issue">Problem:</span><span><q>
+        Some LMSs don't document their accessibility features. It is hard to pick one or the other when I need to deliver accessible materials.
+      </q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>Other LMSs ...</q></span></p>
+      <p><span class="issue">Works well:</span><span><q>
+        Other LMSs are very well documented for accessibility. I have been able to get started very easily.
+      </q></span></p>
     </li>
   </ul>
 </div>
-
-@@previous draft: I am an trainer. I have been asked to create an accessible course, but I am new to accessibility. Fortunately, the tool is very well documented for accessibility and I have been able to get started very easily.
 
 Promote the accessibility features of your tool. For example, you can document how to produce accessible content. When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as it encourages authors to create accessible content.
 
 ## Accessibility standard for LMSs and other authoring tools
 
-There is an international standards to help you meet accessibility user needs for learning management systsmes (LMS) and other authoring tools: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Iniative ([WAI](@@link)).
+There is an international standard to help you meet accessibility user needs for learning management systems (LMS) and other authoring tools: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
 ATAG covers the above examples:
 * @@wording from above &mdash; @@wording from ATAG
@@ -192,7 +208,7 @@ Use ATAG to make your tool:
 
 Learn more from:
 
-* [[ATAG Overview]](/standards-guidelines/atag/)
-* [[ATAG at a Glance]](/standards-guidelines/atag/glance/) is a paraphrased summary
-* [ATAG 2.0 standard](https://www.w3.org/tr/atag) is the standard itself
-* @@ implementing
+* [[ATAG Overview]](/standards-guidelines/atag/) &mdash; Introduces the standard
+* [[ATAG at a Glance]](/standards-guidelines/atag/glance/) &mdash; Is a paraphrased summary
+* [ATAG 2.0 standard](https://www.w3.org/tr/atag) &mdash; Is the standard itself
+* [Implementing ATAG 2.0 document=(https://www.w3.org/TR/IMPLEMENTING-ATAG20/) &mdash; Provides guidance on how to implement ATAG]
