@@ -68,9 +68,9 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your learning management system (LMS) and other authoring tools for instructors accessible to people with disabilities.
+This page introduces a standard to help you make your learning management system (LMS) and other authoring tools accessible to people with disabilities.
 
-It includes quotes from personas (fictional users of your tool) to help you understand some aspects of accessibility for your tools.
+It includes quotes from personas (fictional users) to help you understand some aspects of accessibility for your tools.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -88,16 +88,15 @@ It includes quotes from personas (fictional users of your tool) to help you unde
 {% include toc.html type="end" %}
 {:/}
 
-## Introduction [Why does Accessibility Apply to LMS Developers?]
+## Why Accessibility Matters
 
-Learning management systems (LMS) allow professors, lecturers, and other instructors to develop training materials. They have responsibility for their content to be accessible. The tool they use to produce their content can help or hinder their ability to create accessible content.
+Your current customers and potential new customers need learning management systems (LMS) that:
+* are accessible to instrictors with disabiliies
+* produce accessible content for students
 
-If you develop or maintain an LMS, you can help your users by making your tool:
+In many situations, accessibility is required by law.
 
-* accessible to authors with disabilities, and
-* capable of producing accessible content.
-
-## Examples
+## Examples _(@@ examples below to be revised based on EOWG input... hopefully by Jade :-)_
 
 ### Make your Tool Accessible for Users with Disabilities
 
@@ -169,25 +168,24 @@ Accessible LMS make it easier for content authors to create accessible content.
 
 Promote the accessibility features of your tool. For example, you can document how to produce accessible content. When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as it encourages authors to create accessible content.
 
-## Accessibility standard for LMSs and other authoring tools
+## The Accessibility Standard to Help You
 
-There is an international standard to help you meet accessibility user needs for learning management systems (LMS) and other authoring tools: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
+Your learning management system (LMS) is an 'authoring tool'.
 
-ATAG covers the above examples:
+There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
+Use ATAG to help make your tool:
+* accessible to instructors with disabilities [Part A]
+* support accessible content for students [Part B]
+
+For example, ATAG covers the above examples:
+* @@ revised wording of examples above &mdash; @@ wording from ATAG at a Glance [@@B3]
 * Make your Tool Accessible for Users with Disabilities &mdash; Make the authoring tool user interface accessible
 * Support alternatives to images and multimedia &mdash; Assist authors with managing alternative content for non-text content
 * Ensure your tool produces accessible content &mdash; Authors are supported in producing accessible content
 * Promote accessibility features &mdash; Authoring tools promote and integrate their accessibility features
 
-Use ATAG to make your tool:
+To get started putting ATAG to work for you, see:
+* [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and implementing ATAG
+* [[ATAG at a Glance]](/standards-guidelines/atag/glance/), a paraphrased summary to give you an idea of what's covered in ATAG
 
-* work well for people with disabilities
-* support the creation of accessible content
-
-Learn more from:
-
-* [[ATAG Overview]](/standards-guidelines/atag/) &mdash; Introduces the standard
-* [[ATAG at a Glance]](/standards-guidelines/atag/glance/) &mdash; Is a paraphrased summary
-* [ATAG 2.0 standard](https://www.w3.org/tr/atag) &mdash; Is the standard itself
-* [Implementing ATAG 2.0 document=(https://www.w3.org/TR/IMPLEMENTING-ATAG20/) &mdash; Provides guidance on how to implement ATAG]
