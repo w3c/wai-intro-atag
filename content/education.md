@@ -68,7 +68,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your learning management system (LMS) and other authoring tools for instructors accessible to people with disabilities.
+BETTER INTRO -- This page introduces a standard to help you make your learning management system (LMS) and other authoring tools for instructors accessible to people with disabilities.
 
 It includes quotes from personas (fictional users of your tool) to help you understand some aspects of accessibility for your tools.
 
