@@ -68,9 +68,9 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your learning management system (LMS) and other authoring tools accessible to people with disabilities.
+This page introduces a standard to help you make your learning management system (LMS) and other authoring tools accessible to people with disabilities. This includes students and end users, and also accessibility for educators, and course administrators.
 
-It includes quotes from personas (fictional users) to help you understand some aspects of accessibility for your tools.
+It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -100,47 +100,47 @@ In many situations, accessibility is required by law.
 
 ### Make your Tool Accessible for Users with Disabilities
 
-<p class="persona"><strong>Persona: </strong>Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.</p>
+<p class="persona"><strong>Persona: </strong>Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads the information on her screen aloud.</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>Some LMSs don't enable me to create accessible materials. Their built-in editor does not work with my screen reader. I cannot preview the contents within the tool.</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>I need to create accessible materials for my students and to do this, the tool needs to be accessible to me too. Some LMSs don't work very well or at all with my screen reader. For example, if I can't use a built-in editor, I can't preview or upload content within the tool.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs enable me to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. The tool works well with my screen reader.</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs enable me to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments because the tool is designed to work well with my screen reader.</q></span></p>
     </li>
   </ul>
 </div>
 
 The tool itself should be accessible to instructors who have auditory, cognitive, neurological, physical, speech, and visual disabilities. Users with disabilities need to be able to use your tool to do everything that users without disabilities do.
 
-### Support Alternatives to Images and Multimedia
+### Enhance navigation and editing via content structure/Provide text search of the content (this title needs editing)
 
-<p class="persona"><strong>Persona: </strong>John is a high school history teacher. He has low vision and uses screen magnifier software.</p>
+<p class="persona"><strong>Persona: </strong>John is a high school administrator. He uses speech recognition software and uses his voice to navigate through systems and websites.</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>Some LMSs don't support the inclusion of alternatives to images and multimedia. I have a hard time when I need to include them. I need third-party software to make them available for my students.</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>I need to be able to search courses and attendance lists quickly if I have course administration to complete. Some LMSs don't support assistive technology users, so I have a hard time using them. I sometimes need to use third-party software for certain areas of work which aren't accessible to me on the LMS.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs suggest the inclusion of alternatives, such as description, transcripts, and captions, for the images and multimedia content that I use in my courses</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs are set up correctly with clearly structured content which I can search through easily to find the information I need.</q></span></p>
     </li>
   </ul>
 </div>
 
-people may not see/hear well or at all. They need alternatives to images and multimedia content, such as description, captions, and transcripts. When your tool supports the inclusion of these alternatives, it helps authors make multimedia content more accessible.
+Users have different ways of interacting with websites, systems, and digital content and might use a range of assistive technology. When your tool supports this and is set up correctly, it enables all users to interact with your LMS successfully, not just students or end users. 
 
-### Ensure your Tool Produces Accessible Content
+### Authors are supported in improving the accessibility of existing content (this title needs editing)
 
-<p class="persona"><strong>Persona: </strong>Ivan is a linguistics lecturer with autism.
+<p class="persona"><strong>Persona: </strong>Ivan is a learning/instructional designer at an online university.
 </p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>Some LMSs don't guide me to fix existing accessibility issues of my courses. It is very difficult to fix these problems when I use them.</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>Some LMSs don't show me where there are existing accessibility issues in our courses or guide me so I can fix them quickly and easily and put an effective process in place</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs guide me to fix potential accessibility issues. Creating accessible content is much easier when I use one of those.</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs guide me to fix potential accessibility issues by automatically flagging them before they're live. Creating accessible content is much easier when it's indicated like this.</q></span></p>
     </li>
   </ul>
 </div>
@@ -150,23 +150,23 @@ Your tool needs to be able to produce accessible content. This includes:
 * ensuring any automatically-generated content is accessible
 * helping authors fix potential accessibility issues.
 
-Accessible LMS make it easier for content authors to create accessible content.
+Accessible LMS make it easier for learning/instructional designers to create accessible content.
 
 ### Promote accessibility features
 
-<p class="persona"><strong>Persona: </strong>Jenny is an online English teacher with attention deficit. She is new to accessibility.</p>
+<p class="persona"><strong>Persona: </strong>Jenny is the director of a language school and looks after a number of instructors who teach online. She is new to accessibility.</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>Some LMSs don't document their accessibility features. It is hard to pick one or the other when I need to deliver accessible materials.</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>Some LMSs don't document their accessibility features. It is hard to see and understand where teachers can make their content accessible easily, and also monitor which teachers are producing accessible materials for students.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs are very well documented for accessibility. I have been able to get started very easily.</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs are very well documented for accessibility. I have been able to get started very easily and pick up what to do quite quickly. This is useful so we can demonstrate that our courses at the school are accessible.</q></span></p>
     </li>
   </ul>
 </div>
 
-Promote the accessibility features of your tool. For example, you can document how to produce accessible content. When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as it encourages authors to create accessible content.
+Promote the accessibility features of your tool. For example, you can document how to produce accessible content. When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as encouraging authors to create accessible content.
 
 ## The Accessibility Standard to Help You
 
@@ -175,7 +175,7 @@ Your learning management system (LMS) is an 'authoring tool'.
 There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
 Use ATAG to help make your tool:
-* accessible to instructors with disabilities [Part A]
+* accessible to educators and course administrators with disabilities [Part A]
 * support accessible content for students [Part B]
 
 For example, ATAG covers the above examples:
