@@ -131,20 +131,6 @@ The tool itself should be accessible to instructors who have auditory, cognitive
 
 people may not see/hear well or at all. They need alternatives to images and multimedia content, such as description, captions, and transcripts. When your tool supports the inclusion of these alternatives, it helps authors make multimedia content more accessible.
 
-### Ensure your Tool Produces Accessible Content
-
-<p class="persona"><strong>Persona: </strong>Ivan is a linguistics lecturer.</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem: </span><span><q>Some LMSs don't guide me to fix existing accessibility issues of my courses. It is very difficult to fix these problems when I use them.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs guide me to fix potential accessibility issues. Creating accessible content is much easier when I use one of those.</q></span></p>
-    </li>
-  </ul>
-</div>
-
 ### Promote accessibility features and help fix accessibility issues
 
 <p class="persona"><strong>Persona: </strong>Jenny is an online English teacher. She needs to deliver accessible teaching for students with disabilities, but she is new to accessibility herself.</p>
