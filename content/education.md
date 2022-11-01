@@ -154,7 +154,7 @@ When your tool actively promotes the creation of accessible content, it helps th
 
 ## The Accessibility Standard to Help You
 
-Your learning management system (LMS) is an 'authoring tool'.
+Your learning management system (LMS) can enables users to author accessible educational materials.
 
 There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
@@ -163,7 +163,6 @@ Use ATAG to help make your tool:
 * support accessible content for students [Part B]
 
 For example, ATAG covers the above examples:
-
 
 * Make your Tool Accessible for Users with Disabilities &mdash; "Editing views are perceivable" and "Editing views are operable"
 * Support alternatives to images and multimedia &mdash; "Authors are supported in producing accessible content"
