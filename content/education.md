@@ -68,7 +68,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your learning management system (LMS) and other authoring tools accessible to people with disabilities.
+This page introduces a standard to help you make your learning management system (LMS) and other education  tools accessible to people with disabilities.
 
 It includes quotes from personas (fictional users) to help you understand some aspects of accessibility for your tools.
 
@@ -91,7 +91,8 @@ It includes quotes from personas (fictional users) to help you understand some a
 ## Why Accessibility Matters
 
 Your current customers and potential new customers need learning management systems (LMS) that:
-* are accessible to instrictors with disabiliies
+
+* are accessible to instructors with disabilities
 * produce accessible content for students
 
 In many situations, accessibility is required by law.
@@ -107,7 +108,7 @@ In many situations, accessibility is required by law.
       <p><span class="issue">Problem: </span><span><q>Some LMSs don't enable me to create accessible materials. Their built-in editor does not work with my screen reader. I cannot preview the contents within the tool.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs enable me to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. The tool works well with my screen reader.</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs enable me to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. These work well with my screen reader.</q></span></p>
     </li>
   </ul>
 </div>
@@ -132,8 +133,7 @@ people may not see/hear well or at all. They need alternatives to images and mul
 
 ### Ensure your Tool Produces Accessible Content
 
-<p class="persona"><strong>Persona: </strong>Ivan is a linguistics lecturer with autism.
-</p>
+<p class="persona"><strong>Persona: </strong>Ivan is a linguistics lecturer.</p>
 <div class="quotes">
   <ul>
     <li>
@@ -145,28 +145,26 @@ people may not see/hear well or at all. They need alternatives to images and mul
   </ul>
 </div>
 
+### Promote accessibility features and help fix accessibility issues
+
+<p class="persona"><strong>Persona: </strong>Jenny is an online English teacher. She needs to deliver accessible teaching for students with disabilities, but she is new to accessibility herself.</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem: </span><span><q>Some LMSs do not make it easy to create accessible content. They do not document their accessibility features. It is hard to check my content for accessibility issues.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well: </span><span><q>Other LMSs tell me how to create accessible content. They document their accessibility features and guide me when I need to correct existing accessibility issues.</q></span></p>
+    </li>
+  </ul>
+</div>
+
 Your tool needs to be able to produce accessible content. This includes:
 
 * ensuring any automatically-generated content is accessible
 * helping authors fix potential accessibility issues.
 
-Accessible LMS make it easier for content authors to create accessible content.
-
-### Promote accessibility features
-
-<p class="persona"><strong>Persona: </strong>Jenny is an online English teacher with attention deficit. She is new to accessibility.</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem: </span><span><q>Some LMSs don't document their accessibility features. It is hard to pick one or the other when I need to deliver accessible materials.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs are very well documented for accessibility. I have been able to get started very easily.</q></span></p>
-    </li>
-  </ul>
-</div>
-
-Promote the accessibility features of your tool. For example, you can document how to produce accessible content. When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as it encourages authors to create accessible content.
+When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as it encourages users  to create accessible content.
 
 ## The Accessibility Standard to Help You
 
