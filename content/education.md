@@ -163,11 +163,11 @@ Use ATAG to help make your tool:
 * support accessible content for students [Part B]
 
 For example, ATAG covers the above examples:
-* @@ revised wording of examples above &mdash; @@ wording from ATAG at a Glance [@@B3]
-* Make your Tool Accessible for Users with Disabilities &mdash; Make the authoring tool user interface accessible
-* Support alternatives to images and multimedia &mdash; Assist authors with managing alternative content for non-text content
-* Ensure your tool produces accessible content &mdash; Authors are supported in producing accessible content
-* Promote accessibility features &mdash; Authoring tools promote and integrate their accessibility features
+
+
+* Make your Tool Accessible for Users with Disabilities &mdash; "Editing views are perceivable" and "Editing views are operable"
+* Support alternatives to images and multimedia &mdash; "Authors are supported in producing accessible content"
+* Promote accessibility features and help fix accessibility issues &mdash; "Authoring tools promote and integrate their accessibility features"
 
 To get started putting ATAG to work for you, see:
 * [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and implementing ATAG
