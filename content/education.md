@@ -95,20 +95,20 @@ Your current customers and potential new customers need learning management syst
 * are accessible to instructors with disabilities
 * produce accessible content for students
 
-In many situations, accessibility is required by law.
+In many situations, accessibility is required by law and will be a procurement requirement.
 
 ## Examples
 
 ### Make your Tool Accessible for Users with Disabilities
 
-<p class="persona"><strong>Persona: </strong>Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.</p>
+<p class="persona"><strong>Persona: </strong>Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen. She uses the LMS to create online learning materials and assessments for her students.</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>I need to create accessible materials for my students. To do this, the tool needs to be accessible to me too. Some LMSs don't work very well or at all with my screen reader. For example, if I can't use a built-in editor, I can't preview or upload content within the tool.</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>I am able to easily navigate the page but when I try to use the built-in editor I can use any of the editorial functions. For example, I can't highlight text and add in a link to another page using just my keyboard. I am told there is a tool bar with these functions on it but I can't access it.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs enable me to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. All of this is possible because the tool is designed to work well with my screen reader.</q></span></p>
+      <p><span class="issue">Works well: The tool provides a help page that include information on keyboard shortcuts for the functions in the editor. One of them is a shortcut key to add a link. I can highlight the text I want to link and press the shortcut key. This opens a dialog window that I can enter the link and change other options. If I need to change the link, I move the cursor over the link text and press the shortcut key again to open the dialog.</span><span><q>.</q></span></p>
     </li>
   </ul>
 </div>
