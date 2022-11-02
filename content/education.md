@@ -99,89 +99,92 @@ In many situations, accessibility is required by law and will be a procurement r
 
 ## Examples
 
-### Make your Tool Accessible for Users with Disabilities
+### Everyone can Use Previews
 
-<p class="persona"><strong>Persona: </strong>Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen. She uses the LMS to create online learning materials and assessments for her students.</p>
+<p class="persona"><strong>Persona: </strong>
+    Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
+  </p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>I am able to easily navigate the page but when I try to use the built-in editor I can't use any of the editorial functions. For example, I can't add a link into my text.</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>
+        I can't preview uploaded content using my screen reader. When I select the preview, I can't navigate it as I regularly do on an HTML page.
+      </q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>When I am editing text, there is a shortcut key that lets me add links to my text.</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>
+        When I select the content preview, I get an HTML view of the content, just as if I were using my browser. I can navigate it easily with my screen reader built-in functionality.
+      </q></span></p>
     </li>
   </ul>
 </div>
 
-The tool itself should be accessible to instructors who have auditory, cognitive, neurological, physical, speech, and visual disabilities. Users with disabilities need to be able to use your tool to do everything that users without disabilities do.
+Tool previews should be accessible to instructors who have auditory, cognitive, neurological, physical, speech, and visual disabilities. Users with disabilities need to be able to preview the course content, just like users without disabilities do.
 
-### Enhance navigation and editing via content structure
+### Everyone can Edit Content
 
-<p class="persona"><strong>Persona: </strong>John is a high school administrator. He uses speech recognition software and uses his voice to navigate through systems and websites.</p>
+<p class="persona"><strong>Persona: </strong>
+  John is a learning designer. He uses speech recognition software to navigate through systems and websites.
+  </p>
 
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>I need to be able to search courses and attendance lists quickly if I have course administration to complete. Some LMSs don't support assistive technology users, so I have a hard time using them. I sometimes need to use third-party software for certain areas of work which aren't accessible to me on the LMS.</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>
+        I can't format my course contents. When I say things like "bold", "italics" or "underlined", nothing happens.
+      </q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs are set up correctly with clearly structured content which I can search through easily to find the information I need.</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>
+        I speak the format I want to use and the content is updated accordingly.
+      </q></span></p>
     </li>
   </ul>
 </div>
 
-Users have different ways of interacting with websites, systems, and digital content and might use a range of assistive technologies. When your tool supports this and is set up correctly, it enables school administrators to interact with your LMS successfully. 
+Your built-in editor functionality needs to be accessible for people who interact with built-in editors in different ways, including through keyboard, mouse, and speech recognition software. 
 
+### Everyone can Improve Accessibility of Existing Content
 
-### Help users improve accessibility of existing content
-
-<p class="persona"><strong>Persona: </strong>Ivan is a learning/instructional designer at an online university. He needs to improve the accessibility of existing materials.</p>
+<p class="persona"><strong>Persona: </strong>
+  Jenny is the director of a rural school.
+</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>Some LMSs don't show me where there are existing accessibility issues in our courses or guide me so I can fix them quickly and easily and put an effective process in place</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>
+        I want to add some charts in our existing courses but I am not sure how accessible they are for our children with disabilities.
+      </q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs guide me to fix potential accessibility issues by automatically flagging them before they're live. Creating accessible content is much easier when it's indicated like this.</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>
+        Whenever I add a chart to the course, I get a warning that it may require an alternative text and I get guidance on how to include it.
+</q></span></p>
     </li>
   </ul>
 </div>
 
-Support users to improve existing materials for accessibility. For example, when there is an image in the content, let them know that the image may require an alternative text and suggest them how to include one.
-
-### Promote accessibility features
-
-<p class="persona"><strong>Persona: </strong>Jenny is the director of a language school and looks after a number of instructors who teach online. She is new to accessibility.</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem: </span><span><q>Some LMSs don't document their accessibility features. It is hard to see and understand where teachers can make their content accessible easily, and also monitor which teachers are producing accessible materials for students.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs are very well documented for accessibility. I have been able to get started very easily and pick up what to do quite quickly. This is useful so we can demonstrate that our courses at the school are accessible.</q></span></p>
-    </li>
-  </ul>
-</div>
-
-Promote the accessibility features of your tool. For example, you can document how to produce accessible content. When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as it encourages users to create accessible content.
+Support the creation of accessible content. This includes ensuring any automatically-generated content is accessible as well as helping authors fix potential accessibility issues.
 
 ## The Accessibility Standard to Help You
 
-Your learning management system (LMS) can enable users to author accessible educational materials.
+Your learning management system (LMS) is an "authoring tool". It can enable users to create accessible educational materials.
 
 There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
 Use ATAG to help make your tool:
+
 * accessible to educators and course administrators with disabilities [Part A]
 * support accessible content for students [Part B]
 
-ATAG covers the above examples:
+ATAG covers the above examples: @@add numbers below.
 
 * Make your Tool Accessible for Users with Disabilities &mdash; "Editing views are perceivable" and "Editing views are operable"
 * Support alternatives to images and multimedia &mdash; "Authors are supported in producing accessible content"
 * Promote accessibility features and help fix accessibility issues &mdash; "Authoring tools promote and integrate their accessibility features"
 
 To get started putting ATAG to work for you, see:
+
 * [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and implementing ATAG
 * [[ATAG at a Glance]](/standards-guidelines/atag/glance/), a paraphrased summary to give you an idea of what's covered in ATAG
 
