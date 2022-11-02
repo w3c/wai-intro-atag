@@ -68,7 +68,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your learning management system (LMS) and other education  tools accessible to people with disabilities. This includes educators, course administrators, and learning/instructional designers, as well as students and end users.
+This page introduces a standard to help you make your learning management system (LMS) and other education  tools accessible to people with disabilities. This includes educators, course administrators, and learning designers, as well as students and end users.
 
 It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
 
@@ -92,7 +92,7 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 Your current customers and potential new customers need learning management systems (LMS) that:
 
-* are accessible to instructors with disabilities
+* are accessible to users with disabilities, including educators, course administrators, and learning designers
 * produce accessible content for students
 
 In many situations, accessibility is required by law and will be a procurement requirement.
@@ -102,8 +102,8 @@ In many situations, accessibility is required by law and will be a procurement r
 ### Everyone can Use Previews
 
 <p class="persona"><strong>Persona: </strong>
-    Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
-  </p>
+ Zola is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
+</p>
 <div class="quotes">
   <ul>
     <li>
@@ -113,18 +113,18 @@ In many situations, accessibility is required by law and will be a procurement r
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        When I select the content preview, I get an HTML view of the content, just as if I were using my browser. I can navigate it easily with my screen reader built-in functionality.
+        When I select the content preview, I get an HTML view of the content, just as if I were using my browser. I can navigate it easily using my screen reader built-in functionality.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Tool previews should be accessible to instructors who have auditory, cognitive, neurological, physical, speech, and visual disabilities. Users with disabilities need to be able to preview the course content, just like users without disabilities do.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to preview the course content, just like users without disabilities do.
 
 ### Everyone can Edit Content
 
 <p class="persona"><strong>Persona: </strong>
-  John is a learning designer. He uses speech recognition software to navigate through systems and websites.
+  Aroon is a learning designer. He uses speech recognition software to navigate through systems and websites.
   </p>
 
 <div class="quotes">
@@ -142,12 +142,12 @@ Tool previews should be accessible to instructors who have auditory, cognitive, 
   </ul>
 </div>
 
-Your built-in editor functionality needs to be accessible for people who interact with built-in editors in different ways, including through keyboard, mouse, and speech recognition software. 
+People who interact with built-in editors in different ways, including through keyboard, mouse, and speech recognition software, need to be able to edit contents. 
 
 ### Everyone can Improve Accessibility of Existing Content
 
 <p class="persona"><strong>Persona: </strong>
-  Jenny is the director of a rural school.
+  Irina is the director of a rural school.
 </p>
 <div class="quotes">
   <ul>
@@ -164,7 +164,7 @@ Your built-in editor functionality needs to be accessible for people who interac
   </ul>
 </div>
 
-Support the creation of accessible content. This includes ensuring any automatically-generated content is accessible as well as helping authors fix potential accessibility issues.
+People who need to improve accessibility of existing materials need a tool that can create accessible content and that provides guidance on how to fix potential accessibility issues.
 
 ## The Accessibility Standard to Help You
 
@@ -179,9 +179,9 @@ Use ATAG to help make your tool:
 
 ATAG covers the above examples: @@add numbers below.
 
-* Make your Tool Accessible for Users with Disabilities &mdash; "Editing views are perceivable" and "Editing views are operable"
-* Support alternatives to images and multimedia &mdash; "Authors are supported in producing accessible content"
-* Promote accessibility features and help fix accessibility issues &mdash; "Authoring tools promote and integrate their accessibility features"
+* Everyone can use previews &mdash; "The workflow of authors often includes periodically checking how browsers will display the content to end users. Authors with disabilities need the same opportunity to check their work."
+* Everyone can edit content &mdash; "Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool."
+* Everyone can improve accessibility of existing content &mdash; "By guiding authors from the outset toward the creation and maintenance of accessible web content, web content accessibility problems are mitigated and less repair effort is required.
 
 To get started putting ATAG to work for you, see:
 
