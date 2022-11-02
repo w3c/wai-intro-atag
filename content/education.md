@@ -105,10 +105,10 @@ In many situations, accessibility is required by law and will be a procurement r
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>I am able to easily navigate the page but when I try to use the built-in editor I can use any of the editorial functions. For example, I can't highlight text and add in a link to another page using just my keyboard. I am told there is a tool bar with these functions on it but I can't access it.</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>I am able to easily navigate the page but when I try to use the built-in editor I can't use any of the editorial functions. For example, I can't add a link into my text.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: The tool provides a help page that include information on keyboard shortcuts for the functions in the editor. One of them is a shortcut key to add a link. I can highlight the text I want to link and press the shortcut key. This opens a dialog window that I can enter the link and change other options. If I need to change the link, I move the cursor over the link text and press the shortcut key again to open the dialog.</span><span><q>.</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>When I am editing text, there is a shortcut key that lets me add links to my text.</q></span></p>
     </li>
   </ul>
 </div>
