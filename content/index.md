@@ -77,7 +77,7 @@ Guidelines (UAAG). [Essential Components of Web
 Accessibility]({{ "/fundamentals/components/" | relative_url }}) explains the
 relationship between the different guidelines.
 
-ATAG was published in 2015 and as a technology agnostic standard remains relevant. The success criteria are technology agnostic and capture
+ATAG was published in 2015 and as a technology agnostic standard remains relevant.
 
 ## Who ATAG is for
 
