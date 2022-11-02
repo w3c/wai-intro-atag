@@ -105,10 +105,10 @@ In many situations, accessibility is required by law.
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem: </span><span><q>I need to create accessible materials for my students. To do this, the tool needs to be accessible to me too. Some LMSs don't work very well or at all with my screen reader. For example, if I can't use a built-in editor, I can't preview or upload content within the tool.</q></span></p>
+      <p><span class="issue">Problem: </span><span><q>With some LMSs, I can't preview uploaded content using my screen reader. When I select the preview, I can't navigate it as I regularly do on an HTML page.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well: </span><span><q>Other LMSs enable me to create accessible resource materials and assignments. I can preview the results all within the tool. I can also track students progress and grade their assignments. All of this is possible because the tool is designed to work well with my screen reader.</q></span></p>
+      <p><span class="issue">Works well: </span><span><q>With other LMSs, I can preview uploaded content easily. When I select the content preview, I get an HTML view of the content, just as if I were using my browser.</q></span></p>
     </li>
   </ul>
 </div>
