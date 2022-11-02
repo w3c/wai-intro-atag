@@ -97,7 +97,7 @@ Your current customers and potential new customers need learning management syst
 
 In many situations, accessibility is required by law.
 
-## Examples _(@@ examples below to be revised based on EOWG input... hopefully by Jade :-)_
+## Examples
 
 ### Make your Tool Accessible for Users with Disabilities
 
