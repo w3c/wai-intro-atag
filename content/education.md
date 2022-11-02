@@ -147,12 +147,7 @@ Users have different ways of interacting with websites, systems, and digital con
   </ul>
 </div>
 
-Your tool needs to be able to produce accessible content. This includes:
-
-* ensuring any automatically-generated content is accessible
-* helping authors fix potential accessibility issues.
-
-Accessible LMS make it easier for learning/instructional designers to create accessible content.
+Support users to improve existing materials for accessibility. For example, when there is an image in the content, let them know that the image may require an alternative text and suggest them how to include one.
 
 ### Promote accessibility features
 
@@ -168,7 +163,7 @@ Accessible LMS make it easier for learning/instructional designers to create acc
   </ul>
 </div>
 
-Promote the accessibility features of your tool. For example, you can document how to produce accessible content. When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as encouraging authors to create accessible content.
+Promote the accessibility features of your tool. For example, you can document how to produce accessible content. When your tool actively promotes the creation of accessible content, it helps those who are new to accessibility as well as it encourages users to create accessible content.
 
 ## The Accessibility Standard to Help You
 
