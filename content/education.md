@@ -99,10 +99,10 @@ In many situations, accessibility is required by law.
 
 ## Examples
 
-### Make your Tool Accessible for Users with Disabilities
+### Everyone can Use Previews
 
 <p class="persona"><strong>Persona: </strong>
-    Lisa is a physics professor at a large university. She needs to preview the content she uploads to the tool. She is blind and uses a screen reader that reads aloud the information on her screen.
+    Lisa is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
   </p>
 <div class="quotes">
   <ul>
@@ -121,65 +121,63 @@ In many situations, accessibility is required by law.
 
 The tool itself should be accessible to instructors who have auditory, cognitive, neurological, physical, speech, and visual disabilities. Users with disabilities need to be able to use your tool to do everything that users without disabilities do.
 
-### Enhance navigation and editing via content structure
+### Everyone can Edit Content
 
 <p class="persona"><strong>Persona: </strong>
-  John is a high school administrator. He needs to report course attendees to his supervisor. He uses speech recognition software to navigate through systems and websites.
+  John is a learning designer. He uses speech recognition software to navigate through systems and websites.
   </p>
 
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't search courses and attendance lists. When I speak the name of the course, it does not show the course details.
+        I can't format my course contents. When I say things like "bold", "italics" or "underlined", nothing happens.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I speak the name of the course to my speech recognition software and the details are shown. Then I can quickly move to the attendance list.
+        I speak the format I want to use and the contents are updated accordingly.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Users have different ways of interacting with websites, systems, and digital content and might use a range of assistive technologies. When your tool supports this and is set up correctly, it enables school administrators to interact with your LMS successfully. 
+Users have different ways of interacting with websites, systems, and digital content and might use a range of assistive technologies. When your tool supports this and is set up correctly, it enables users to interact with your LMS successfully. 
 
-### Help users improve accessibility of existing content
+### Everyone can Improve Accessibility of Existing Content
 
 <p class="persona"><strong>Persona: </strong>
-  Jenny is a learning/instructional designer at an online university. He needs to improve the accessibility of existing materials.
+  Jenny is the director of a rural school.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I need to add a number of charts to my course but I am not sure if they are accessible.
+        I want to add some charts in our existing courses but I am not sure how accessible they are for our childrens with disabilities.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-Whenever I add a chart to the course, I get a warning that it may require an alternative text and I get guidance on how to add it.
+        Whenever I add a chart to the course, I get a warning that it may require an alternative text and I get guidance on how to include it.
 </q></span></p>
     </li>
   </ul>
 </div>
 
-Support the creation of accessible content. This includes:
-
-* ensuring any automatically-generated content is accessible
-* helping authors fix potential accessibility issues.
+Support the creation of accessible content. This includes ensuring any automatically-generated content is accessible as well as helping authors fix potential accessibility issues.
 
 ## The Accessibility Standard to Help You
 
-Your learning management system (LMS) can enable users to author accessible educational materials.
+Your learning management system (LMS) is an "authoring tool". It can enable users to create accessible educational materials.
 
 There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
 Use ATAG to help make your tool:
+
 * accessible to educators and course administrators with disabilities [Part A]
 * support accessible content for students [Part B]
 
-ATAG covers the above examples:
+ATAG covers the above examples: @@add numbers below.
 
 * Make your Tool Accessible for Users with Disabilities &mdash; "Editing views are perceivable" and "Editing views are operable"
 * Support alternatives to images and multimedia &mdash; "Authors are supported in producing accessible content"
