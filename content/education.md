@@ -91,7 +91,8 @@ It includes quotes from personas (fictional users) to help you understand some a
 ## Why Accessibility Matters
 
 Your current customers and potential new customers need learning management systems (LMS) that:
-* are accessible to instrictors with disabiliies
+
+* are accessible to instructors with disabilities
 * produce accessible content for students
 
 In many situations, accessibility is required by law.
@@ -170,7 +171,7 @@ Promote the accessibility features of your tool. For example, you can document h
 
 ## The Accessibility Standard to Help You
 
-Your learning management system (LMS) is an 'authoring tool'.
+Your learning management system (LMS) can enable users to author accessible educational materials.
 
 There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
@@ -178,12 +179,11 @@ Use ATAG to help make your tool:
 * accessible to educators and course administrators with disabilities [Part A]
 * support accessible content for students [Part B]
 
-For example, ATAG covers the above examples:
-* @@ revised wording of examples above &mdash; @@ wording from ATAG at a Glance [@@B3]
-* Make your Tool Accessible for Users with Disabilities &mdash; Make the authoring tool user interface accessible
-* Support alternatives to images and multimedia &mdash; Assist authors with managing alternative content for non-text content
-* Ensure your tool produces accessible content &mdash; Authors are supported in producing accessible content
-* Promote accessibility features &mdash; Authoring tools promote and integrate their accessibility features
+ATAG covers the above examples:
+
+* Make your Tool Accessible for Users with Disabilities &mdash; "Editing views are perceivable" and "Editing views are operable"
+* Support alternatives to images and multimedia &mdash; "Authors are supported in producing accessible content"
+* Promote accessibility features and help fix accessibility issues &mdash; "Authoring tools promote and integrate their accessibility features"
 
 To get started putting ATAG to work for you, see:
 * [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and implementing ATAG
