@@ -144,10 +144,10 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 People who interact with built-in editors in different ways, including through keyboard, mouse, and speech recognition software, need to be able to edit contents. 
 
-### Everyone can Improve Accessibility of Existing Content
+### [@@ part B]
 
 <p class="persona"><strong>Persona: </strong>
-  Irina is the director of a rural school.
+  Irina is the director of an online professional training center.
 </p>
 <div class="quotes">
   <ul>
@@ -181,7 +181,7 @@ ATAG covers the above examples:
 
 * Everyone can use previews &mdash; The workflow of authors often includes periodically checking how browsers will display the content to end users. Authors with disabilities need the same opportunity to check their work. [A.3.7]
 * Everyone can edit content &mdash; Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool. [A.3.1]
-* Everyone can improve accessibility of existing content &mdash; By guiding authors from the outset toward the creation and maintenance of accessible web content, web content accessibility problems are mitigated and less repair effort is required.[B.2.2]
+* Everyone can improve accessibility of existing content &mdash; By guiding authors from the outset toward the creation and maintenance of accessible web content, web content accessibility problems are mitigated and less repair effort is required. [B.2.2]
 
 To get started putting ATAG to work for you, see:
 
