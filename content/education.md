@@ -124,19 +124,19 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 ### Everyone can Edit Content
 
 <p class="persona"><strong>Persona: </strong>
-  Aroon is a learning designer. He uses speech recognition software to navigate through systems and websites.
+  Aroon is a school administrator. He uses speech recognition software to navigate through systems and websites.
   </p>
 
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't format my course contents. When I say things like "bold", "italics" or "underlined", nothing happens.
+        I can't sort the lists of attendes. When I say things like "sort by name", the order does not change.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I speak the format I want to use and the content is updated accordingly.
+        I speak the column I want to sort the list by and the content is updated accordingly.
       </q></span></p>
     </li>
   </ul>
