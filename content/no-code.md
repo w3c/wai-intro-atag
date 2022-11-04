@@ -5,8 +5,8 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "[Draft] Guidelines to Make Your LMS Accessible"
-# title_html: "[Draft] Accessible Tooling for nocode<br>Get the gist of what your tool needs to support accessible nocode"
-nav_title: "nocode"
+# title_html: "[Draft] Guidelines to Make your no-code Tools Accessible<br>Get the gist of what your tool needs to support accessible noco-de"
+nav_title: "no-code"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-10-25   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -20,8 +20,8 @@ last_updated: 2022-10-25   # Put the date of this translation YYYY-MM-DD (with m
 
 github:
   repository: w3c/wai-intro-atag
-  path: content/nocode.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
-permalink: /standards-guidelines/atag/nocode/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+  path: content/no-code.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+permalink: /standards-guidelines/atag/no-code/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 layout: default
 
 # NEW: 3 navigation lines below are only needed for multi-page resources where you have previous and next at the bottom. If so, un-comment them; otherwise delete these lines.
@@ -30,7 +30,7 @@ layout: default
   # next: /path/to/next/file/
 # @@SLH To Do: figure out if need to add lang here, too, and if this replaces "order" from older resources?
 
-ref: /standards-guidelines/atag/nocode/   # Translators, do not change this
+ref: /standards-guidelines/atag/no-code/   # Translators, do not change this
 # changelog: /@@/changelog/ 
 # acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
 license: creative-commons   # NEW: delete if not creative-commons
