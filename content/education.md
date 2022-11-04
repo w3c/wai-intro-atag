@@ -153,7 +153,7 @@ People who interact with built-in editors in different ways, including through k
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I want to add some charts in our existing courses but I am not sure how accessible they are for our children with disabilities.
+        I want to add some charts in our existing courses but I am not sure how accessible they are for our clients with disabilities.
       </q></span></p>
     </li>
     <li>
