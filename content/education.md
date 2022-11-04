@@ -68,7 +68,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your learning management system (LMS) and other education  tools accessible to people with disabilities. This includes educators, course administrators, and learning designers, as well as students and end users.
+This page introduces a standard to help you make your learning management system (LMS) and other education tools accessible to people with disabilities.
 
 It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
 
