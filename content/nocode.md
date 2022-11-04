@@ -4,9 +4,9 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "[Draft] Guidelines to Make Your No-code Tool Accessible"
-# title_html: "[Draft] Guidelines to Make Your No-code Tool Accessible<br>Get the gist of what your tool needs to support accessible education"
-nav_title: "No-code
+title: "[Draft] Guidelines to Make Your LMS Accessible"
+# title_html: "[Draft] Accessible Tooling for nocode<br>Get the gist of what your tool needs to support accessible nocode"
+nav_title: "nocode"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-10-25   # Put the date of this translation YYYY-MM-DD (with month in the middle)
