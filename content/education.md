@@ -179,9 +179,9 @@ Use ATAG to help make your tool:
 
 ATAG covers the above examples:
 
-* Everyone can use previews &mdash; A.3.7 "The workflow of authors often includes periodically checking how browsers will display the content to end users. Authors with disabilities need the same opportunity to check their work."
-* Everyone can edit content &mdash; A.3.1 "Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool."
-* Everyone can improve accessibility of existing content &mdash; B.2.2 "By guiding authors from the outset toward the creation and maintenance of accessible web content, web content accessibility problems are mitigated and less repair effort is required.
+* Everyone can use previews &mdash; The workflow of authors often includes periodically checking how browsers will display the content to end users. Authors with disabilities need the same opportunity to check their work. [A.3.7]
+* Everyone can edit content &mdash; Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool. [A.3.1]
+* Everyone can improve accessibility of existing content &mdash; By guiding authors from the outset toward the creation and maintenance of accessible web content, web content accessibility problems are mitigated and less repair effort is required.[B.2.2]
 
 To get started putting ATAG to work for you, see:
 
