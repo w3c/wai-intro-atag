@@ -5,8 +5,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "[Draft] Standards to Make Your LMS Accessible"
-# title_html: "[Draft] Accessible Tooling for Education<br>Get the gist of what your tool needs to support accessible education"
-nav_title: "Education"
+nav_title: "@@Education"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-10-25   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -92,14 +91,14 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 Your current customers and potential new customers need learning management systems (LMS) that:
 
-* are accessible to users with disabilities, including educators, course administrators, and learning designers
+* are accessible to LMS users with disabilities
 * produce accessible content for students
 
-In many situations, accessibility is required by law and will be a procurement requirement.
+In many situations, accessibility is required by law and is a procurement requirement.
 
 ## Examples
 
-### Everyone can Use Previews
+### Everyone Can Use Previews
 
 <p class="persona"><strong>Persona: </strong>
  Zola is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
@@ -108,83 +107,85 @@ In many situations, accessibility is required by law and will be a procurement r
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't preview uploaded content using my screen reader. When I select the preview, I can't navigate it as I regularly do on an HTML page.
+        I can't preview uploaded content using my screen reader. I can't navigate the preview like I can a regular web page.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        When I select the content preview, I get an HTML view of the content, just as if I were using my browser. I can navigate it easily using my screen reader built-in functionality.
+        The content preview works just like a web page in a browser. I can navigate it easily using my screen reader's functionality.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to preview the course content, just like users without disabilities do.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to preview the course content.
 
-### Everyone can Edit Content
+### Everyone Can Edit Content
 
 <p class="persona"><strong>Persona: </strong>
-  Aroon is a school administrator. He uses speech recognition software to navigate through systems and websites.
+  Aroon is a school administrator. He is a quadriplegic and uses speech recognition to navigate through applications and websites.
   </p>
 
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't sort the lists of attendes. When I say things like "sort by name", the order does not change.
+        I can't sort the course attendees data table. There's no way to activate the column sort with voice.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I speak the column I want to sort the list by and the content is updated accordingly.
+        I can interact with the course attendees table by voice. I can select the column I want to sort by.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-People who interact with built-in editors in different ways, including through keyboard, mouse, and speech recognition software, need to be able to edit contents. 
+Some people cannot use a mouse. They need to be able to use your LMS with their tools, such as speech recognition, keyboard, and switches. 
 
-### [@@ part B]
+### The LMS Helps Make Course Content Accessible
 
 <p class="persona"><strong>Persona: </strong>
-  Irina is the director of an online professional training center.
+  Irina is the director of an online professional training center. She is an expert in her job; however, she doesn't know much about accessibility.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I want to add some charts in our existing courses but I am not sure how accessible they are for our clients with disabilities.
+        I'm adding charts to our courses. I have no idea what I need to do to make them accessible to students with disabilities.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        Whenever I add a chart to the course, I get a warning that it may require an alternative text and I get guidance on how to include it.
+        Whenever I add a chart to a course, the tool prompts me to add a short description and a full text alternative for the chart data. There's also "Learn More" that explains why it's important for accessibility, and how to do it well.
 </q></span></p>
     </li>
   </ul>
 </div>
 
-People who need to improve accessibility of existing materials need a tool that can create accessible content and that provides guidance on how to fix potential accessibility issues.
+LMSs need to produce accessible content. Part of that is up to your tool and part is up to the user. Your tool can provide prompts and information to help users know what they need to do to provide accessible course content.
+
 
 ## The Accessibility Standard to Help You
 
-Your learning management system (LMS) is an "authoring tool". It can enable users to create accessible educational materials.
+Your learning management system (LMS) is an "authoring tool" that people use to create course content.
 
 There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
 Use ATAG to help make your tool:
 
-* accessible to educators and course administrators with disabilities [Part A]
+* accessible to instructors and other users with disabilities [Part A]
 * support accessible content for students [Part B]
 
-ATAG covers the personas above:
+ATAG covers the example personas above:
 
-* Everyone can use previews &mdash; ATAG says: The workflow of authors often includes periodically checking how browsers will display the content to end users. Authors with disabilities need the same opportunity to check their work.
-* Everyone can edit content &mdash; ATAG says: Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool.
-* Everyone can improve accessibility of existing content &mdash; ATAG says: By guiding authors from the outset toward the creation and maintenance of accessible web content, web content accessibility problems are mitigated and less repair effort is required.
+* **Everyone can use previews** &mdash; ATAG says: Ensure that previews are accessible. Course authors often periodically check how browsers will display the content to students. Authors with disabilities need the same opportunity to check their work.
+* **Everyone can edit content** &mdash; ATAG says: Provide keyboard access to authoring features. Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool.
+* **The LMS helps make course content accessible** &mdash; ATAG says: Guide authors to produce accessible content. Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
+
+And ATAG covers much more.
 
 To get started putting ATAG to work for you, see:
 
-* [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and implementing ATAG
+* [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and Implementing ATAG
 * [[ATAG at a Glance]](/standards-guidelines/atag/glance/), a paraphrased summary to give you an idea of what's covered in ATAG
-
