@@ -1,5 +1,6 @@
 ---
-# NEW: Comments for new repos start with "NEW". Please delete the NEW comments. Leave the other comments for translators. Also, search for @@s to replace. For multi-page resources and other frontmatter info, see: https://wai-website-theme.netlify.app/writing/frontmatter/
+# NEW: repos for new repos start with "NEW". Please delete the NEW 
+comments. Leave the other comments for translators. Also, search for @@s to replace. For multi-page resources and other frontmatter info, see: https://wai-website-theme.netlify.app/writing/frontmatter/
 
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
@@ -103,6 +104,13 @@ In many situations, accessibility is required by law and will be a procurement r
 
 {% comment %}
 
+Emilio — Update that breaks tool accessibility — Social Media
+
+Persona: Emilio is a blind community manager.
+
+Problem: I used to be able to manage my client’s social media profiles. My tool updated and I am no longer able to do my job.
+
+Works well:Tool updates do not break accessibility. If there is a tool update that breaks something, at least I can go back to the previous version of the tool where it worked as expected.
 ### Everyone can Use Previews
 
 <p class="persona"><strong>Persona: </strong>
