@@ -103,6 +103,29 @@ In many situations, accessibility is required by law and will be a procurement r
 
 {% comment %}
 
+Mohamed — drag and drop — No-code tools
+
+Persona: Mohamed is a blind cook. He uses a screen reader to manage his restaurant’s website.
+
+Problem: I want to add a new content to my home page. The documentation of my tool says I need to drag and drop, but I cannot do that as I do not use the mouse. I tried using my screen reader’s built-in functionality to drag and drop, but still it does not work.
+
+Works well: I can use the keyboard to select the block of content I want to use and then put it wherever I want on the page.
+
+
+María — Strucctured Content — No-code tools
+
+Persona: María is a hairdresser.
+
+Problem: My client says they cannot book an appointment because my website has accesssibility issues. The tool I am using does not have anything to improve the accessibility of my website.
+
+Works well: My clients say they can use my website to book appointments. They say it is very acccessible.
+
+Ian — Multimedia accessibility — No-code tools
+
+Persona:  I want everybody to enjoy the videos of my mechanics shop. My tool does not indicate me how to do it.
+
+Works well: Whenever I upload a video, my tool advices me to add captions and suggests me to addd transcript  or descriptions for everybody to enjoy my videos.
+
 ### Everyone can Use Previews
 
 <p class="persona"><strong>Persona: </strong>
