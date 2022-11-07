@@ -4,9 +4,9 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "[Draft] Guidelines to Make Your No-code Tool Accessible"
-# title_html: "[Draft] Guidelines to Make your no-code Tools Accessible<br>Get the gist of what your tool needs to support accessible noco-de"
-nav_title: "no-code"
+title: "[Draft] Guidelines to Make Your No-code website Tool Accessible"
+# title_html: "[Draft] Guidelines to Make your no-code website Tool Accessible<br>Get the gist of what your tool needs to support accessible website creation"
+nav_title: "@@ no-code"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-10-25   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -68,7 +68,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your no-code tool accessible to people with disabilities. This includes @@@
+This page introduces a standard to help you make your no-code website tool accessible to people with disabilities. This includes @@@
 
 It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
 
@@ -90,114 +90,85 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 ## Why Accessibility Matters
 
-Your current customers and potential new customers need no-code tools that:
+Your current customers and potential new customers need no-code website tools that:
 
-* are accessible to users with disabilities, including @@@
+* are accessible to users with disabilities
 * produce accessible content
 
-In many situations, accessibility is required by law and will be a procurement requirement.
+In many situations, accessibility is required by law and is a procurement requirement.
 
 ## Examples
 
-[TBD]
-
-{% comment %}
-
-Mohamed — drag and drop — No-code tools
-
-Persona: Mohamed is a blind cook. He uses a screen reader to manage his restaurant’s website.
-
-Problem: I want to add a new content to my home page. The documentation of my tool says I need to drag and drop, but I cannot do that as I do not use the mouse. I tried using my screen reader’s built-in functionality to drag and drop, but still it does not work.
-
-Works well: I can use the keyboard to select the block of content I want to use and then put it wherever I want on the page.
-
-
-María — Strucctured Content — No-code tools
-
-Persona: María is a hairdresser.
-
-Problem: My client says they cannot book an appointment because my website has accesssibility issues. The tool I am using does not have anything to improve the accessibility of my website.
-
-Works well: My clients say they can use my website to book appointments. They say it is very acccessible.
-
-Ian — Multimedia accessibility — No-code tools
-
-Persona:  I want everybody to enjoy the videos of my mechanics shop. My tool does not indicate me how to do it.
-
-Works well: Whenever I upload a video, my tool advices me to add captions and suggests me to addd transcript  or descriptions for everybody to enjoy my videos.
-
-### Everyone can Use Previews
+### Everyone Can Create Content
 
 <p class="persona"><strong>Persona: </strong>
- Zola is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
+ Mohamed is a blind cook. He uses a screen reader to manage his restaurant’s website.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't preview uploaded content using my screen reader. When I select the preview, I can't navigate it as I regularly do on an HTML page.
+        I want to add a new block of content to my home page. The documentation of my tool says I need to drag and drop, but I cannot do that as I do not use the mouse. I tried using my screen reader’s built-in functionality to drag and drop, but still it does not work.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        When I select the content preview, I get an HTML view of the content, just as if I were using my browser. I can navigate it easily using my screen reader built-in functionality.
+        I can use the keyboard to select the block of content I want to use and then put it wherever I want on the page.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to preview the course content, just like users without disabilities do.
+@@ Explanatory paragraph.
 
-### Everyone can Edit Content
+### Everyone Can Produce Accessible Content
 
 <p class="persona"><strong>Persona: </strong>
-  Aroon is a learning designer. He uses speech recognition software to navigate through systems and websites.
-  </p>
+  María is a hairdresser.
+</p>
 
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't format my course contents. When I say things like "bold", "italics" or "underlined", nothing happens.
+        My clients say they cannot book an appointment because my website has accessibility issues. The tool I am using does not have anything to improve the accessibility of my website.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I speak the format I want to use and the content is updated accordingly.
+        The tool suggests me to add headings, lists, and labels. My clients say it is very accessible.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-People who interact with built-in editors in different ways, including through keyboard, mouse, and speech recognition software, need to be able to edit contents. 
+@@ Explanatory paragraph.
 
-### Everyone can Improve Accessibility of Existing Content
+### Everyone Can Create Accessible Multimedia Content
 
 <p class="persona"><strong>Persona: </strong>
-  Irina is the director of a rural school.
+  Ian runs a mechanics shop.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I want to add some charts in our existing courses but I am not sure how accessible they are for our children with disabilities.
+        I want everybody to enjoy the videos of my mechanics shop. But I have no idea how to do it.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        Whenever I add a chart to the course, I get a warning that it may require an alternative text and I get guidance on how to include it.
-</q></span></p>
+        Whenever I upload a video, my tool advices me to add captions and suggests me to add transcript or descriptions for everybody to enjoy my videos.
+      </q></span></p>
     </li>
   </ul>
 </div>
 
-People who need to improve accessibility of existing materials need a tool that can create accessible content and that provides guidance on how to fix potential accessibility issues.
-
-{% endcomment %}
+@@ Explanatory paragraph.
 
 ## The Accessibility Standard to Help You
 
-Your no-code tool is an "authoring tool". It can enable users to create @@@.
+Your no-code tool is sometimes called an "authoring tool". It can enable users to create @@@.
 
 There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
@@ -209,6 +180,8 @@ Use ATAG to help make your tool:
 ATAG covers the above examples: @@add numbers below.
 
 * List [TBD
+
+But ATAG covers much more.
 
 To get started putting ATAG to work for you, see:
 
