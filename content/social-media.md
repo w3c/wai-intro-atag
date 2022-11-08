@@ -107,7 +107,7 @@ In many situations, accessibility is required by law and is a procurement requir
     <li>
       <p><span class="issue">Problem: </span><span><q>
         I used to be able to manage my client’s social media profile. But the  tool updated and I am no longer able to do my job.
-      <q></span></p>
+      </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
@@ -140,29 +140,29 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
   </ul>
 </div>
 
-people who interact with social platforms have different abilities. Some require to read content at a different pace. Your tool should allow them to decide how they want to process the new content that appears.
+people who interact with social platforms have different abilities. Some need to read content at a different pace. Your tool should allow them to decide how they want to process the new content that appears.
 
 ### Everyone can Create Accessible Social Experiences
 
 <p class="persona"><strong>Persona: </strong>
-  Ilona is the director of a rural school.
+  Enhamed is a journalist.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I want to add some charts in our existing courses but I am not sure how accessible they are for our children with disabilities.
+        I get complains that the links I post are not accessible. I can't do anything about it, my tool does not allow me to change their text.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        Whenever I add a chart to the course, I get a warning that it may require an alternative text and I get guidance on how to include it.
-</q></span></p>
+        When I add a link, I can change its texts so that it is clear what the link is about.
+      </q></span></p>
     </li>
   </ul>
 </div>
 
-People who need to improve accessibility of existing materials need a tool that can create accessible content and that provides guidance on how to fix potential accessibility issues.
+People who post to social media need to be able to create accessible links. This includes using a clear link text that explains what the link is about.
 
 ## The Accessibility Standard to Help You
 
@@ -172,8 +172,8 @@ There is an international standard to help you meet accessibility needs: **Autho
 
 Use ATAG to help make your tool:
 
-* accessible to @@@ [Part A]
-* support accessible content for students [Part B]
+* accessible to content creators [Part A]
+* support accessible content for content consumers [Part B]
 
 ATAG covers the above examples:
 
