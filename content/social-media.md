@@ -117,7 +117,7 @@ In many situations, accessibility is required by law and is a procurement requir
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often depend on your tool to do their job. You need to ensure accessibility is not damaged when updating your tool or the functionality.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often depend on your tool to do their job. You need to ensure accessibility is not damaged when updating your tool's user interface or functionality.
 
 ### Everyone can Process Content at Their Own Pace
 
@@ -177,7 +177,9 @@ Use ATAG to help make your tool:
 
 ATAG covers the above examples:
 
-* list [TBD]
+* Everyone Can Use your Tool Reliably [TBD]
+* Everyone can Process Content at Their Own Pace [TBD]
+* Everyone can Create Accessible Social Experiences [TBD]
 
 To get started putting ATAG to work for you, see:
 
