@@ -68,7 +68,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your no-code website tool accessible to people with disabilities. This includes @@@
+This page introduces a standard to help you make your no-code website tool accessible to people with disabilities.
 
 It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
 
@@ -99,7 +99,7 @@ In many situations, accessibility is required by law and is a procurement requir
 
 ## Examples
 
-### Everyone Can Create Content
+### Everyone Can Add Blocks of Content
 
 <p class="persona"><strong>Persona: </strong>
  Mohamed is a blind cook. He uses a screen reader to manage his restaurant’s website.
@@ -119,12 +119,12 @@ In many situations, accessibility is required by law and is a procurement requir
   </ul>
 </div>
 
-@@ Explanatory paragraph.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to add, customize,and remove blocks of content.
 
 ### Everyone Can Produce Accessible Content
 
 <p class="persona"><strong>Persona: </strong>
-  María is a hairdresser.
+  Amahle is a hairdresser.
 </p>
 
 <div class="quotes">
@@ -142,12 +142,12 @@ In many situations, accessibility is required by law and is a procurement requir
   </ul>
 </div>
 
-@@ Explanatory paragraph.
+Your users may not know how to fix accessibility issues. Your tool needs to support them when creating content so that the output is accessible. This includes headings, paragraphs, lists, labels, and other content structures.
 
 ### Everyone Can Create Accessible Multimedia Content
 
 <p class="persona"><strong>Persona: </strong>
-  Ian runs a mechanics shop.
+  Dacso runs a mechanics shop.
 </p>
 <div class="quotes">
   <ul>
@@ -164,24 +164,26 @@ In many situations, accessibility is required by law and is a procurement requir
   </ul>
 </div>
 
-@@ Explanatory paragraph.
+Your users may not have the knowledge and/or resources to create accessible multimedia content for people who cannot see and hear well or at all. Your tool needs to support the addition of alternatives for audio and video content so that people with disabilities can enjoy them.
 
 ## The Accessibility Standard to Help You
 
-Your no-code tool is sometimes called an "authoring tool". It can enable users to create @@@.
+Your no-code tool is sometimes called an "authoring tool". It can enable users to create accessible websites and multimedia content.
 
 There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
 Use ATAG to help make your tool:
 
-* accessible to @@@ [Part A]
-* support accessible content for students [Part B]
+* accessible to website creators [Part A]
+* support accessible content for website consumers [Part B]
 
-ATAG covers the above examples: @@add numbers below.
+ATAG covers the example personas above:
 
-* List [TBD
+* **Everyone can add blocks of content**:
+* **Everyone can produce accessible content **: 
+* **Everyone can create accessible multimedia content**: 
 
-But ATAG covers much more.
+And ATAG covers much more.
 
 To get started putting ATAG to work for you, see:
 

@@ -6,8 +6,7 @@ comments. Leave the other comments for translators. Also, search for @@s to repl
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "[Draft] Guidelines to Make Your Social Media Platform Accessible"
-# title_html: "[Draft] Guidelines to make Your Social Media Platform Accessible <br>Get the gist of what your tool needs to support accessible postings"
-nav_title: "Social Media"
+nav_title: "@@ Social Media"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-10-25   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -69,7 +68,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your social media platform accessible to people with disabilities. This includes @@@
+This page introduces a standard to help you make your social media platform accessible to people with disabilities.
 
 It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
 
@@ -93,10 +92,10 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 Your current customers and potential new customers need social media platforms  that:
 
-* are accessible to users with disabilities, including @@@
+* are accessible to users with disabilities
 * produce accessible content
 
-In many situations, accessibility is required by law and will be a procurement requirement.
+In many situations, accessibility is required by law and is a procurement requirement.
 
 ## Examples
 
@@ -104,62 +103,56 @@ In many situations, accessibility is required by law and will be a procurement r
 
 {% comment %}
 
-Emilio — Update that breaks tool accessibility — Social Media
 
-Persona: Emilio is a blind community manager.
-
-Problem: I used to be able to manage my client’s social media profiles. My tool updated and I am no longer able to do my job.
-
-Works well:Tool updates do not break accessibility. If there is a tool update that breaks something, at least I can go back to the previous version of the tool where it worked as expected.
-### Everyone can Use Previews
+### Everyone Can Use your Tool Reliably
 
 <p class="persona"><strong>Persona: </strong>
- Zola is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
+ Banele is a blind community manager.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't preview uploaded content using my screen reader. When I select the preview, I can't navigate it as I regularly do on an HTML page.
-      </q></span></p>
+        I used to be able to manage my client’s social media profile. But the  tool updated and I am no longer able to do my job.
+      <q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        When I select the content preview, I get an HTML view of the content, just as if I were using my browser. I can navigate it easily using my screen reader built-in functionality.
+        Tool updates do not break accessibility. If there is an update that breaks something, at least I can go back to the previous version of the tool where it worked as expected.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to preview the course content, just like users without disabilities do.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often depend on your tool to do their job. You need to ensure accessibility is not damaged when updating your tool or the functionality.
 
-### Everyone can Edit Content
+### Everyone can Process Content at Their Own Pace
 
 <p class="persona"><strong>Persona: </strong>
-  Aroon is a learning designer. He uses speech recognition software to navigate through systems and websites.
+  Nushi is a journalisst with low vision.
   </p>
 
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't format my course contents. When I say things like "bold", "italics" or "underlined", nothing happens.
+        I can't read the content in this tool. It updates so quickly that I cannot follow through.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I speak the format I want to use and the content is updated accordingly.
+        I can decide when the tool refreshes for new content. This way I can read at my own pace.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-People who interact with built-in editors in different ways, including through keyboard, mouse, and speech recognition software, need to be able to edit contents. 
+people who interact with social platforms have different abilities. Some require to read content at a different pace. Your tool should allow them to decide how they want to process the new content that appears.
 
-### Everyone can Improve Accessibility of Existing Content
+### Everyone can Create Accessible Social Experiences
 
 <p class="persona"><strong>Persona: </strong>
-  Irina is the director of a rural school.
+  Ilona is the director of a rural school.
 </p>
 <div class="quotes">
   <ul>
