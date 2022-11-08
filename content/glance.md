@@ -40,7 +40,7 @@ Guidelines (ATAG) 2.0. For the normative technical specification, see
 {:/}
 
 
-## [Part A](http://www.w3.org/TR/ATAG20/#part_a): Make the authoring tool user interface accessible {#PartA}
+## (Part A)(http://www.w3.org/TR/ATAG20/#part_a): Make the authoring tool user interface accessible {#PartA}
 
 {::nomarkdown}
 {% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_a1">A1</a> The authoring tool user interface follows applicable accessibility guidelines' h=3 class="" %}
@@ -83,7 +83,7 @@ Guidelines (ATAG) 2.0. For the normative technical specification, see
 {% include box.html type="end" %}
 {:/}
 
-## [Part B](http://www.w3.org/TR/ATAG20/#part_b): Support the production of accessible content {#PartB}
+## (Part B)(http://www.w3.org/TR/ATAG20/#part_b): Support the production of accessible content {#PartB}
 
 {::nomarkdown}
 {% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_b1">B1</a> Fully automatic processes produce accessible content' h=3 class="" %}

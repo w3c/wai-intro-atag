@@ -172,8 +172,8 @@ There is an international standard to help you meet accessibility needs: **Autho
 
 Use ATAG to help make your tool:
 
-* accessible to content creators [Part A]
-* support accessible content for content consumers [Part B]
+* accessible to content creators (Part A)
+* support accessible content for content consumers (Part B)
 
 ATAG covers the above examples:
 

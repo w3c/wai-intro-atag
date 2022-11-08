@@ -174,8 +174,8 @@ There is an international standard to help you meet accessibility needs: **Autho
 
 Use ATAG to help make your tool:
 
-* accessible to instructors and other users with disabilities [Part A]
-* support accessible content for students [Part B]
+* accessible to instructors and other users with disabilities (Part A)
+* support accessible content for students (Part B)
 
 ATAG covers the example personas above:
 

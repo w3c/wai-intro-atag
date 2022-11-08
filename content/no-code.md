@@ -174,8 +174,8 @@ There is an international standard to help you meet accessibility needs: **Autho
 
 Use ATAG to help make your tool:
 
-* accessible to website creators [Part A]
-* support accessible content for website consumers [Part B]
+* accessible to website creators (Part A)
+* support accessible content for website consumers (Part B)
 
 ATAG covers the example personas above:
 
