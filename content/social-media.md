@@ -99,11 +99,6 @@ In many situations, accessibility is required by law and is a procurement requir
 
 ## Examples
 
-[TBD]
-
-{% comment %}
-
-
 ### Everyone Can Use your Tool Reliably
 
 <p class="persona"><strong>Persona: </strong>
@@ -170,8 +165,6 @@ people who interact with social platforms have different abilities. Some require
 </div>
 
 People who need to improve accessibility of existing materials need a tool that can create accessible content and that provides guidance on how to fix potential accessibility issues.
-
-{% endcomment %}
 
 ## The Accessibility Standard to Help You
 

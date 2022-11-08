@@ -142,7 +142,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
   </ul>
 </div>
 
-Your users may not know how to fix accessibility issues. Your tool needs to support them when creating content so that the output is accessible. This includes headings, paragraphs, lists, labels, and other content structures.
+Your users may not be able to fix accessibility issues. Your tool needs to support them when creating content so that the output is accessible. This includes making headings, paragraphs, lists, labels, and other content structures accessible.
 
 ### Everyone Can Create Accessible Multimedia Content
 
@@ -179,9 +179,9 @@ Use ATAG to help make your tool:
 
 ATAG covers the example personas above:
 
-* **Everyone can add blocks of content**:
-* **Everyone can produce accessible content **: 
-* **Everyone can create accessible multimedia content**: 
+* **Everyone can add blocks of content**: [TBD]
+* **Everyone can produce accessible content**: [TBD] 
+* **Everyone can create accessible multimedia content**: [TBD]
 
 And ATAG covers much more.
 
