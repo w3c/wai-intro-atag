@@ -145,7 +145,7 @@ people who interact with social platforms have different abilities. Some need to
 
 <p class="persona"><strong>Persona: </strong>
   Enhamed is a journalist. He is an authoritative source in his community, but has no idea about accessibility.
-</p></
+</p>
 <div class="quotes">
   <ul>
     <li>
