@@ -102,7 +102,7 @@ In many situations, accessibility is required by law and is a procurement requir
 ### Everyone Can Add Blocks of Content
 
 <p class="persona"><strong>Persona: </strong>
- Mohamed is a blind cook. He uses a screen reader to manage his restaurant’s website.
+ Mohamed is a cook. He is blind and uses a screen reader that reads aloud the information on his screen.
 </p>
 <div class="quotes">
   <ul>
@@ -124,7 +124,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 ### Everyone Can Produce Accessible Content
 
 <p class="persona"><strong>Persona: </strong>
-  Amahle is a hairdresser.
+  Amahle is a hairdresser. She has a website to handle client appointments.
 </p>
 
 <div class="quotes">
@@ -147,7 +147,7 @@ Your users may not be able to fix accessibility issues. Your tool needs to suppo
 ### Everyone Can Create Accessible Multimedia Content
 
 <p class="persona"><strong>Persona: </strong>
-  Dacso runs a mechanics shop.
+  Dacso runs a mechanics shop. He has a website where he shows how they fix cars and motorbikes.
 </p>
 <div class="quotes">
   <ul>
