@@ -97,7 +97,7 @@ In many situations, accessibility is required by law and is a procurement requir
 
 ## Examples
 
-### Everyone Can Use your Tool Reliably
+### Everyone CanRely on your Tool
 
 <p class="persona"><strong>Persona: </strong>
  Banele is a blind community manager.
@@ -106,25 +106,24 @@ In many situations, accessibility is required by law and is a procurement requir
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I used to be able to manage my client’s social media profile. But the  tool updated and I am no longer able to do my job.
+        I used to be able to manage my client’s social media profile. The  tool updated and broke most of the the accessibility features. I am no longer able to do my job.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        Tool updates do not break accessibility. If there is an update that breaks something, at least I can go back to the previous version of the tool where it worked as expected.
+        The tool keeps being accessible update after update. If something ever breaks, I can go back to the previous version of the tool where it worked as expected.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often depend on your tool to do their job. You need to ensure accessibility is not damaged when updating your tool's user interface or functionality.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often rely on your tool to do their job. You need to ensure accessibility is preserved when updating your tool's user interface or functionality.
 
 ### Everyone can Process Content at Their Own Pace
 
 <p class="persona"><strong>Persona: </strong>
   Nushi is a journalisst with low vision.
   </p>
-
 <div class="quotes">
   <ul>
     <li>
@@ -134,7 +133,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I can decide when the tool refreshes for new content. This way I can read at my own pace.
+        I can decide when the tool refreshes for new content. This way I can read at my own pace when content updates are very fast.
       </q></span></p>
     </li>
   </ul>
@@ -151,18 +150,18 @@ people who interact with social platforms have different abilities. Some need to
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I get complains that the links I post are not accessible. I can't do anything about it, my tool does not allow me to change their text.
+        I get complaints that links, images, and videos that I upload are not accessible. I can't do anything about it, my tool does not allow me to change anything in them.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        When I add a link, I can change its texts so that it is clear what the link is about.
+        When I add a link, I can change its texts so that it is clear what the link is about. when I upload images and videos, the tool suggests me to add alternative texts, captions, and descriptions as appropriate.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-People who post to social media need to be able to create accessible links. This includes using a clear link text that explains what the link is about.
+People who post to social media need to be able to create accessible social experiences. This includes using a clear link text that explains what the link is about, as well as adding alternatives to images and multimedia.
 
 ## The Accessibility Standard to Help You
 
@@ -177,7 +176,7 @@ Use ATAG to help make your tool:
 
 ATAG covers the above examples:
 
-* Everyone Can Use your Tool Reliably [TBD]
+* Everyone Can Rely on your Tool [TBD]
 * Everyone can Process Content at Their Own Pace [TBD]
 * Everyone can Create Accessible Social Experiences [TBD]
 
