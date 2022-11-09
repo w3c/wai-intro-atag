@@ -100,7 +100,7 @@ In many situations, accessibility is required by law and is a procurement requir
 ### Everyone CanRely on your Tool
 
 <p class="persona"><strong>Persona: </strong>
- Banele is a blind community manager.
+ Banele is a blind community manager. She uses a screen reader that reads aloud the information on her screen.
 </p>
 <div class="quotes">
   <ul>
@@ -122,7 +122,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 ### Everyone can Process Content at Their Own Pace
 
 <p class="persona"><strong>Persona: </strong>
-  Nushi is a journalisst with low vision.
+  Nushi is a journalisst with low vision. She uses magnification software to increase the font size.
   </p>
 <div class="quotes">
   <ul>
@@ -144,8 +144,8 @@ people who interact with social platforms have different abilities. Some need to
 ### Everyone can Create Accessible Social Experiences
 
 <p class="persona"><strong>Persona: </strong>
-  Enhamed is a journalist.
-</p>
+  Enhamed is a journalist. He is an authoritative source in his community, but has no idea about accessibility.
+</p></
 <div class="quotes">
   <ul>
     <li>
