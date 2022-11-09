@@ -106,7 +106,7 @@ In many situations, accessibility is required by law and is a procurement requir
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I used to be able to manage my client’s social media profile. The  tool updated and broke most of the the accessibility features. I am no longer able to do my job.
+        I used to be able to manage my client’s social media profile. The  tool updated and broke most of the accessibility features. I am no longer able to do my job.
       </q></span></p>
     </li>
     <li>
