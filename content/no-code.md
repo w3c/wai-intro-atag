@@ -124,7 +124,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 ### Everyone Can Produce Accessible Content
 
 <p class="persona"><strong>Persona: </strong>
-  Amahle is a hairdresser. She has a small website to handle client class.
+  Amahle is a hairdresser. She has a small website to handle client appointments.
 </p>
 
 <div class="quotes">
