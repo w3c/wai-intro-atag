@@ -92,7 +92,7 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 Your current customers and potential new customers need no-code website tools that:
 
-* are accessible to users with disabilities
+* are accessible to no-code tool users with disabilities
 * produce accessible content
 
 In many situations, accessibility is required by law and is a procurement requirement.
