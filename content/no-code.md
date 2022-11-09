@@ -123,7 +123,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 ### Everyone Can Produce Accessible Content
 
-<p "><strong>Persona: </strong>
+<p class="persona"><strong>Persona: </strong>
   Amahle is a hairdresser. She has a small website to handle client class.
 </p>
 
@@ -146,7 +146,7 @@ Your users may not be able to fix accessibility issues. Your tool needs to suppo
 
 ### Everyone Can Create Accessible Multimedia Content
 
-<p "><strong>Persona: </strong>
+<p class="persona"><strong>Persona: </strong>
   Dacso runs a mechanics shop. He has a website where he shows how they fix cars and motorbikes.
 </p>
 <div class="quotes">
