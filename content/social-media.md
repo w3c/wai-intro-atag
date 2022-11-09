@@ -88,7 +88,7 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 ## Why Accessibility Matters
 
-Your current customers and potential new customers need social media platforms  that:
+Your current customers and potential new customers need social media platforms , including @@@, that:
 
 * are accessible to social media users with disabilities
 * produce accessible content
@@ -141,7 +141,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 people who interact with social platforms have different abilities. Some need to read content at a different pace. Your tool should allow them to decide how they want to process the new content that appears.
 
-### Everyone can Create Accessible Social Experiences
+### The Tool Supports the Creation of Accessible Social Experiences
 
 <p class="persona"><strong>Persona: </strong>
   Enhamed is a journalist. He is an authoritative source in his community, but has no idea about accessibility.
@@ -176,9 +176,9 @@ Use ATAG to help make your tool:
 
 ATAG covers the above examples:
 
-* Everyone Can Rely on your Tool [TBD]
-* Everyone can Process Content at Their Own Pace [TBD]
-* Everyone can Create Accessible Social Experiences [TBD]
+* **Everyone Can Rely on your Tool**: [TBD]
+* **Everyone can Process Content at Their Own Pace **: [TBD]
+* **The Tool supports the creation of accessible social experiences**: [TBD]
 
 To get started putting ATAG to work for you, see:
 

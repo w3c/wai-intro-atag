@@ -4,9 +4,9 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "[Draft] Guidelines to Make Your No-code website Tool Accessible"
-# title_html: "[Draft] Guidelines to Make your no-code website Tool Accessible<br>Get the gist of what your tool needs to support accessible website creation"
-nav_title: "@@ no-code"
+title: "[Draft] Guidelines to Make Your No-Code website Tool Accessible"
+# title_html: "[Draft] Guidelines to Make your No-Code website Tool Accessible<br>Get the gist of what your tool needs to support accessible website creation"
+nav_title: "@@ No-Code"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-10-25   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -20,8 +20,8 @@ last_updated: 2022-10-25   # Put the date of this translation YYYY-MM-DD (with m
 
 github:
   repository: w3c/wai-intro-atag
-  path: content/no-code.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
-permalink: /standards-guidelines/atag/no-code/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+  path: content/No-code.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+permalink: /standards-guidelines/atag/No-code/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 layout: default
 
 # NEW: 3 navigation lines below are only needed for multi-page resources where you have previous and next at the bottom. If so, un-comment them; otherwise delete these lines.
@@ -30,7 +30,7 @@ layout: default
   # next: /path/to/next/file/
 # @@SLH To Do: figure out if need to add lang here, too, and if this replaces "order" from older resources?
 
-ref: /standards-guidelines/atag/no-code/   # Translators, do not change this
+ref: /standards-guidelines/atag/No-code/   # Translators, do not change this
 # changelog: /@@/changelog/ 
 # acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
 license: creative-commons   # NEW: delete if not creative-commons
@@ -90,7 +90,7 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 ## Why Accessibility Matters
 
-Your current customers and potential new customers need no-code website tools that:
+Your current customers and potential new customers need no-code website tools, including @@@, that:
 
 * are accessible to no-code tool users with disabilities
 * produce accessible content
@@ -144,21 +144,21 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 Your users may not be able to fix accessibility issues. Your tool needs to support them when creating content so that the output is accessible. This includes making headings, paragraphs, lists, labels, and other content structures accessible.
 
-### Everyone Can Create Accessible Multimedia Content
+### The Tool Supports the Creation of Accessible Multimedia Content
 
 <p class="persona"><strong>Persona: </strong>
-  Dacso runs a mechanics shop. He has a website where he shows how they fix cars and motorbikes.
+  Dacso runs a mechanics shop. He has a website where he puts videos that show how they fix cars and motorbikes.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I want everybody to enjoy the videos of my mechanics shop. But I have no idea how to do it.
+        I have been told that my videos are not accessible. But I don't know what it means. My tool does not give me a clue on how I should make them accessible.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        Whenever I upload a video, my tool advices me to add captions and suggests me to add transcript or descriptions for everybody to enjoy my videos.
+        Whenever I upload a video, my tool advices me to add captions and suggests me to add transcripts and descriptions for everybody to enjoy my videos.
       </q></span></p>
     </li>
   </ul>
@@ -181,7 +181,7 @@ ATAG covers the example personas above:
 
 * **Everyone can add blocks of content**: [TBD]
 * **Everyone can produce accessible content**: [TBD] 
-* **Everyone can create accessible multimedia content**: [TBD]
+* **The tool supports the creation of accessible multimedia content**: [TBD]
 
 And ATAG covers much more.
 
