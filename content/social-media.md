@@ -97,7 +97,7 @@ In many situations, accessibility is required by law and is a procurement requir
 
 ## Examples
 
-### Everyone CanRely on your Tool
+### Everyone Can Rely on your Tool
 
 <p class="persona"><strong>Persona: </strong>
  Banele is a blind community manager. She uses a screen reader that reads aloud the information on her screen.

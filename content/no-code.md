@@ -121,7 +121,7 @@ In many situations, accessibility is required by law and is a procurement requir
 
 Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to add, customize,and remove blocks of content.
 
-### Everyone Can Produce Accessible Content
+### The Tool Should Support the Production of Accessible Content
 
 <p class="persona"><strong>Persona: </strong>
   Amahle is a hairdresser. She has a small website to handle client appointments.
