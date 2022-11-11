@@ -88,7 +88,8 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 ## Why Accessibility Matters
 
-Your current customers and potential new customers need social media platforms , including @@@, that:
+
+Users of your social media tool may have disabilities. People who consume the posts in your tool may also have disabilities. Making your tool accessible reinforces how inclusive your tool is and avoids potential reputational costs.
 
 * are accessible to social media users with disabilities
 * produce accessible content
