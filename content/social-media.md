@@ -122,7 +122,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 ### Everyone can Process Content at Their Own Pace
 
 <p class="persona"><strong>Persona: </strong>
-  Nushi is a journalisst with low vision. She uses magnification software to increase the font size.
+  Nushi is an influencer with low vision. She uses magnification software to increase the font size.
   </p>
 <div class="quotes">
   <ul>
