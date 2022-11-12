@@ -167,9 +167,9 @@ LMSs need to produce accessible content. Part of that is up to your tool and par
 
 ## The Accessibility Standard to Help You
 
-Your learning management system (LMS) is sometimes called an "authoring tool" because people use it to author or create course content. There is an international standard to help you meet accessibility needs: Authoring Tool Accessibility Guidelines (ATAG).
+Your learning management system (LMS) is sometimes called an "authoring tool" because people use it to author or create course content. There is an international standard that addresses accessibility needs in LMSs: Authoring Tool Accessibility Guidelines (ATAG).
 
-**Use Authoring Tool Accessibility Guidelines (ATAG) to help make your tool**:
+**Use ATAG to help make your tool**:
 
 * **accessible to instructors and other users with disabilities (Part A)**
 * **support accessible content for students (Part B)**
