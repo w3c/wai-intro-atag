@@ -63,10 +63,6 @@ inline_css: |
 
 ---
 
-{% include minimal-header.html
-   title="[Draft] Standards to Make Your LMS Accessible"
-%}
-
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
@@ -96,7 +92,7 @@ Your current customers and potential new customers need learning management syst
 * are accessible to instructors and other LMS users with disabilities
 * produce accessible content for students
 
-In many situations, accessibility is required by law and is a procurement requirement.
+**Accessibility is required by law and is a procurement requirement** in many situations.
 
 ## Example Scenarios
 
@@ -171,14 +167,16 @@ LMSs need to produce accessible content. Part of that is up to your tool and par
 
 ## The Accessibility Standard to Help You
 
-Your learning management system (LMS) is sometimes called an "authoring tool" because people use it to author or create course content.
-
-There is an international standard to help you meet accessibility needs: Authoring Tool Accessibility Guidelines (ATAG). ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
+Your learning management system (LMS) is sometimes called an "authoring tool" because people use it to author or create course content. There is an international standard to help you meet accessibility needs: Authoring Tool Accessibility Guidelines (ATAG).
 
 **Use Authoring Tool Accessibility Guidelines (ATAG) to help make your tool**:
 
 * **accessible to instructors and other users with disabilities (Part A)**
 * **support accessible content for students (Part B)**
+
+{::nomarkdown}
+{% include box.html type="start" title="Examples" class="simple aside" %}
+{:/}
 
 ATAG covers the example scenarios above:
 
@@ -187,6 +185,10 @@ ATAG covers the example scenarios above:
 * _The LMS helps make course content accessible_ &mdash; ATAG says: Guide authors to produce accessible content. Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
 
 And ATAG covers much more.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 **To get started putting ATAG to work for you, see**:
 
