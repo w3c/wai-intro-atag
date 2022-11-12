@@ -57,9 +57,9 @@ inline_css: |
   .quotes ul {list-style-type: none;}
   .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
-  .issue {font-weight: bold; display:table-cell; width: 6em;}
-  q:before {content: open-quote;color: #005a6a;font-weight: bold;}
-  q:after {content: close-quote;color: #005a6a;font-weight: bold;}
+  .issue {font-style: italic; display:table-cell; width: 6em;}
+  q:before {content: open-quote;color: #005a6a;font-style: italic;}
+  q:after {content: close-quote;color: #005a6a;font-style: italic;}
 
 ---
 
