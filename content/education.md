@@ -49,14 +49,14 @@ footer: >
    <p><strong>Editors:</strong> @@name, @@name. Contributors: @@name, @@name, and <a href="https://www.w3.org/groups/wg/@@wg/participants">participants of the @@WG</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the @@ Working Group (<a href="http://www.w3.org/WAI/@@/">@@WG</a>). Developed as part of the <a href="https://www.w3.org/WAI/@@/">WAI-@@ project</a>, @@co-funded by the European Commission.</p>
 
+class: tight-page
+
 inline_css: |
-  blockquote {font-style: normal !important;}
-  blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
-  blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin: 0;}
   .quotes {margin-bottom: 0;}
   .quotes ul {list-style-type: none;}
   .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
+  .persona {font-style: italic;}
   .issue {font-style: italic; display:table-cell; width: 6em;}
   q:before {content: open-quote;color: #005a6a;font-style: italic;}
   q:after {content: close-quote;color: #005a6a;font-style: italic;}
@@ -100,7 +100,7 @@ The persona scenarios below are examples of accessibility issues with LMSs.
 
 ### Everyone Can Use Previews
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
  Zola is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
 </p>
 <div class="quotes">
@@ -122,7 +122,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 ### Everyone Can Edit Content
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
   Aroon is a school administrator. He is a quadriplegic and uses speech recognition to navigate through applications and websites.
   </p>
 
@@ -145,7 +145,7 @@ Some people cannot use a mouse. They need to be able to use your LMS with their 
 
 ### The LMS Helps Make Course Content Accessible
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
   Irina is the director of an online professional training center. She is an expert in her job; however, she doesn't know much about accessibility.
 </p>
 <div class="quotes">
