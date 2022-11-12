@@ -63,6 +63,10 @@ inline_css: |
 
 ---
 
+{% include minimal-header.html
+   title="[Draft] Standards to Make Your LMS Accessible"
+%}
+
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
@@ -169,22 +173,22 @@ LMSs need to produce accessible content. Part of that is up to your tool and par
 
 Your learning management system (LMS) is sometimes called an "authoring tool" because people use it to author or create course content.
 
-There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
+There is an international standard to help you meet accessibility needs: Authoring Tool Accessibility Guidelines (ATAG). ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
 
-Use ATAG to help make your tool:
+**Use Authoring Tool Accessibility Guidelines (ATAG) to help make your tool**:
 
-* accessible to instructors and other users with disabilities (Part A)
-* support accessible content for students (Part B)
+* **accessible to instructors and other users with disabilities (Part A)**
+* **support accessible content for students (Part B)**
 
 ATAG covers the example scenarios above:
 
-* **Everyone can use previews** &mdash; ATAG says: Ensure that previews are accessible. Course authors often periodically check how browsers will display the content to students. Authors with disabilities need the same opportunity to check their work.
-* **Everyone can edit content** &mdash; ATAG says: Provide keyboard access to authoring features. Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool.
-* **The LMS helps make course content accessible** &mdash; ATAG says: Guide authors to produce accessible content. Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
+* _Everyone can use previews_ &mdash; ATAG says: Ensure that previews are accessible. Course authors often periodically check how browsers will display the content to students. Authors with disabilities need the same opportunity to check their work.
+* _Everyone can edit content_ &mdash; ATAG says: Provide keyboard access to authoring features. Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool.
+* _The LMS helps make course content accessible_ &mdash; ATAG says: Guide authors to produce accessible content. Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
 
 And ATAG covers much more.
 
-To get started putting ATAG to work for you, see:
+**To get started putting ATAG to work for you, see**:
 
-* [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and Implementing ATAG
-* [[ATAG at a Glance]](/standards-guidelines/atag/glance/), a paraphrased summary to give you an idea of what's covered in ATAG
+* **[[ATAG Overview]](/standards-guidelines/atag/)**, with links to the ATAG standard and Implementing ATAG
+* **[[ATAG at a Glance]](/standards-guidelines/atag/glance/)**, a paraphrased summary to give you an idea of what's covered in ATAG
