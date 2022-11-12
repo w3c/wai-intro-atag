@@ -67,15 +67,13 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your learning management system (LMS) and other education tools accessible to people with disabilities.
-
-It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
+This page briefly introduces a standard to help make your learning management system (LMS) and other education tools accessible to people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-{::options toc_levels="2,3" /}
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
@@ -91,12 +89,14 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 Your current customers and potential new customers need learning management systems (LMS) that:
 
-* are accessible to LMS users with disabilities
+* are accessible to instructors and other LMS users with disabilities
 * produce accessible content for students
 
 In many situations, accessibility is required by law and is a procurement requirement.
 
-## Examples
+## Example Scenarios
+
+The persona scenarios below are examples of accessibility issues with LMSs.
 
 ### Everyone Can Use Previews
 
@@ -165,7 +165,6 @@ Some people cannot use a mouse. They need to be able to use your LMS with their 
 
 LMSs need to produce accessible content. Part of that is up to your tool and part is up to the user. Your tool can provide prompts and information to help users know what they need to do to provide accessible course content.
 
-
 ## The Accessibility Standard to Help You
 
 Your learning management system (LMS) is sometimes called an "authoring tool" because people use it to author or create course content.
@@ -177,7 +176,7 @@ Use ATAG to help make your tool:
 * accessible to instructors and other users with disabilities (Part A)
 * support accessible content for students (Part B)
 
-ATAG covers the example personas above:
+ATAG covers the example scenarios above:
 
 * **Everyone can use previews** &mdash; ATAG says: Ensure that previews are accessible. Course authors often periodically check how browsers will display the content to students. Authors with disabilities need the same opportunity to check their work.
 * **Everyone can edit content** &mdash; ATAG says: Provide keyboard access to authoring features. Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool.
