@@ -49,17 +49,17 @@ footer: >
    <p><strong>Editors:</strong> @@name, @@name. Contributors: @@name, @@name, and <a href="https://www.w3.org/groups/wg/@@wg/participants">participants of the @@WG</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the @@ Working Group (<a href="http://www.w3.org/WAI/@@/">@@WG</a>). Developed as part of the <a href="https://www.w3.org/WAI/@@/">WAI-@@ project</a>, @@co-funded by the European Commission.</p>
 
+class: tight-page
+
 inline_css: |
-  blockquote {font-style: normal !important;}
-  blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
-  blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin: 0;}
   .quotes {margin-bottom: 0;}
   .quotes ul {list-style-type: none;}
   .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
-  .issue {font-weight: bold; display:table-cell; width: 6em;}
-  q:before {content: open-quote;color: #005a6a;font-weight: bold;}
-  q:after {content: close-quote;color: #005a6a;font-weight: bold;}
+  .persona {font-style: italic;}
+  .issue {font-style: italic; display:table-cell; width: 6em;}
+  q:before {content: open-quote;color: #005a6a;font-style: italic;}
+  q:after {content: close-quote;color: #005a6a;font-style: italic;}
 
 ---
 
@@ -67,15 +67,13 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your learning management system (LMS) and other education tools accessible to people with disabilities.
-
-It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
+This page briefly introduces a standard to help make your learning management system (LMS) and other education tools accessible to people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-{::options toc_levels="2,3" /}
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
@@ -91,16 +89,18 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 Your current customers and potential new customers need learning management systems (LMS) that:
 
-* are accessible to LMS users with disabilities
+* are accessible to instructors and other LMS users with disabilities
 * produce accessible content for students
 
-In many situations, accessibility is required by law and is a procurement requirement.
+**Accessibility is required by law and is a procurement requirement** in many situations.
 
-## Examples
+## Example Scenarios
+
+The persona scenarios below are examples of accessibility issues with LMSs.
 
 ### Everyone Can Use Previews
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
  Zola is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
 </p>
 <div class="quotes">
@@ -122,7 +122,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 ### Everyone Can Edit Content
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
   Aroon is a school administrator. He is a quadriplegic and uses speech recognition to navigate through applications and websites.
   </p>
 
@@ -145,7 +145,7 @@ Some people cannot use a mouse. They need to be able to use your LMS with their 
 
 ### The LMS Helps Make Course Content Accessible
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
   Irina is the director of an online professional training center. She is an expert in her job; however, she doesn't know much about accessibility.
 </p>
 <div class="quotes">
@@ -165,27 +165,32 @@ Some people cannot use a mouse. They need to be able to use your LMS with their 
 
 LMSs need to produce accessible content. Part of that is up to your tool and part is up to the user. Your tool can provide prompts and information to help users know what they need to do to provide accessible course content.
 
-
 ## The Accessibility Standard to Help You
 
-Your learning management system (LMS) is sometimes called an "authoring tool" because people use it to author or create course content.
+Your learning management system (LMS) is sometimes called an "authoring tool" because people use it to author or create course content. There is an international standard that addresses accessibility needs in LMSs: Authoring Tool Accessibility Guidelines (ATAG).
 
-There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
+**Use ATAG to help make your tool**:
 
-Use ATAG to help make your tool:
+* **accessible to instructors and other users with disabilities (Part A)**
+* **support accessible content for students (Part B)**
 
-* accessible to instructors and other users with disabilities (Part A)
-* support accessible content for students (Part B)
+{::nomarkdown}
+{% include box.html type="start" title="Examples" class="simple aside" %}
+{:/}
 
-ATAG covers the example personas above:
+ATAG covers the example scenarios above:
 
-* **Everyone can use previews** &mdash; ATAG says: Ensure that previews are accessible. Course authors often periodically check how browsers will display the content to students. Authors with disabilities need the same opportunity to check their work.
-* **Everyone can edit content** &mdash; ATAG says: Provide keyboard access to authoring features. Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool.
-* **The LMS helps make course content accessible** &mdash; ATAG says: Guide authors to produce accessible content. Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
+* _Everyone can use previews_ &mdash; ATAG says: Ensure that previews are accessible. Course authors often periodically check how browsers will display the content to students. Authors with disabilities need the same opportunity to check their work.
+* _Everyone can edit content_ &mdash; ATAG says: Provide keyboard access to authoring features. Some authors with limited mobility or visual disabilities do not use a mouse. Instead, they require keyboard interface access to all of the functionality of the authoring tool.
+* _The LMS helps make course content accessible_ &mdash; ATAG says: Guide authors to produce accessible content. Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
 
 And ATAG covers much more.
 
-To get started putting ATAG to work for you, see:
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-* [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and Implementing ATAG
-* [[ATAG at a Glance]](/standards-guidelines/atag/glance/), a paraphrased summary to give you an idea of what's covered in ATAG
+**To get started putting ATAG to work for you, see**:
+
+* **[[ATAG Overview]](/standards-guidelines/atag/)**, with links to the ATAG standard and Implementing ATAG
+* **[[ATAG at a Glance]](/standards-guidelines/atag/glance/)**, a paraphrased summary to give you an idea of what's covered in ATAG
