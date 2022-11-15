@@ -107,7 +107,7 @@ The persona scenarios below are examples of accessibility issues with LMSs.
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't preview uploaded content using my screen reader. I can't navigate the preview like I can a regular web page.
+        I can't preview uploaded content for my students using my screen reader. I can't navigate the preview like I can a regular web page.
       </q></span></p>
     </li>
     <li>
@@ -118,7 +118,7 @@ The persona scenarios below are examples of accessibility issues with LMSs.
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to preview the course content.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to preview the course content before posting it for students.
 
 ### Everyone Can Edit Content
 
