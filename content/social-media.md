@@ -85,11 +85,14 @@ This page briefly introduces a standard to help you make your social media platf
 {:/}
 
 ## Why Accessibility Matters
-These days, everyone uses social media to create and consume content. That includes people with disabilities. When you make your tool accessible you are being inclusive, and you are avoiding potential reputational costs.
+
+People with and without disabilities use social media to create and consume content in different environments. These include work, leisure, hobbies, and others.
+
+If you make your social media tool accessible, you are being inclusive of people with disabilities, and your improving your tool's reputation.
 
 People need social media that:
 
-* is accessible to social media users with disabilities
+* is accessible to users with disabilities
 * can produce accessible content
 
 **Accessibility is required by law and is a procurement requirement** in many situations.
@@ -101,7 +104,7 @@ The persona scenarios below are examples of accessibility issues with LMSs.
 ### Everyone Can Rely on your Tool
 
 <p><span class="persona">Persona: </span>
- Banele is a blind community manager. She uses a screen reader that reads aloud the information on her screen.
+ Banele is a community manager with low vision. She uses magnification software to increase the font size.
 </p>
 <div class="quotes">
   <ul>
@@ -118,55 +121,55 @@ The persona scenarios below are examples of accessibility issues with LMSs.
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often rely on your tool to do their job. You need to ensure accessibility is preserved when updating your tool's user interface or functionality.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often rely on social media tools to do their job. You need to ensure accessibility is preserved when updating your tool's user interface or functionality.
 
 ### Everyone can Process Content at Their Own Pace
 
 <p><span class="persona">Persona: </span>
-  Nushi is an influencer with low vision. She uses magnification software to increase the font size.
+  Nushi is a blind influencer with a lot of followers. He uses a screen reader that reads aloud the information on his screen.
   </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I can't read the content in this tool. It updates so quickly that I cannot follow through.
+        It takes a lot of time for me to search through the comments on my posts and skip to new comments.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I can decide when the tool refreshes for new content. This way I can read at my own pace when content updates are very fast.
+        I can search through comments quickly using my screen reader so I can react and reply to followers easily. 
       </q></span></p>
     </li>
   </ul>
 </div>
 
-people who interact with social platforms have different abilities. Some need to read content at a different pace. Your tool should allow them to decide how they want to process the new content that appears.
+people who interact with social media tools have different abilities. Some read and process content in different ways. Different types of assistive technologies that people use need to be able to interact with your tool.
 
 ### The Tool Supports the Creation of Accessible Social Experiences
 
 <p><span class="persona">Persona: </span>
-  Enhamed is a journalist. He is an authoritative source in his community, but has no idea about accessibility.
+  Enhamed is a streamer. He has no idea about accessibility.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I get complaints that links, images, and videos that I upload are not accessible. I can't do anything about it, my tool does not allow me to change anything in them.
+        I get complaints that my images and videos are not accessible. I can't do anything about it, my tool does not allow me to change anything in them.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        When I add a link, I can change its texts so that it is clear what the link is about. when I upload images and videos, the tool suggests me to add alternative texts, captions, and descriptions as appropriate.
+        when I start streaming, the tool suggests me to add alternatives for images and videos, including captions and descriptions.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-People who post to social media need to be able to create accessible social experiences. This includes using a clear link text that explains what the link is about, as well as adding alternatives to images and multimedia.
+Streamers and other broadcasters need tools that can create accessible social experiences. This includes adding alternatives to images and multimedia.
 
 ## The Accessibility Standard to Help You
 
-Your social media tool is sometimes called an "authoring tool" because people use it to share content with their family, friends, and colleagues. There is an international standard that addresses accessibility needs in social media tools: Authoring Tool Accessibility Guidelines (ATAG).
+Your social media tool is sometimes called an "authoring tool" because people use it to share content with their family, friends, colleagues, and followers. There is an international standard that addresses accessibility needs in social media tools: Authoring Tool Accessibility Guidelines (ATAG).
 
 **Use ATAG to help make your tool**:
 
