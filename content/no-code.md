@@ -50,17 +50,17 @@ footer: >
    <p><strong>Editors:</strong> @@name, @@name. Contributors: @@name, @@name, and <a href="https://www.w3.org/groups/wg/@@wg/participants">participants of the @@WG</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the @@ Working Group (<a href="http://www.w3.org/WAI/@@/">@@WG</a>). Developed as part of the <a href="https://www.w3.org/WAI/@@/">WAI-@@ project</a>, @@co-funded by the European Commission.</p>
 
+class: tight-page
+
 inline_css: |
-  blockquote {font-style: normal !important;}
-  blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
-  blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin: 0;}
   .quotes {margin-bottom: 0;}
   .quotes ul {list-style-type: none;}
   .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
-  .issue {font-weight: bold; display:table-cell; width: 6em;}
-  q:before {content: open-quote;color: #005a6a;font-weight: bold;}
-  q:after {content: close-quote;color: #005a6a;font-weight: bold;}
+  .persona {font-style: italic;}
+  .issue {font-style: italic; display:table-cell; width: 6em;}
+  q:before {content: open-quote;color: #005a6a;font-style: italic;}
+  q:after {content: close-quote;color: #005a6a;font-style: italic;}
 
 ---
 
@@ -68,15 +68,13 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your no-code website tool accessible to people with disabilities.
-
-It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
+This page briefly introduces a standard to help you make your no-code website tool accessible to people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-{::options toc_levels="2,3" /}
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
@@ -90,18 +88,20 @@ It includes quotes from personas (fictional users) to help you understand some a
 
 ## Why Accessibility Matters
 
-Your current customers and potential new customers need no-code website tools, including @@@, that:
+Website makers need no-code tools, including CMSs, and website generators, that:
 
-* are accessible to no-code tool users with disabilities
-* produce accessible content
+* are accessible to website makers with disabilities
+* can create accessible websites
 
-In many situations, accessibility is required by law and is a procurement requirement.
+**Accessibility is required by law and is a procurement requirement** in many situations.
 
-## Examples
+## Example Scenarios
+
+The persona scenarios below are examples of accessibility issues with no-code tools.
 
 ### Everyone Can Add Blocks of Content
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
  Mohamed is a cook. He is blind and uses a screen reader that reads aloud the information on his screen.
 </p>
 <div class="quotes">
@@ -123,7 +123,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 ### The Tool Should Support the Production of Accessible Content
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
   Amahle is a hairdresser. She has a small website to handle client appointments.
 </p>
 
@@ -146,7 +146,7 @@ Your users may not be able to fix accessibility issues. Your tool needs to suppo
 
 ### The Tool Supports the Creation of Accessible Multimedia Content
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
   Dacso runs a mechanics shop. He has a website where he puts videos that show how they fix cars and motorbikes.
 </p>
 <div class="quotes">
@@ -168,25 +168,26 @@ Your users may not have the knowledge and/or resources to create accessible mult
 
 ## The Accessibility Standard to Help You
 
-Your no-code tool is sometimes called an "authoring tool". It can enable users to create accessible websites and multimedia content.
+Your no-code tool is sometimes called an "authoring tool" because people use it to create websites. There is an international standard that addresses accessibility needs in no-code tools: Authoring Tool Accessibility Guidelines (ATAG).
 
-There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
+**Use ATAG to help make your tool**:
 
-Use ATAG to help make your tool:
+* **accessible to website creators (Part A)**
+* **support accessible content for website consumers (Part B)**
 
-* accessible to website creators (Part A)
-* support accessible content for website consumers (Part B)
+ATAG covers the example scenarios above:
 
-ATAG covers the example personas above:
-
-* **Everyone can add blocks of content**: [TBD]
-* **Everyone can produce accessible content**: [TBD] 
-* **The tool supports the creation of accessible multimedia content**: [TBD]
+* _Everyone can add blocks of content_: [TBD]
+* _Everyone can produce accessible content_: [TBD] 
+* _The tool supports the creation of accessible multimedia content_: [TBD]
 
 And ATAG covers much more.
 
-To get started putting ATAG to work for you, see:
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-* [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and implementing ATAG
-* [[ATAG at a Glance]](/standards-guidelines/atag/glance/), a paraphrased summary to give you an idea of what's covered in ATAG
+**To get started putting ATAG to work for you, see**:
 
+* **[[ATAG Overview]](/standards-guidelines/atag/)**, with links to the ATAG standard and Implementing ATAG
+* **[[ATAG at a Glance]](/standards-guidelines/atag/glance/)**, a paraphrased summary to give you an idea of what's covered in ATAG

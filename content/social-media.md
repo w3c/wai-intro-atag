@@ -48,17 +48,17 @@ footer: >
    <p><strong>Editors:</strong> @@name, @@name. Contributors: @@name, @@name, and <a href="https://www.w3.org/groups/wg/@@wg/participants">participants of the @@WG</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the @@ Working Group (<a href="http://www.w3.org/WAI/@@/">@@WG</a>). Developed as part of the <a href="https://www.w3.org/WAI/@@/">WAI-@@ project</a>, @@co-funded by the European Commission.</p>
 
+class: tight-page
+
 inline_css: |
-  blockquote {font-style: normal !important;}
-  blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
-  blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin: 0;}
   .quotes {margin-bottom: 0;}
   .quotes ul {list-style-type: none;}
   .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
-  .issue {font-weight: bold; display:table-cell; width: 6em;}
-  q:before {content: open-quote;color: #005a6a;font-weight: bold;}
-  q:after {content: close-quote;color: #005a6a;font-weight: bold;}
+  .persona {font-style: italic;}
+  .issue {font-style: italic; display:table-cell; width: 6em;}
+  q:before {content: open-quote;color: #005a6a;font-style: italic;}
+  q:after {content: close-quote;color: #005a6a;font-style: italic;}
 
 ---
 
@@ -66,15 +66,13 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a standard to help you make your social media platform accessible to people with disabilities.
-
-It includes quotes from personas (fictional users) to help you understand some aspects of accessibility specific to your tools.
+This page briefly introduces a standard to help you make your social media platform accessible to people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-{::options toc_levels="2,3" /}
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
@@ -87,20 +85,22 @@ It includes quotes from personas (fictional users) to help you understand some a
 {:/}
 
 ## Why Accessibility Matters
+These days, everyone uses social media to create and consume content. That includes people with disabilities. When you make your tool accessible you are being inclusive, and you are avoiding potential reputational costs.
 
+People need social media that:
 
-Users of your social media tool may have disabilities. People who consume the posts in your tool may also have disabilities. Making your tool accessible reinforces how inclusive your tool is and avoids potential reputational costs.
+* is accessible to social media users with disabilities
+* can produce accessible content
 
-* are accessible to social media users with disabilities
-* produce accessible content
+**Accessibility is required by law and is a procurement requirement** in many situations.
 
-In many situations, accessibility is required by law and is a procurement requirement.
+## Example Scenarios
 
-## Examples
+The persona scenarios below are examples of accessibility issues with LMSs.
 
 ### Everyone Can Rely on your Tool
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
  Banele is a blind community manager. She uses a screen reader that reads aloud the information on her screen.
 </p>
 <div class="quotes">
@@ -122,7 +122,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 ### Everyone can Process Content at Their Own Pace
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
   Nushi is an influencer with low vision. She uses magnification software to increase the font size.
   </p>
 <div class="quotes">
@@ -144,7 +144,7 @@ people who interact with social platforms have different abilities. Some need to
 
 ### The Tool Supports the Creation of Accessible Social Experiences
 
-<p class="persona"><strong>Persona: </strong>
+<p><span class="persona">Persona: </span>
   Enhamed is a journalist. He is an authoritative source in his community, but has no idea about accessibility.
 </p>
 <div class="quotes">
@@ -166,23 +166,30 @@ People who post to social media need to be able to create accessible social expe
 
 ## The Accessibility Standard to Help You
 
-Your social media platform is an "authoring tool". It can enable users to create accessible social experiences.
+Your social media tool is sometimes called an "authoring tool" because people use it to share content with their family, friends, and colleagues. There is an international standard that addresses accessibility needs in social media tools: Authoring Tool Accessibility Guidelines (ATAG).
 
-There is an international standard to help you meet accessibility needs: **Authoring Tool Accessibility Guidelines (ATAG)**. ATAG is developed by the W3C Web Accessibility Initiative ([WAI](/WAI/)).
+**Use ATAG to help make your tool**:
 
-Use ATAG to help make your tool:
+* **accessible to content creators (Part A)**
+* **support accessible content for content consumers (Part B)**
 
-* accessible to content creators (Part A)
-* support accessible content for content consumers (Part B)
+{::nomarkdown}
+{% include box.html type="start" title="Examples" class="simple aside" %}
+{:/}
 
-ATAG covers the above examples:
+ATAG covers the example scenarios above:
 
-* **Everyone Can Rely on your Tool**: [TBD]
-* **Everyone can Process Content at Their Own Pace **: [TBD]
-* **The Tool supports the creation of accessible social experiences**: [TBD]
+* _Everyone Can Rely on your Tool_ &mdash; [TBD]
+* _Everyone can Process Content at Their Own Pace_ &mdash; [TBD]
+* _The Tool supports the creation of accessible social experiences_ &mdash; [TBD]
 
-To get started putting ATAG to work for you, see:
+And ATAG covers much more.
 
-* [[ATAG Overview]](/standards-guidelines/atag/), with links to the ATAG standard and implementing ATAG
-* [[ATAG at a Glance]](/standards-guidelines/atag/glance/), a paraphrased summary to give you an idea of what's covered in ATAG
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+**To get started putting ATAG to work for you, see**:
+
+* **[[ATAG Overview]](/standards-guidelines/atag/)**, with links to the ATAG standard and Implementing ATAG
+* **[[ATAG at a Glance]](/standards-guidelines/atag/glance/)**, a paraphrased summary to give you an idea of what's covered in ATAG
