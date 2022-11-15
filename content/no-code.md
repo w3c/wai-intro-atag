@@ -4,8 +4,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "[Draft] Guidelines to Make Your No-Code website Tool Accessible"
-# title_html: "[Draft] Guidelines to Make your No-Code website Tool Accessible<br>Get the gist of what your tool needs to support accessible website creation"
+title: "[Draft] Guidelines to Make Your No-Code Website Tool Accessible"
+# title_html: "[Draft] Guidelines to Make your No-Code Website Tool Accessible<br>Get the gist of what your tool needs to support accessible website creation"
 nav_title: "@@ No-Code"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -91,7 +91,7 @@ This page briefly introduces a standard to help you make your no-code website to
 Addressing accessibility can be challenging for website creators and maintainers who do not have the time, skills, or resources. Website creators need no-code tools, including CMSs, and website generators, that:
 
 * are accessible to website creators with disabilities
-* can create accessible websites
+* output accessible content
 
 **Accessibility is required by law and is a procurement requirement** in many situations.
 
@@ -102,7 +102,7 @@ The persona scenarios below are examples of accessibility issues with no-code to
 ### Everyone Can Add Blocks of Content
 
 <p><span class="persona">Persona: </span>
- Mohamed is a cook. He is blind and uses a screen reader that reads aloud the information on his screen.
+ Mohamed is an independent consultant. He maintains a website to attract clients. He is blind and uses a screen reader that reads aloud the information on his screen.
 </p>
 <div class="quotes">
   <ul>
@@ -113,58 +113,58 @@ The persona scenarios below are examples of accessibility issues with no-code to
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I can use the keyboard to select the block of content I want to use and then put it wherever I want on the page.
+        I can use the keyboard to select the block of content I want to use and then put it wherever I want on the page. Everything is announced properly including the type of block and the location where I place it.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to add, customize,and remove blocks of content.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to add, customize,and remove blocks of content. This includes providing clear instructions on how to use your system as well as ensuring your code works with assistive technology.
 
-### The Tool Supports the Production of Accessible Content
+### The Tool Supports the Production of Accessible Content. 
 
 <p><span class="persona">Persona: </span>
-  Amahle is a hairdresser. She has a small website to handle client appointments.
+  Amahle is a hairdresser. She’s learned to build a simple website to handle client appointments using a no-code tool.
 </p>
 
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        My clients say they cannot book an appointment because my website has accessibility issues. The tool I am using does not have anything to improve the accessibility of my website.
+        Some of my clients say they cannot book an appointment because my website has accessibility issues. When I tried to make changes, the tool I am using does not tell  me how to improve the accessibility of my website.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        The tool suggests me to add headings, lists, and labels. My clients say it is very accessible.
-      </q></span></p>
+        The tool provides tips like color combinations I should avoid and makes suggestions like adding headings, lists, and labels. My clients say the appointment tool is also very accessible.
+      <q></span></p>
     </li>
   </ul>
 </div>
 
-Your users may not be able to fix accessibility issues. Your tool needs to support them when creating content so that the output is accessible. This includes making headings, paragraphs, lists, labels, and other content structures accessible.
+Your users may not be able to fix accessibility issues themselves. Your tool needs to support them when creating content so that the output is accessible. This includes making headings, paragraphs, lists, labels, and other content structures accessible.
 
 ### The Tool Supports the Creation of Accessible Multimedia Content
 
 <p><span class="persona">Persona: </span>
-  Dacso runs a mechanics shop. He has a website where he puts videos that show how they fix cars and motorbikes.
+  Dacso runs a mechanic shop. He has a website where he puts videos that show how they fix cars and motorbikes.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I have been told that my videos are not accessible. But I don't know what it means. My tool does not give me a clue on how I should make them accessible.
+        I have been told that my videos need captions, but I don't see how to add them with my website tool.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        Whenever I upload a video, my tool advices me to add captions and suggests me to add transcripts and descriptions for everybody to enjoy my videos.
+        Whenever I upload a video, my tool alerts me to add captions. They also have articles and tips that suggested I also add transcripts and how to describe the video.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Your users may not have the knowledge and/or resources to create accessible multimedia content for people who cannot see and hear well or at all. Your tool needs to support the addition of alternatives for audio and video content so that people with disabilities can enjoy them.
+Your users may not have the knowledge and/or resources to create accessible multimedia content for people who cannot see or hear well or at all. Your tool needs to support the addition of alternatives for audio and video content so that people with disabilities can enjoy them.
 
 ## The Accessibility Standard to Help You
 
