@@ -143,7 +143,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
   </ul>
 </div>
 
-People who use social media have different abilities like reading content at different paces. Your tool should allow them to decide how they want to process the new content that appears.
+People who use social media have different abilities. For example, they may read content at different paces. Your tool should allow them to decide how they want to process the new content that appears.
 
 ### The Tool Supports the Creation of Accessible Social Experiences
 
