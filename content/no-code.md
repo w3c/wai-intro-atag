@@ -88,9 +88,9 @@ This page briefly introduces a standard to help you make your no-code website to
 
 ## Why Accessibility Matters
 
-Website makers need no-code tools, including CMSs, and website generators, that:
+Addressing accessibility can be challenging for website creators and maintainers who do not have the time, skills, or resources . Website creators need no-code tools, including CMSs, and website generators, that:
 
-* are accessible to website makers with disabilities
+* are accessible to website creators with disabilities
 * can create accessible websites
 
 **Accessibility is required by law and is a procurement requirement** in many situations.
@@ -121,7 +121,7 @@ The persona scenarios below are examples of accessibility issues with no-code to
 
 Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to add, customize,and remove blocks of content.
 
-### The Tool Should Support the Production of Accessible Content
+### The Tool Supports the Production of Accessible Content
 
 <p><span class="persona">Persona: </span>
   Amahle is a hairdresser. She has a small website to handle client appointments.
