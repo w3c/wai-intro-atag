@@ -104,18 +104,18 @@ The persona scenarios below are examples of accessibility issues with LMSs.
 ### Everyone Can Rely on your Tool
 
 <p><span class="persona">Persona: </span>
- Banele is a community manager with low vision. She uses magnification software to increase the font size.
+ Banele is a social media consultant with low vision. She uses magnification software to increase the font size.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I used to be able to manage my client’s social media profile. The  tool updated and broke most of the accessibility features. I am no longer able to do my job.
+        I used to be able to manage my client’s profiles with my magnification software. The tool updated and broke most of the accessibility features. I am no longer able to do my job.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        The tool keeps being accessible update after update. If something ever breaks, I can go back to the previous version of the tool where it worked as expected.
+        Tool updates preserve accessibility features. If something ever breaks, I can go back to the previous version of the tool where it worked as expected.
       </q></span></p>
     </li>
   </ul>
@@ -126,24 +126,24 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 ### Everyone can Process Content at Their Own Pace
 
 <p><span class="persona">Persona: </span>
-  Nushi is a blind influencer with a lot of followers. He uses a screen reader that reads aloud the information on his screen.
+  Nushi is an influencer with reading disabilities. He uses tools to have text read aloud.
   </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        It takes a lot of time for me to search through the comments on my posts and skip to new comments.
+        When content refreshes too fast, I have problems to keep up-to-date.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I can search through comments quickly using my screen reader so I can react and reply to followers easily. 
+        I can decide when to have new content appear. This way I can read at my own pace and use tools to read content aloud if needed.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-people who interact with social media tools have different abilities. Some read and process content in different ways. Different types of assistive technologies that people use need to be able to interact with your tool.
+People who use social media have different abilities like reading content at different paces. Your tool should allow them to decide how they want to process the new content that appears.
 
 ### The Tool Supports the Creation of Accessible Social Experiences
 
@@ -154,18 +154,18 @@ people who interact with social media tools have different abilities. Some read 
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I get complaints that my images and videos are not accessible. I can't do anything about it, my tool does not allow me to change anything in them.
+        I get complaints that my links, images and videos are not accessible.  I can't do anything about it because my tool does not allow me to add these features.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        when I start streaming, the tool suggests me to add alternatives for images and videos, including captions and descriptions.
+        I can add alt text for my images, show captions for my videos, and write custom text for my links.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Streamers and other broadcasters need tools that can create accessible social experiences. This includes adding alternatives to images and multimedia.
+Streamers and other broadcasters need tools that can create accessible social experiences. This includes adding alternatives to images and multimedia and using a clear link text that explains what the link is about.
 
 ## The Accessibility Standard to Help You
 
