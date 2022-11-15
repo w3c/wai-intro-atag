@@ -88,7 +88,7 @@ This page briefly introduces a standard to help you make your no-code website to
 
 ## Why Accessibility Matters
 
-Addressing accessibility can be challenging for website creators and maintainers who do not have the time, skills, or resources . Website creators need no-code tools, including CMSs, and website generators, that:
+Addressing accessibility can be challenging for website creators and maintainers who do not have the time, skills, or resources. Website creators need no-code tools, including CMSs, and website generators, that:
 
 * are accessible to website creators with disabilities
 * can create accessible websites
