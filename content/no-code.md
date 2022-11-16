@@ -88,12 +88,16 @@ This page briefly introduces a standard to help you make your no-code website to
 
 ## Why Accessibility Matters
 
-Addressing accessibility can be challenging for website creators and maintainers who do not have the time, skills, or resources. Website creators need no-code tools, including CMSs, and website generators, that:
+People with disabilities use your no-code tool to create and consume websites.
+
+By making your no-code tool accessible, you are helping website creators and maintainers who do not have the time, skills, or resources to address accessibility. You are also being more inclusive of people with disabilities by generating accessible content from the ground up.
+
+Website creators need no-code tools, including CMSs, and website generators, that:
 
 * are accessible to website creators with disabilities
 * output accessible content
 
-**Accessibility is required by law and is a procurement requirement** in many situations.
+**Accessibility is a procurement requirement** in many situations.
 
 ## Example Scenarios
 
@@ -174,6 +178,10 @@ Your no-code tool is sometimes called an "authoring tool" because people use it 
 
 * **accessible to website creators (Part A)**
 * **support accessible content for website consumers (Part B)**
+
+{::nomarkdown}
+{% include box.html type="start" title="Examples" class="simple aside" %}
+{:/}
 
 ATAG covers the example scenarios above:
 

@@ -104,13 +104,13 @@ The persona scenarios below are examples of accessibility issues with LMSs.
 ### Everyone Can Rely on your Tool
 
 <p><span class="persona">Persona: </span>
- Banele is a social media consultant with low vision. She uses magnification software to increase the font size.
+ Banele is a social media consultant with low vision. She relies on magnification software to increase the font size of the tools she uses.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I used to be able to manage my client’s profiles with my magnification software. The tool updated and broke most of the accessibility features. I am no longer able to do my job.
+        I used to be able to read through client messsages using our social media platform and my magnification software.  Unfortunately, after the last update, my magnification software no longer works, so I can't read with text at the size I need.
       </q></span></p>
     </li>
     <li>
@@ -121,7 +121,7 @@ The persona scenarios below are examples of accessibility issues with LMSs.
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often rely on social media tools to do their job. You need to ensure accessibility is preserved when updating your tool's user interface or functionality.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often rely on robust platforms which work with the assistive technology they use. You need to ensure accessibility is preserved when updating your tool's user interface or functionality.
 
 ### Everyone can Read and Process Content at Their Own Pace
 
@@ -137,7 +137,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I can decide when to have new content appear. This way I can read at my own pace, use tools to read content aloud if needed, and make sure I'm reacting and responding to my followers when I need to. 
+        I can decide when to have new content appear. This way I can read at my own pace, use tools to read content aloud if needed, and make sure I am reacting and responding to my followers when I need to. 
       </q></span></p>
     </li>
   </ul>
@@ -148,13 +148,13 @@ People who use social media have different abilities. For example, they may read
 ### The Tool Supports the Creation of Accessible Social Experiences
 
 <p><span class="persona">Persona: </span>
-  Enhamed is a streamer. He has no idea about accessibility.
+  Enhamed manages the social media profile of a small business. He has just started thinking about the accessibility of the content he uploads.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I get complaints that my links, images and videos are not accessible.  I can't do anything about it because my tool does not allow me to add these features.
+        I get complaints from customers that our links, images and videos are not accessible.  I can't do anything about it because my tool does not allow me to add these features.
       </q></span></p>
     </li>
     <li>
@@ -165,7 +165,7 @@ People who use social media have different abilities. For example, they may read
   </ul>
 </div>
 
-Streamers and other broadcasters need tools that can create accessible social experiences. This includes adding alternatives to images and multimedia and using a clear link text that explains what the link is about.
+People who upload different types of content need tools that can create accessible social experiences. This includes adding alternatives to images and multimedia and using a clear link text that explains what the link is about.
 
 ## The Accessibility Standard to Help You
 
