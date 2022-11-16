@@ -68,7 +68,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page briefly introduces a standard to help you make your no-code website tool accessible to people with disabilities.
+This page briefly introduces a standard to help you make your no-code website tool accessible to creators, designers, and end users with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -124,19 +124,19 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 ### The Tool Supports the Production of Accessible Content. 
 
 <p><span class="persona">Persona: </span>
-  Amahle is a hairdresser. She’s learned to build a simple website to handle client appointments using a no-code tool.
+  Amahle is a hairdresser. She has learned to build a simple website to handle client appointments using a no-code tool.
 </p>
 
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        Some of my clients say they cannot book an appointment because my website has accessibility issues. When I tried to make changes, the tool I am using does not tell  me how to improve the accessibility of my website.
+        Some of my clients cannot select the time and date when booking an appointment through my website. When I tried to make changes, the tool I am using does not help me fix these accessibility issues.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        The tool provides tips like color combinations I should avoid and makes suggestions like adding headings, lists, and labels. My clients say the appointment tool is also very accessible.
+        The tool has an accessible calendar widget. It also suggests me color combinations I could use, and guides me to add headings, lists, and labels.
       </q></span></p>
     </li>
   </ul>
@@ -147,7 +147,7 @@ Your users may not be able to fix accessibility issues themselves. Your tool nee
 ### The Tool Supports the Creation of Accessible Multimedia Content
 
 <p><span class="persona">Persona: </span>
-  Dacso runs a mechanic shop. He has a website where he puts videos that show how they fix cars and motorbikes.
+  Dacso runs a mechanic shop. He has a website where he puts videos that give customers short tips for fixing cars and motorbikes.
 </p>
 <div class="quotes">
   <ul>
