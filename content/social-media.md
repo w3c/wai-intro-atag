@@ -86,11 +86,11 @@ This page briefly introduces a standard to help you make your social media platf
 
 ## Why Accessibility Matters
 
-People with and without disabilities use social media to create and consume content in different environments. These include work, leisure, hobbies, and others.
+People with disabilities use your social media tool for work, leisure, and others.
 
-If you make your social media tool accessible, you are being inclusive of people with disabilities, and your improving your tool's reputation.
+By making your social media tool accessible, you are being inclusive of people with disabilities and you are improving your tool's reputation.
 
-People need social media that:
+Content creators and content consumers need social media that:
 
 * is accessible to users with disabilities
 * can produce accessible content
