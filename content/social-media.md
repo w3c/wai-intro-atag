@@ -123,7 +123,7 @@ The persona scenarios below are examples of accessibility issues with LMSs.
 
 Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often rely on social media tools to do their job. You need to ensure accessibility is preserved when updating your tool's user interface or functionality.
 
-### Everyone can Process Content at Their Own Pace
+### Everyone can Read and Process Content at Their Own Pace
 
 <p><span class="persona">Persona: </span>
   Nushi is an influencer with reading disabilities. He uses tools to have text read aloud.
