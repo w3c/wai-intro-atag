@@ -66,7 +66,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page briefly introduces a standard to help you make your social media platform accessible to people with disabilities.
+This page briefly introduces a standard to help you make your social media platform accessible to creators and users with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -132,12 +132,12 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        When content refreshes too fast, I have problems to keep up-to-date.
+        When content refreshes too fast, I have problems keeping up-to-date. It is difficult for me to manage new comments.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I can decide when to have new content appear. This way I can read at my own pace and use tools to read content aloud if needed.
+        I can decide when to have new content appear. This way I can read at my own pace, use tools to read content aloud if needed, and make sure I'm reacting and responding to my followers when I need to. 
       </q></span></p>
     </li>
   </ul>
