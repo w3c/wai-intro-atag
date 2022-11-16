@@ -137,7 +137,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
     <li>
       <p><span class="issue">Works well: </span><span><q>
         The tool provides tips like color combinations I should avoid and makes suggestions like adding headings, lists, and labels. My clients say the appointment tool is also very accessible.
-      <q></span></p>
+      </q></span></p>
     </li>
   </ul>
 </div>
