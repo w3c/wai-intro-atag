@@ -99,7 +99,7 @@ Content creators and content consumers need social media that:
 
 ## Example Scenarios
 
-The persona scenarios below are examples of accessibility issues with LMSs.
+The persona scenarios below are examples of accessibility issues with social media platforms.
 
 ### Everyone Can Rely on your Tool
 
