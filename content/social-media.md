@@ -88,7 +88,7 @@ This page briefly introduces a standard to help you make your social media platf
 
 People with disabilities use your social media tool for work, leisure, and others.
 
-By making your social media tool accessible, you are being inclusive of people with disabilities and you are improving your tool's reputation.
+By making your social media tool accessible, you are helping create more inclusive communities and you are improving your tool's reputation.
 
 Content creators and content consumers need social media that:
 
