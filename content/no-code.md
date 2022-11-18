@@ -90,7 +90,7 @@ This page briefly introduces a standard to help you make your no-code website to
 
 People with disabilities use your no-code tool to create and consume websites.
 
-By making your no-code tool accessible, you are making your tool appealing for more people. You are also helping website creators and maintainers who do not have the time, skills, or resources to address accessibility. You are also being more inclusive of people with disabilities by generating accessible content from the ground up.
+By making your no-code tool accessible, you are making your tool appealing for more people.
 
 Website creators need no-code tools, including CMSs, and website generators, that:
 
