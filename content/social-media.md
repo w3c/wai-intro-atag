@@ -110,12 +110,12 @@ The persona scenarios below are examples of accessibility issues with social med
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I used to be able to read through client messsages using our social media platform and my magnification software.  Unfortunately, after the last update, my magnification software no longer works, so I can't read with text at the size I need.
+        I used to be able to read through and publish client messages using our social media platform and my magnification software. Unfortunately, after the last update, I can't get to the publish button when  my magnification software is enabled.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        Tool updates preserve accessibility features. If something ever breaks, I can go back to the previous version of the tool where it worked as expected.
+        The tool is overall very accessible. The last update even included some new accessibility features.
       </q></span></p>
     </li>
   </ul>
@@ -182,9 +182,9 @@ Your social media tool is sometimes called an "authoring tool" because people us
 
 ATAG covers the example scenarios above:
 
-* _Everyone Can Rely on your Tool_ &mdash; [TBD]
-* _Everyone can Process Content at Their Own Pace_ &mdash; [TBD]
-* _The Tool supports the creation of accessible social experiences_ &mdash; [TBD]
+* _Everyone Can Rely on your Tool_ &mdash; ATAG says: conforming to WCAG 2.0, following existing platform accessibility guidelines, and implementing communication with platform accessibility services facilitates access by all authors, including those using assistive technologies.
+* _Everyone can Process Content at Their Own Pace_ &mdash;ATAG says: Some authors who have difficulty typing, operating the mouse, or processing information can be prevented from using systems with short time limits or that require fast reaction speeds.
+* _The Tool supports the creation of accessible social experiences_ &mdash; ATAG says: When accessibility checking is an integrated function of the authoring tool, it helps make authors aware of web content accessibility problems (WCAG) during the authoring process, so they can be immediately addressed.
 
 And ATAG covers much more.
 

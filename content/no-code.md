@@ -185,9 +185,9 @@ Your no-code tool is sometimes called an "authoring tool" because people use it 
 
 ATAG covers the example scenarios above:
 
-* _Everyone can add blocks of content_: [TBD]
-* _Everyone can produce accessible content_: [TBD] 
-* _The tool supports the creation of accessible multimedia content_: [TBD]
+* _Everyone can add blocks of content_ &mdash; ATAG says: Rationale: Some authors with limited mobility or visual disabilities do not use a mouse and instead require keyboard interface access to all of the functionality of the authoring tool.
+* _Everyone can produce accessible content_ &mdash; ATAG says: To support accessible web content production, at minimum, it is possible to produce web content that conforms with WCAG 2.0 using the authoring tool.
+* _The tool supports the creation of accessible multimedia content_ &mdash; Atag says: Improperly generated alternative content can create web content accessibility problems (WCAG) and interfere with accessibility checking.
 
 And ATAG covers much more.
 
