@@ -87,7 +87,7 @@ This page briefly introduces a standard to help you make your no-code website to
 
 ## Why Accessibility Matters
 
-Your no-code tool users include people with disabilities. Your tool needs to be accessible to disabled content creators.
+People with disabilities need to use your no-code tool. Your tool needs to be accessible to disabled content creators.
 
 The websites and widgets that your tool outputs also need to be accessible to disabled website users.
 
