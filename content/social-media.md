@@ -101,7 +101,7 @@ Content creators and content consumers need social media that:
 
 The persona scenarios below are examples of accessibility issues with social media platforms.
 
-### Everyone Can Rely on your Tool
+### Everyone can rely on your tool
 
 <p><span class="persona">Persona: </span>
  Banele is a social media consultant with low vision. She relies on magnification software to increase the font size of the tools she uses.
@@ -123,7 +123,7 @@ The persona scenarios below are examples of accessibility issues with social med
 
 Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often rely on robust platforms which work with the assistive technology they use. You need to ensure accessibility is preserved when updating your tool's user interface or functionality.
 
-### Everyone can Read and Process Content at Their Own Pace
+### Everyone can read and process content at their own pace
 
 <p><span class="persona">Persona: </span>
   Nushi is an influencer with reading disabilities. He uses tools to have text read aloud.
@@ -145,7 +145,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 People who use social media have different abilities. For example, they may read content at different paces. Your tool should allow them to decide how they want to process the new content that appears.
 
-### The Tool Supports the Creation of Accessible Social Experiences
+### The tool supports the creation of accessible social experiences
 
 <p><span class="persona">Persona: </span>
   Enhamed manages the social media profile of a small business. He has just started thinking about the accessibility of the content he uploads.

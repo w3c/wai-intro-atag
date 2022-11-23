@@ -98,7 +98,7 @@ Your current customers and potential new customers need learning management syst
 
 The persona scenarios below are examples of accessibility issues with LMSs.
 
-### Everyone Can Use Previews
+### Everyone can use previews
 
 <p><span class="persona">Persona: </span>
  Zola is a physics professor at a large university. She is blind and uses a screen reader that reads aloud the information on her screen.
@@ -120,7 +120,7 @@ The persona scenarios below are examples of accessibility issues with LMSs.
 
 Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to preview the course content before posting it for students.
 
-### Everyone Can Edit Content
+### Everyone can edit content
 
 <p><span class="persona">Persona: </span>
   Aroon is a school administrator. He is a quadriplegic and uses speech recognition to navigate through applications and websites.
@@ -143,7 +143,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 Some people cannot use a mouse. They need to be able to use your LMS with their tools, such as speech recognition, keyboard, and switches. 
 
-### The LMS Helps Make Course Content Accessible
+### The LMS helps make course content accessible
 
 <p><span class="persona">Persona: </span>
   Irina is the director of an online professional training center. She is an expert in her job; however, she doesn't know much about accessibility.

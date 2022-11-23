@@ -103,7 +103,7 @@ Website creators and consumers need no-code tools, including CMSs, and website g
 
 The persona scenarios below are examples of accessibility issues with no-code tools.
 
-### Everyone Can Add Blocks of Content
+### Everyone can add blocks of content
 
 <p><span class="persona">Persona: </span>
  Mohamed is an independent consultant. He maintains a website to attract clients. He is blind and uses a screen reader that reads aloud the information on his screen.
@@ -125,7 +125,7 @@ The persona scenarios below are examples of accessibility issues with no-code to
 
 Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to add, customize,and remove blocks of content. This includes providing clear instructions on how to use your system as well as ensuring your code works with assistive technology.
 
-### The Tool Supports the Production of Accessible Content. 
+### The tool supports the production of accessible content
 
 <p><span class="persona">Persona: </span>
   Amahle is a hairdresser. She has learned to build a simple website to handle client appointments using a no-code tool.
@@ -148,7 +148,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 Your users may not be able to fix accessibility issues themselves. Your tool needs to support them when creating content so that the output is accessible. This includes making headings, paragraphs, lists, labels, and other content structures accessible.
 
-### The Tool Supports the Creation of Accessible Multimedia Content
+### The tool supports the creation of accessible multimedia content
 
 <p><span class="persona">Persona: </span>
   Dacso runs a mechanic shop. He has a website where he puts videos that give customers short tips for fixing cars and motorbikes.
