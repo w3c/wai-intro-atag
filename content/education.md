@@ -98,7 +98,7 @@ Accessibility for instructors and students is an essential aspect of diversity, 
 
 ## Example Scenarios
 
-The persona scenarios below are examples of accessibility issues with LMSs.
+These persona scenarios are examples of accessibility issues that disabled people experience using LMS.
 
 ### Everyone can use previews
 

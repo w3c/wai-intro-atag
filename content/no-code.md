@@ -97,7 +97,7 @@ Improving the accessibility of your tool and its output can be a strong competit
 
 ## Example Scenarios
 
-The persona scenarios below are examples of accessibility issues with no-code tools.
+These persona scenarios are examples of accessibility issues that disabled people experience using no-code tools.
 
 ### Everyone can add blocks of content
 
