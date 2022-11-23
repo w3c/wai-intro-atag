@@ -92,6 +92,8 @@ Your current customers and potential new customers need learning management syst
 * are accessible to instructors and other LMS users with disabilities
 * produce accessible content for students
 
+Accessibility for instructors and students is an essential aspect of diversity, equity, and inclusion.
+
 **Accessibility is required by law and is a procurement requirement** in many situations.
 
 ## Example Scenarios
