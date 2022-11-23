@@ -5,7 +5,6 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "[Draft] Guidelines to Make Your No-Code Website Tool Accessible"
-# title_html: "[Draft] Guidelines to Make your No-Code Website Tool Accessible<br>Get the gist of what your tool needs to support accessible website creation"
 nav_title: "@@ No-Code"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -88,16 +87,13 @@ This page briefly introduces a standard to help you make your no-code website to
 
 ## Why Accessibility Matters
 
-People with disabilities use your no-code tool to create and consume websites.
+People with disabilities need to use your no-code tool. Your tool needs to be accessible to disabled content creators.
 
-Your tool will be more appealing and more widely used if it is accessible to website creators and consumers.
+The websites and widgets that your tool outputs also need to be accessible to disabled website users.
 
-Website creators and consumers need no-code tools, including CMSs, and website generators, that:
+**Accessibility is required by law and is a procurement requirement** in many situations.
 
-* are accessible to website creators with disabilities
-* output accessible content for website consumers
-
-**Accessibility is a procurement requirement** in many situations.
+Improving the accessibility of your tool and its output can be a strong competitive advantage, particularly with the current focus on diversity, equity, and inclusion.
 
 ## Example Scenarios
 
@@ -106,73 +102,73 @@ The persona scenarios below are examples of accessibility issues with no-code to
 ### Everyone can add blocks of content
 
 <p><span class="persona">Persona: </span>
- Mohamed is an independent consultant. He maintains a website to attract clients. He is blind and uses a screen reader that reads aloud the information on his screen.
+ Mohamed is an independent consultant who has a website to attract clients. He is blind and uses a screen reader that reads aloud the information on his screen.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I want to add a new block of content to my home page. The documentation of my tool says I need to drag and drop, but I cannot do that as I do not use the mouse. I tried using my screen reader’s built-in functionality to drag and drop, but still it does not work.
+        I want to add a new section to my home page. The tool documentation says to drag and drop a content block. I can't do that, because I can't use a mouse. I tried using my screen reader’s built-in functionality to drag and drop, but it doesn't work with this tool.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I can use the keyboard to select the block of content I want to use and then put it wherever I want on the page. Everything is announced properly including the type of block and the location where I place it.
+        I can use the keyboard to select the content block and put it where I want on the page. Everything is announced properly, including the block type and the location where I place it.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to add, customize,and remove blocks of content. This includes providing clear instructions on how to use your system as well as ensuring your code works with assistive technology.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to add, customize, and remove blocks of content.
 
-### The tool supports the production of accessible content
+### The tool provides accessible components and templates
 
 <p><span class="persona">Persona: </span>
-  Amahle is a hairdresser. She has learned to build a simple website to handle client appointments using a no-code tool.
+  Amahle is a hairdresser and is proud that she created her own website. Clients use her website to schedule appointments, and it's a real time saver for her.
 </p>
 
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        Some of my clients cannot select the time and date when booking an appointment through my website. When I tried to make changes, the tool I am using does not help me fix these accessibility issues.
+        Some of my older clients say they cannot use the calendar widget to schedule an appointment. One says she uses large text and the buttons are cut off. Others have complained that the light gray text is too hard to read.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        The tool has an accessible calendar widget. It also suggests me color combinations I could use, and guides me to add headings, lists, and labels.
+        The calendar widget that the tool provides works great for all my clients, including the older clients. The tool helped me pick color combinations that are easy to see.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Your users may not be able to fix accessibility issues themselves. Your tool needs to support them when creating content so that the output is accessible. This includes making headings, paragraphs, lists, labels, and other content structures accessible.
+The templates, components, and pre-authored content that your tool provides needs to be accessible. That includes making headings, lists, labels, and other content structures accessible. When your tool offers customization options, such as colors, help content creators make accessible choices.
 
-### The tool supports the creation of accessible multimedia content
+### The tool helps make images and videos accessible
 
 <p><span class="persona">Persona: </span>
-  Dacso runs a mechanic shop. He has a website where he puts videos that give customers short tips for fixing cars and motorbikes.
+  Dacso runs an automotive repair shop and he does a lot of body work. His daughter created a website for him to showcase his work. Dacso uploads before-and-after photos of his projects. He also posts videos with simple maintenance tips.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I have been told that my videos need captions, but I don't see how to add them with my website tool.
+        I usually get lots of great feedback on my website. A couple of Deaf people say they want to learn from my videos, but of course they can't hear what I'm saying. I really want to make it so they can get advice from my videos, but I have no idea what to do.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        Whenever I upload a video, my tool alerts me to add captions. They also have articles and tips that suggested I also add transcripts and how to describe the video.
+        Whenever I upload a picture, the tool asks me for a text description. It has "more info" that explained how to write a good text description for people who are blind and can't see the image. It also has good support for adding captions to videos. And the "more info" for videos explained how to describe what I'm doing when I make the video, for people who don't see too well.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Your users may not have the knowledge and/or resources to create accessible multimedia content for people who cannot see or hear well or at all. Your tool needs to support the addition of alternatives for audio and video content so that people with disabilities can enjoy them.
+Your tool should enable and encourage content creators to provide alternative text for images, audio, and videos. It should include guidance on how to provide useful alternatives for their website consumers who have disabilities.
 
 ## The Accessibility Standard to Help You
 
-Your no-code tool is sometimes called an "authoring tool" because people use it to create websites. There is an international standard that addresses accessibility needs in no-code tools: Authoring Tool Accessibility Guidelines (ATAG).
+Your no-code tool is sometimes called an "authoring tool" because people use it to author or create websites. There is an international standard that addresses accessibility needs in no-code tools: Authoring Tool Accessibility Guidelines (ATAG).
 
 **Use ATAG to help make your tool**:
 
@@ -185,9 +181,9 @@ Your no-code tool is sometimes called an "authoring tool" because people use it 
 
 ATAG covers the example scenarios above:
 
-* _Everyone can add blocks of content_ &mdash; ATAG says: Rationale: Some authors with limited mobility or visual disabilities do not use a mouse and instead require keyboard interface access to all of the functionality of the authoring tool.
-* _Everyone can produce accessible content_ &mdash; ATAG says: To support accessible web content production, at minimum, it is possible to produce web content that conforms with WCAG 2.0 using the authoring tool.
-* _The tool supports the creation of accessible multimedia content_ &mdash; Atag says: Improperly generated alternative content can create web content accessibility problems (WCAG) and interfere with accessibility checking.
+* _Everyone can add blocks of content_ &mdash; ATAG says: Provide keyboard access to authoring features. Some authors with limited mobility or visual disabilities do not use a mouse and instead require keyboard interface access to all of the functionality of the authoring tool.
+* _The tool provides accessible components and templates_ &mdash; ATAG says: Assist authors with accessible templates. There are accessible template options for a range of template uses. Assist authors with accessible pre-authored content.
+* _The tool helps make images and videos accessible_ &mdash; ATAG says: Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
 
 And ATAG covers much more.
 
