@@ -89,7 +89,7 @@ This page briefly introduces a standard to help you make your no-code website to
 
 Your no-code tool users include people with disabilities. Your tool needs to be accessible to disabled content creators.
 
-The websites that your tool outputs also need to be accessible to disabled website users.
+The websites and widgets that your tool outputs also need to be accessible to disabled website users.
 
 **Accessibility is required by law and is a procurement requirement** in many situations.
 
