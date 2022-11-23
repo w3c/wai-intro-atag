@@ -110,7 +110,7 @@ These persona scenarios are examples of accessibility issues that disabled peopl
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I used to be able to read through and publish client messages using our social media platform and my magnification software. Unfortunately, after the last update, I can't get to the publish button when  my magnification software is enabled.
+        I used to be able to read through and publish client messages using our social media platform and my magnification software. Unfortunately, after the last update, I can't get to the publish button when my magnification software is enabled.
       </q></span></p>
     </li>
     <li>
