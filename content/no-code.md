@@ -142,7 +142,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
   </ul>
 </div>
 
-The templates, components, and pre-authored content that your tool provides needs to be accessible. That includes making headings, lists, labels, and other content structures accessible. When your tool offers customization options, such as colors, help content creators make accessible choices.
+The templates, components, and pre-authored content that your tool provides need to be accessible. That includes making things like headings, lists, and labels accessible. When your tool offers customization options, such as colors, help content creators make accessible choices.
 
 ### The tool helps make images and videos accessible
 
