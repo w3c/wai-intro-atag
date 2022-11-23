@@ -164,7 +164,7 @@ The templates, components, and pre-authored content that your tool provides need
   </ul>
 </div>
 
-Your tool should enable and encourage content creators to provide alternative text for images and for videos. It should include guidance on how to provide useful alternatives for their website consumers who have disabilities.
+Your tool should enable and encourage content creators to provide alternative text for images, audio, and videos. It should include guidance on how to provide useful alternatives for their website consumers who have disabilities.
 
 ## The Accessibility Standard to Help You
 
