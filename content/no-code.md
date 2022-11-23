@@ -142,7 +142,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
   </ul>
 </div>
 
-The templates, components, and pre-authored content that your tool provides needs to be accessible. @@strcuture@@HERE For customization options, such as colors, help content creators make accessible choices.
+The templates, components, and pre-authored content that your tool provides needs to be accessible. That includes making headings, lists, labels, and other content structures accessible. When your tool offers customization options, such as colors, help content creators make accessible choices.
 
 ### The tool helps make images and videos accessible
 
@@ -164,7 +164,7 @@ The templates, components, and pre-authored content that your tool provides need
   </ul>
 </div>
 
-Your tools should enable and encourage content creators to provide alternative text for images and for videos. It should provide guidance on how to provide useful alternatives for their website consumers who have disabilities.
+Your tool should enable and encourage content creators to provide alternative text for images and for videos. It should include guidance on how to provide useful alternatives for their website consumers who have disabilities.
 
 ## The Accessibility Standard to Help You
 
