@@ -148,7 +148,7 @@ People who use social media have different abilities. For example, they may read
 ### The tool help create accessible multimedia
 
 <p><span class="persona">Persona: </span>
-  Enhamed manages the social profile of a client. He uploads images and videos to showcase the client's activities. His client now asks him to make these media accessible, but he does not know well how to do it.
+  Enhamed manages the social profile of a client. He uploads images and videos to showcase his client's activities. His client now asks him to make these media accessible, but he does not know well how to do it.
 </p>
 <div class="quotes">
   <ul>
