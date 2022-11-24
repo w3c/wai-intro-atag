@@ -104,24 +104,24 @@ These persona scenarios are examples of accessibility issues that disabled peopl
 ### Everyone can rely on your tool
 
 <p><span class="persona">Persona: </span>
- Banele is a social media consultant with low vision. She relies on magnification software to increase the font size of the tools she uses.
+ Banele is a social media consultant with low vision. Her screen resolution is set so everything is bigger on her display.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I used to be able to read through and publish client messages using our social media platform and my magnification software. Unfortunately, after the last update, I can't get to the publish button when my magnification software is enabled.
+        I used to be able to easily publish client posts using our social media platform. The last platform update doesn't work for me now. The publish button is off the screen and I can't get to it.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        The tool is overall very accessible. The last update even included some new accessibility features.
+        The platform updates are getting even better for my configuration, and also for my collegues with other disabilities.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities often rely on robust platforms which work with the assistive technology they use. You need to ensure accessibility is preserved when updating your tool's user interface or functionality.
+Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need your platform to work with their settings and specialized software, called assistive technologies.
 
 ### Everyone can read and process content at their own pace
 
