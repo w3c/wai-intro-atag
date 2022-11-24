@@ -46,7 +46,7 @@ description:  # NEW: add a 150ish-character-description for social media   # tra
 # Do not change the dates in the footer below.
 footer: >
    <p><strong>Date:</strong> Updated 8 December 2022. First published December 2022. CHANGELOG.</p>
-   <p><strong>Editors:</strong> Daniel Montalvo, <a href="https://www.w3.org/People/Shawn/"Shawn Henry</a>. Contributors: Kevin White, and <a href="https://www.w3.org/groups/wg/eowg/participants">participants of the Education and Outreach Working Group</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
+   <p><strong>Editors:</strong> Daniel Montalvo, <a href="https://www.w3.org/People/Shawn/">Shawn Henry</a>. Contributors: Kevin White, and <a href="https://www.w3.org/groups/wg/eowg/participants">participants of the Education and Outreach Working Group</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide">WAI-guide project</a>, a European Commission (EC) co-funded project, Horizon 2020 Program (822245).</p>
 
 class: tight-page
