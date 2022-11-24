@@ -115,7 +115,7 @@ These persona scenarios are examples of accessibility issues that disabled peopl
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        The platform updates are getting even better for my configuration, and also for my collegues with other disabilities.
+        The platform updates are getting even better for my configuration, and also for my colleagues with other disabilities.
       </q></span></p>
     </li>
   </ul>
@@ -145,27 +145,27 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 
 People who use social media have different abilities. For example, they may read content at different paces. Your tool should allow them to decide how they want to process the new content that appears.
 
-### The tool supports the creation of accessible social experiences
+### The tool help create accessible multimedia
 
 <p><span class="persona">Persona: </span>
-  Enhamed manages the social media profile of a small business. He has just started thinking about the accessibility of the content he uploads.
+  Enhamed manages the social profile of a client. He uploads images and videos to showcase the client's activities. His client now asks him to make these media accessible, but he does not know well how to do it.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        I get complaints from customers that our links, images and videos are not accessible.  I can't do anything about it because my tool does not allow me to add these features.
+        My client has now requested me to make all media accessible, including images, audio, and video. I am not sure how to get this done, and I can’t find anything on my tool that explains it.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        I can add alt text for my images, show captions for my videos, and write custom text for my links.
+        When I upload an image, the tool asks me if it needs alternative text and gives guidance on how to write it. When I upload a video, the tool suggests me to add transcripts, captions, and descriptions as appropriate.
       </q></span></p>
     </li>
   </ul>
 </div>
 
-People who upload different types of content need tools that can create accessible social experiences. This includes adding alternatives to images and multimedia and using a clear link text that explains what the link is about.
+People who post multimedia content need tools that can create accessible images, audio, and video. This includes adding alternative texts to images, as well as transcripts, captions, and description for videos as appropriate.
 
 ## The Accessibility Standard to Help You
 
@@ -183,8 +183,8 @@ Your social media tool is sometimes called an "authoring tool" because people us
 ATAG covers the example scenarios above:
 
 * _Everyone Can Rely on your Tool_ &mdash; ATAG says: conforming to WCAG 2.0, following existing platform accessibility guidelines, and implementing communication with platform accessibility services facilitates access by all authors, including those using assistive technologies.
-* _Everyone can Process Content at Their Own Pace_ &mdash;ATAG says: Some authors who have difficulty typing, operating the mouse, or processing information can be prevented from using systems with short time limits or that require fast reaction speeds.
-* _The Tool supports the creation of accessible social experiences_ &mdash; ATAG says: When accessibility checking is an integrated function of the authoring tool, it helps make authors aware of web content accessibility problems (WCAG) during the authoring process, so they can be immediately addressed.
+* _Everyone can Process Content at Their Own Pace_ &mdash; ATAG says: Some authors who have difficulty typing, operating the mouse, or processing information can be prevented from using systems with short time limits or that require fast reaction speeds.
+* _The Tool helps create accessible multimedia_ &mdash; ATAG says: Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
 
 And ATAG covers much more.
 
