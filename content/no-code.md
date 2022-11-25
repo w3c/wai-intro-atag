@@ -158,7 +158,7 @@ The templates, components, and pre-authored content that your tool provides need
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        Whenever I upload a picture, the tool asks me for a text description. It has "more info" that explained how to write a good text description for people who are blind and can't see the image. It also has good support for adding captions to videos. And the "more info" for videos explained how to describe what I'm doing when I make the video, for people who don't see too well.
+        Whenever I upload a picture, the tool asks me for a text description. It has "more info" that explains how to write a good text description for people who are blind and can't see the image. It also has good support for adding captions to videos. And the "more info" for videos explains how to describe what I'm doing when I make the video, for people who don't see too well.
       </q></span></p>
     </li>
   </ul>
