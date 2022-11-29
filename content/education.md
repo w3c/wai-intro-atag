@@ -98,7 +98,7 @@ Accessibility for instructors and students is an essential aspect of diversity, 
 
 ## Example Scenarios
 
-These persona scenarios are examples of accessibility issues that disabled people experience using LMS tools. "Problem" shows user experiences with tools that have accessibility issues. "Works well" shows experiences with accessible tools.
+These _persona_ scenarios show examples of accessibility _problems_ that disabled people experience using no-code tools, and what _works well_ in tools that are accessible.
 
 ### Everyone can use previews
 
