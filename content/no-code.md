@@ -87,6 +87,8 @@ This page briefly introduces a standard to help you make your no-code website to
 
 ## Why Accessibility Matters
 
+No-code tools let people create websites without having to code.
+
 People with disabilities need to use your no-code tool. Your tool needs to be accessible to disabled content creators.
 
 The websites and widgets that your tool outputs also need to be accessible to disabled website users.
@@ -97,12 +99,12 @@ Improving the accessibility of your tool and its output can be a strong competit
 
 ## Example Scenarios
 
-These persona scenarios are examples of accessibility issues that disabled people experience using no-code tools.
+These persona scenarios are examples of accessibility issues that disabled people experience using no-code tools. "Problem" shows user experiences with tools that have accessibility issues. "Works well" shows experiences with accessible tools.
 
 ### Everyone can add blocks of content
 
 <p><span class="persona">Persona: </span>
- Mohamed is an independent consultant who has a website to attract clients. He is blind and uses a screen reader that reads aloud the information on his screen.
+ Martin is an independent consultant who has a website to attract clients. He is blind and uses a screen reader that reads aloud the information on his screen.
 </p>
 <div class="quotes">
   <ul>

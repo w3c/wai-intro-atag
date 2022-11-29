@@ -98,7 +98,7 @@ Accessibility for instructors and students is an essential aspect of diversity, 
 
 ## Example Scenarios
 
-These persona scenarios are examples of accessibility issues that disabled people experience using LMS.
+These persona scenarios are examples of accessibility issues that disabled people experience using LMSs. "Problem" shows user experiences with tools that have accessibility issues. "Works well" shows experiences with accessible tools.
 
 ### Everyone can use previews
 
@@ -125,8 +125,8 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
 ### Everyone can edit content
 
 <p><span class="persona">Persona: </span>
-  Aroon is a school administrator. He is a quadriplegic and uses speech recognition to navigate through applications and websites.
-  </p>
+  Aroon is a school administrator. He can't move his arms due to a spinal cord injury and he uses speech recognition to navigate through applications and websites.
+</p>
 
 <div class="quotes">
   <ul>

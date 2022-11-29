@@ -99,7 +99,7 @@ Content creators and content consumers need social media tools that:
 
 ## Example Scenarios
 
-These persona scenarios are examples of accessibility issues that disabled people experience using social media tools.
+These persona scenarios are examples of accessibility issues that disabled people experience using social media tools. "Problem" shows user experiences with tools that have accessibility issues. "Works well" shows experiences with accessible tools.
 
 ### Everyone can rely on your tool
 
