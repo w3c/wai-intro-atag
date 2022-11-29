@@ -99,7 +99,7 @@ Content creators and content consumers need social media tools that:
 
 ## Example Scenarios
 
-These _persona_ scenarios show examples of accessibility _problems_ that disabled people experience using no-code tools, and what _works well_ in tools that are accessible.
+These _persona_ scenarios show examples of accessibility _problems_ that disabled people experience using social media tools, and what _works well_ in tools that are accessible.
 
 ### Everyone can rely on your tool
 
@@ -121,7 +121,7 @@ These _persona_ scenarios show examples of accessibility _problems_ that disable
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need your platform to work with their settings and specialized software, called assistive technologies.
+Users who have auditory, cognitive, neurological, physical, speech, or visual disabilities need your platform to work with their settings and specialized software, called assistive technologies.
 
 ### Everyone can read and process content at their own pace
 
@@ -132,7 +132,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        When content refreshes too fast, I have problems keeping up-to-date. It is difficult for me to manage new comments.
+        When content refreshes too fast, I have problems keeping up. It is difficult for me to manage new comments.
       </q></span></p>
     </li>
     <li>
@@ -148,18 +148,18 @@ People who use social media have different abilities. For example, they may read
 ### The tool help create accessible multimedia
 
 <p><span class="persona">Persona: </span>
-  Enhamed manages the social profile of a client. He uploads images and videos to showcase his client's activities. His client now asks him to make these media accessible, but he does not know well how to do it.
+  Enhamed manages the social profile of a client. He uploads images and videos to showcase his client's activities. His client has asked him to make these media accessible, but he does not know how to do this.
 </p>
 <div class="quotes">
   <ul>
     <li>
       <p><span class="issue">Problem: </span><span><q>
-        My client has now requested me to make all media accessible, including images, audio, and video. I am not sure how to get this done, and I can’t find anything on my tool that explains it.
+        My client has now requested that I make all media accessible, including images, audio, and video. I am not sure how to get this done, and I can’t find anything in my tool that explains it.
       </q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        When I upload an image, the tool asks me if it needs alternative text and gives guidance on how to write it. When I upload a video, the tool suggests me to add transcripts, captions, and descriptions as appropriate.
+        When I upload an image, the tool asks me if it needs alternative text and gives guidance on how to write it. When I upload a video, the tool suggests that I add transcripts, captions, and descriptions as appropriate.
       </q></span></p>
     </li>
   </ul>

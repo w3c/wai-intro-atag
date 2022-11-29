@@ -121,7 +121,7 @@ These _persona_ scenarios show examples of accessibility _problems_ that disable
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to add, customize, and remove blocks of content.
+Users who have auditory, cognitive, neurological, physical, speech, or visual disabilities need to be able to add, customize, and remove blocks of content.
 
 ### The tool provides accessible components and templates
 
@@ -138,7 +138,7 @@ Users who have auditory, cognitive, neurological, physical, speech, and visual d
     </li>
     <li>
       <p><span class="issue">Works well: </span><span><q>
-        The calendar widget that the tool provides works great for all my clients, including the older clients. The tool helped me pick color combinations that are easy to see.
+        The calendar widget that the tool provides works great for all my clients, including the older ones. The tool helped me pick color combinations that are easy to see.
       </q></span></p>
     </li>
   </ul>
@@ -149,7 +149,7 @@ The templates, components, and pre-authored content that your tool provides need
 ### The tool helps make images and videos accessible
 
 <p><span class="persona">Persona: </span>
-  Dacso runs an automotive repair shop and he does a lot of body work. His daughter created a website for him to showcase his work. Dacso uploads before-and-after photos of his projects. He also posts videos with simple maintenance tips.
+  Dacso runs an car repair shop and does a lot of body work. His daughter created a website for him to showcase his work. Dacso uploads before-and-after photos of his projects. He also posts videos with simple maintenance tips.
 </p>
 <div class="quotes">
   <ul>
