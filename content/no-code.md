@@ -149,7 +149,7 @@ The templates, components, and pre-authored content that your tool provides need
 ### The tool helps make images and videos accessible
 
 <p><span class="persona">Persona: </span>
-  Dacso runs an car repair shop and does a lot of body work. His daughter created a website for him to showcase his work. Dacso uploads before-and-after photos of his projects. He also posts videos with simple maintenance tips.
+  Dacso runs a car repair shop and does a lot of body work. His daughter created a website for him to showcase his work. Dacso uploads before-and-after photos of his projects. He also posts videos with simple maintenance tips.
 </p>
 <div class="quotes">
   <ul>
