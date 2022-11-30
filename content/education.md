@@ -120,7 +120,7 @@ These _persona_ scenarios show examples of accessibility _problems_ that disable
   </ul>
 </div>
 
-Users who have auditory, cognitive, neurological, physical, speech, and visual disabilities need to be able to preview the course content before posting it for students.
+Users who have auditory, cognitive, neurological, physical, speech, or visual disabilities need to be able to preview the course content before posting it for students.
 
 ### Everyone can edit content
 
