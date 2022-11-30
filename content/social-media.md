@@ -99,7 +99,7 @@ Content creators and content consumers need social media tools that:
 
 ## Example Scenarios
 
-These _persona_ scenarios show examples of accessibility _problems_ that disabled people experience using no-code tools, and what _works well_ in tools that are accessible.
+These _persona_ scenarios show examples of accessibility _problems_ that disabled people experience using social media tools, and what _works well_ in tools that are accessible.
 
 ### Everyone can rely on your tool
 
