@@ -11,14 +11,14 @@ github:
 permalink: /standards-guidelines/atag/  # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/atag/fr
 
 lang: en   # Change "en" to the translated language shortcode
-last_updated: 2020-02-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-12-01   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators:   # remove from the beginning of the line: "# " and add your name(s)
 # - name: Translator 1's Name
 
 layout: default
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 1 July 2020. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 1 December 2022. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the Authoring Tool Accessibility Working Group (<a href="https://www.w3.org/WAI/AU/">AUWG</a>).</p>
 
@@ -61,7 +61,7 @@ developers, designers, writers, etc.) use to produce web content (static
 web pages, dynamic web applications, etc.). Examples of authoring tools
 are listed below under "[Who ATAG is for](#who-atag-is-for)".
 
-The Authoring Tool Accessibility Guidelines (ATAG) explain how
+Authoring Tool Accessibility Guidelines (ATAG) explains how
 to:
 
 -   make the authoring tools themselves accessible, so that people with
@@ -71,13 +71,13 @@ to:
     to Web Content Accessibility Guidelines
     ([WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})).
 
-ATAG is part of a series of accessibility guidelines, including the Web
-Content Accessibility Guidelines (WCAG) and the User Agent Accessibility
+ATAG is part of a series of accessibility guidelines, including Web
+Content Accessibility Guidelines (WCAG) and User Agent Accessibility
 Guidelines (UAAG). [Essential Components of Web
 Accessibility]({{ "/fundamentals/components/" | relative_url }}) explains the
 relationship between the different guidelines.
 
-ATAG was published in 2015 and as a technology agnostic standard remains relevant.
+ATAG is relevant today, as it is technology agnostic. ATAG was published in 2015 and references WCAG 2.0. We encourage you to use the latest version of [WCAG 2](https://www.w3.org/TR/WCAG2/).
 
 ## Who ATAG is for
 
@@ -102,23 +102,25 @@ ATAG and supporting resources are also intended to meet the needs of
 many different audiences, including policy makers, managers, and others.
 For example:
 
--   People who want to [choose authoring
-    tools](http://www.w3.org/WAI/impl/software) that are accessible and
+-   People who want to choose authoring
+    tools that are accessible and
     that produce accessible content can use ATAG to evaluate authoring
     tools.
 -   People who want to encourage their existing authoring tool developer
     to improve accessibility in future versions can refer the authoring
     tool vendor to ATAG.
 
-## What is in ATAG 2.0
+## What is in ATAG
 
-[**ATAG 2.0**](http://www.w3.org/TR/ATAG20/) has two main parts:
+**ATAG** has two main parts:
 
 -   Part A is about making the authoring tool itself accessible.
 -   Part B is about the authoring tool helping authors produce
     accessible content.
 
-**ATAG 2.0** is organized in layers:
+[**ATAG at a Glance**](http://www.w3.org/WAI/intro/atag-glance) provides a short summary of the accessibility principles and guidelines in ATAG.
+
+**ATAG** is organized in layers:
 
 -   **Principles** provide high-level organization for the guidelines.
 -   **Guidelines** provide the framework and objectives for the success
@@ -128,15 +130,12 @@ For example:
     levels](http://www.w3.org/TR/ATAG20/#intro_understand_levels_conformance):
     A, AA, AAA.
 
-[**ATAG at a Glance**](http://www.w3.org/WAI/intro/atag-glance) provides
-a short summary of the accessibility principles and guidelines in ATAG
-2.0.
+[**ATAG 2.0**](http://www.w3.org/TR/ATAG20/) is a _W3C Recommendation_, which is a technical standard.
 
 [**Implementing ATAG 2.0**](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
 is a supporting informative document that helps readers understand and
-use ATAG. Implementing ATAG 2.0 provides the rationale for each
-guideline; and for each success criterion, it provides the further
-explanation of the intent of the success criteria, examples, and links
+use ATAG. Implementing ATAG rovides the rationale for each
+guideline. For each success criterion, it provides explanation of the intent of the success criteria, examples, and links
 to resources.
 
 ## ATAG Report Tool
