@@ -145,7 +145,7 @@ Users who have auditory, cognitive, neurological, physical, speech, or visual di
 
 People who use social media have different abilities. For example, they may read content at different paces. Your tool should allow them to decide how they want to process the new content that appears.
 
-### The tool help create accessible multimedia
+### The tool helps create accessible multimedia
 
 <p><span class="persona">Persona: </span>
   Enhamed manages the social profile of a client. He uploads images and videos to showcase his client's activities. His client has asked him to make these media accessible, but he does not know how to do this.
