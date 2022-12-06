@@ -44,7 +44,7 @@ description:  # NEW: add a 150ish-character-description for social media   # tra
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 8 December 2022. First published December 2022.</p>
+   <p><strong>Date:</strong> Updated 8 December 2022.<!-- First published December 2022. --></p>
    <p><strong>Editors:</strong> Daniel Montalvo and <a href="https://www.w3.org/People/Shawn/">Shawn Henry</a>. Contributors: Kevin White, Sharron Rush, and <a href="https://www.w3.org/groups/wg/eowg/participants">participants of the Education and Outreach Working Group</a>.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide">WAI-Guide project</a>, co-funded by the European Commission.</p>
 
@@ -182,9 +182,9 @@ Your social media tool is sometimes called an "authoring tool" because people us
 
 ATAG covers the example scenarios above:
 
-* _Everyone Can Rely on your Tool_ &mdash; ATAG says: conforming to WCAG 2.0, following existing platform accessibility guidelines, and implementing communication with platform accessibility services facilitates access by all authors, including those using assistive technologies.
-* _Everyone can Process Content at Their Own Pace_ &mdash; ATAG says: Some authors who have difficulty typing, operating the mouse, or processing information can be prevented from using systems with short time limits or that require fast reaction speeds.
-* _The Tool helps create accessible multimedia_ &mdash; ATAG says: Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
+* _Everyone can rely on your tool_ &mdash; ATAG says: conforming to WCAG 2.0, following existing platform accessibility guidelines, and implementing communication with platform accessibility services facilitates access by all authors, including those using assistive technologies.
+* _Everyone can read and process content at their own pace_ &mdash; ATAG says: Some authors who have difficulty typing, operating the mouse, or processing information can be prevented from using systems with short time limits or that require fast reaction speeds.
+* _The tool helps create accessible multimedia_ &mdash; ATAG says: Assist authors with managing alternative content for non-text content. Ensure that documentation promotes the production of accessible content.
 
 And ATAG covers much more.
 
