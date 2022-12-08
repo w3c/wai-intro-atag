@@ -7,11 +7,11 @@ lang: en   # Change "en" to the translated-language shortcode from https://www.i
 
 github:
   repository: w3c/wai-intro-atag
-  path: content/No-code.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
-permalink: /standards-guidelines/atag/No-code/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+  path: content/no-code.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+permalink: /standards-guidelines/atag/no-code/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 layout: default
 
-ref: /standards-guidelines/atag/No-code/   # Translators, do not change this
+ref: /standards-guidelines/atag/no-code/   # Translators, do not change this
 license: creative-commons
 
 # description:  # NEW: add a 150ish-character-description for social media   # translate the description
