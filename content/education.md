@@ -1,6 +1,7 @@
 ---
 title: "Standards to Make Your LMS Accessible"
 nav_title: "For LMS"
+no-sidenav: true
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 # last_updated: 2022-12-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -71,7 +72,7 @@ Accessibility for instructors and students is an essential aspect of diversity, 
 
 ## Example Scenarios
 
-These _persona_ scenarios show examples of accessibility _problems_ that disabled people experience using no-code tools, and what _works well_ in tools that are accessible.
+These _persona_ scenarios show examples of accessibility _problems_ that disabled people experience using LMSs, and what _works well_ in tools that are accessible.
 
 ### Everyone can use previews
 
