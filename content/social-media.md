@@ -1,7 +1,6 @@
 ---
 title: "Guidelines to Make Your Social Media Platform Accessible"
 nav_title: "For Social Media Platforms"
-no-sidenav: true
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 # last_updated: 2022-12-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
