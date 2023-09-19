@@ -3,12 +3,12 @@
 
 title: "Les ATAG en un coup d'oeil"
 nav_title: "En un coup d'oeil"
+permalink: /standards-guidelines/atag/glance/fr   # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/atag/glance/fr
 ref: /standards-guidelines/atag/glance/   # Translators, do not change this
 
 github:
   repository: w3c/wai-intro-atag
   path: content/glance.fr.md   # Add the language shortcode to the middle of the filename, for example: glance.fr.md
-permalink: /standards-guidelines/atag/glance/fr   # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/atag/glance/fr
 
 lang: fr   # Change "en" to the translated language shortcode
 last_updated: 2020-12-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -43,7 +43,7 @@ Cette page fournit un résumé paraphrasé des Règles d'accessibilité pour les
 ## [Partie A](http://www.w3.org/TR/ATAG20/#part_a): Rendre l'interface utilisateur d'un outil d'édition accessible {#PartA}
 
 {::nomarkdown}
-{% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_a1">A1</a> L'interface utilisateur de l'outil d'édition suit les règles d'accessibilité en vigueur' h=3 class="" %}
+{% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_a1">A1</a> L’interface utilisateur de l’outil d’édition suit les règles d’accessibilité en vigueur' h=3 class="" %}
 {:/}
 
 -   Assurez-vous que les fonctionnalités Web sont accessibles
@@ -104,7 +104,7 @@ Cette page fournit un résumé paraphrasé des Règles d'accessibilité pour les
 
 {::nomarkdown}
 {% include box.html type="end" %}
-{% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_b3">B3</a> Encourager les auteurs à améliorer l'accessibilité du contenu déjà existant' h=3 class="" %}
+{% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_b3">B3</a> Encourager les auteurs à améliorer l’accessibilité du contenu déjà existant' h=3 class="" %}
 {:/}
 
 -   Aidez les auteurs à vérifier les problèmes d'accessibilité
@@ -112,7 +112,7 @@ Cette page fournit un résumé paraphrasé des Règles d'accessibilité pour les
 
 {::nomarkdown}
 {% include box.html type="end" %}
-{% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_b4">B4</a> Les outils d'édition promeuvent et intègrent leurs fonctionnalités d'accessibilité' h=3 class="" %}
+{% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_b4">B4</a> Les outils d’édition promeuvent et intègrent leurs fonctionnalités d’accessibilité' h=3 class="" %}
 {:/}
 
 -   Assurez la disponibilité des fonctionnalités qui soutiennent la production d'un contenu accessible
