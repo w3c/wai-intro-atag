@@ -134,7 +134,7 @@ For example:
 
 [**Implementing ATAG 2.0**](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
 is a supporting informative document that helps readers understand and
-use ATAG. Implementing ATAG rovides the rationale for each
+use ATAG. Implementing ATAG provides the rationale for each
 guideline. For each success criterion, it provides explanation of the intent of the success criteria, examples, and links
 to resources.
 
