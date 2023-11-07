@@ -11,7 +11,7 @@ github:
   path: content/glance.fr.md   # Add the language shortcode to the middle of the filename, for example: glance.fr.md
 
 lang: fr   # Change "en" to the translated language shortcode
-last_updated: 2020-12-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-10-18   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:   # remove from the beginning of the line: "# " and add your name(s)
 - name: "Sofia Ahmed"
 - name: "Rémi Bétin"
