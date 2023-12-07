@@ -1,29 +1,38 @@
 ---
-# translation notes are after "#" in this section
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
 title: "Authoring Tool Accessibility Guidelines (ATAG) Overview"
 nav_title: "ATAG Overview"
-ref: /standards-guidelines/atag/   # Translators, do not change this
+lang: en  # Change "en" to the translated-language shortcode
+last_updated: 2023-12-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
 github:
   repository: w3c/wai-intro-atag
-  path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
-permalink: /standards-guidelines/atag/  # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/atag/fr
+  path: content/index.md  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 
-lang: en   # Change "en" to the translated language shortcode
-last_updated: 2022-12-01   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators:   # remove from the beginning of the line: "# " and add your name(s)
-# - name: Translator 1's Name
+permalink: /standards-guidelines/atag/  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /standards-guidelines/atag/  # Do not change this
 
 layout: default
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words, including "Date:" and "Editors:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: |
-  <p><strong>Date:</strong> Updated 1 December 2022. First published July 2005.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the Authoring Tool Accessibility Working Group (<a href="https://www.w3.org/WAI/AU/">AUWG</a>).</p>
-
+  <p><strong>Date:</strong> Updated 7 December 2023. First published July 2005.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>) and the Authoring Tool Accessibility Working Group (<a href="https://www.w3.org/WAI/AU/">AUWG</a>).</p>
 ---
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
@@ -32,9 +41,9 @@ footer: |
 This page introduces the Authoring Tool Accessibility Guidelines (ATAG) web standard.
 
 Quick links to resources:
-* [ATAG at a Glance](http://www.w3.org/WAI/intro/atag-glance)
-* [ATAG 2.0 Standard](http://www.w3.org/TR/ATAG20/)
-* [Implementing ATAG 2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
+* [[ATAG at a Glance]](/standards-guidelines/atag/glance/)
+* [ATAG 2.0 Standard](https://www.w3.org/TR/ATAG20/)
+* [Implementing ATAG 2.0](https://www.w3.org/TR/IMPLEMENTING-ATAG20/)
 * [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
 
 {::nomarkdown}
@@ -69,17 +78,17 @@ to:
 -   help authors create more accessible web content — specifically:
     enable, support, and promote the production of content that conforms
     to Web Content Accessibility Guidelines
-    ([WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})).
+    ([WCAG](/standards-guidelines/wcag/).
 
 ATAG is part of a series of accessibility guidelines, including Web
 Content Accessibility Guidelines (WCAG) and User Agent Accessibility
 Guidelines (UAAG). [Essential Components of Web
-Accessibility]({{ "/fundamentals/components/" | relative_url }}) explains the
+Accessibility](/fundamentals/components/) explains the
 relationship between the different guidelines.
 
 ATAG is relevant today, as it is technology agnostic. ATAG was published in 2015 and references WCAG 2.0. We encourage you to use the latest version of [WCAG 2](https://www.w3.org/TR/WCAG2/).
 
-## Who ATAG is for
+## Who ATAG is for {#who-atag-is-for}
 
 ATAG is primarily for developers of authoring tools, including the
 following types of authoring tools:
@@ -96,7 +105,7 @@ following types of authoring tools:
 -   websites that let users add content, such as blogs, wikis, photo
     sharing sites, online forums, and social networking sites
 -   other types of tools listed in the glossary definition of [authoring
-    tools](http://www.w3.org/TR/ATAG20/#def-Authoring-Tool)
+    tools](https://www.w3.org/TR/ATAG20/#def-Authoring-Tool)
 
 ATAG and supporting resources are also intended to meet the needs of
 many different audiences, including policy makers, managers, and others.
@@ -118,7 +127,7 @@ For example:
 -   Part B is about the authoring tool helping authors produce
     accessible content.
 
-[**ATAG at a Glance**](http://www.w3.org/WAI/intro/atag-glance) provides a short summary of the accessibility principles and guidelines in ATAG.
+[[**ATAG at a Glance**]](/standards-guidelines/atag/glance/) provides a short summary of the accessibility principles and guidelines in ATAG.
 
 **ATAG** is organized in layers:
 
@@ -127,12 +136,12 @@ For example:
     criteria.
 -   **Success criteria are the accessibility requirements**, which are
     written as testable statements, at [three
-    levels](http://www.w3.org/TR/ATAG20/#intro_understand_levels_conformance):
+    levels](https://www.w3.org/TR/ATAG20/#intro_understand_levels_conformance):
     A, AA, AAA.
 
-[**ATAG 2.0**](http://www.w3.org/TR/ATAG20/) is a _W3C Recommendation_, which is a technical standard.
+[**ATAG 2.0**](https://www.w3.org/TR/ATAG20/) is a _W3C Recommendation_, which is a technical standard.
 
-[**Implementing ATAG 2.0**](http://www.w3.org/TR/IMPLEMENTING-ATAG20/)
+[**Implementing ATAG 2.0**](https://www.w3.org/TR/IMPLEMENTING-ATAG20/)
 is a supporting informative document that helps readers understand and
 use ATAG. Implementing ATAG rovides the rationale for each
 guideline. For each success criterion, it provides explanation of the intent of the success criteria, examples, and links
@@ -149,9 +158,9 @@ ATAG 2.0 is available as an Authorized W3C Translation in Chinese, Simplified: [
 ## Who developed ATAG
 
 ATAG was developed by the Authoring Tool Accessibility Guidelines
-Working Group ([ATAG WG](http://www.w3.org/WAI/AU/)) as part of
-the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web
-Accessibility Initiative ([WAI](http://www.w3.org/WAI/)).
+Working Group ([ATAG WG](https://www.w3.org/WAI/AU/)) as part of
+the World Wide Web Consortium ([W3C](https://www.w3.org/)) Web
+Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
 
 Opportunities for contributing to WAI work is explained
-in [Participating in WAI](http://www.w3.org/WAI/participation).
+in [[Participating in WAI]](/about/participating/).
