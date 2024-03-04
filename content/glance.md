@@ -64,8 +64,8 @@ Guidelines (ATAG) 2.0. For the normative technical specification, see
 {:/}
 
 -   Make alternative content available to authors
--   Ensure that editing-view presentation can be [[programmatically
-    determined](https://www.w3.org/TR/ATAG20/#def-Programmatically-Determined)]
+-   Ensure that editing-view presentation can be [programmatically
+    determined](https://www.w3.org/TR/ATAG20/#def-Programmatically-Determined)
 
 {::nomarkdown}
 {% include box.html type="end" %}
