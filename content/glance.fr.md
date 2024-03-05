@@ -11,7 +11,7 @@ github:
   path: content/glance.fr.md   # Add the language shortcode to the middle of the filename, for example: glance.fr.md
 
 lang: fr   # Change "en" to the translated language shortcode
-last_updated: 2023-10-18   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-03-05   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:   # remove from the beginning of the line: "# " and add your name(s)
 - name: "Sofia Ahmed"
 - name: "Rémi Bétin"
@@ -21,12 +21,11 @@ contributors:
 layout: default
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date&nbsp;:</strong> Mise à jour&nbsp;: 18 mai 2016.</p>
-  <p><strong>Rédactrices :</strong> Jeanne Spellman et <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
-  <p>Développé avec les données du Groupe de travail pour les Règles d'accessibilité pour les outils d'édition (<a href="https://www.w3.org/WAI/AU/">AUWG</a>) et le Groupe de travail Éducaton et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date&nbsp;:</strong> Mise à jour le 18 mai 2016.</p>
+  <p><strong>Rédaction :</strong> Jeanne Spellman et <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
+  <p>Développé avec les contributions du Groupe de travail des Règles d'accessibilité pour les outils d'édition (<a href="https://www.w3.org/WAI/AU/">AUWG</a>).</p>
 
 ---
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Résumé" class="full" %}
