@@ -52,7 +52,7 @@ Guidelines (ATAG) 2.0. For the normative technical specification, see
 ## [Part A](https://www.w3.org/TR/ATAG20/#part_a): Make the authoring tool user interface accessible {#PartA}
 
 {::nomarkdown}
-{% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_a1">A1</a> The authoring tool user interface follows applicable accessibility guidelines' h=3 class="" %}
+{% include box.html type="start" title='<a href="https://www.w3.org/TR/ATAG20/#principle_a1">A1</a> The authoring tool user interface follows applicable accessibility guidelines' h=3 class="" %}
 {:/}
 
 -   Ensure that web-based functionality is accessible
@@ -60,7 +60,7 @@ Guidelines (ATAG) 2.0. For the normative technical specification, see
 
 {::nomarkdown}
 {% include box.html type="end" %}
-{% include box.html type="start" title='<a href="http://www.w3.org/TR/ATAG20/#principle_a2">A2</a> <a href="http://www.w3.org/TR/ATAG20/#def-Editing-View">Editing-views</a> are perceivable' h=3 class="" %}
+{% include box.html type="start" title='<a href="https://www.w3.org/TR/ATAG20/#principle_a2">A2</a> <a href="https://www.w3.org/TR/ATAG20/#def-Editing-View">Editing-views</a> are perceivable' h=3 class="" %}
 {:/}
 
 -   Make alternative content available to authors
