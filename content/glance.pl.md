@@ -37,8 +37,7 @@ footer: |
 {% include box.html type="start" h="2" title="Podsumowanie" class="full" %}
 {:/}
 
-Ta strona zawiera sparafrazowane podsumowanie Wytycznych dla dostępności narzędzi autorskich (ATAG) 2.0. Normatywna specyfikacja techniczna znajduje się na stronie
-[www.w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/).
+Ta strona zawiera sparafrazowane podsumowanie Wytycznych dla dostępności narzędzi autorskich (ATAG) 2.0. Normatywna specyfikacja techniczna znajduje się na stronie [www.w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/).
 
 **Aby dowiedzieć się więcej o ATAG 2.0, zapoznaj się z [[Omówieniem ATAG]](/standards-guidelines/atag/pl
 ).**
@@ -61,8 +60,7 @@ Ta strona zawiera sparafrazowane podsumowanie Wytycznych dla dostępności narz�
 {% include box.html type="start" title='<a href="https://www.w3.org/TR/ATAG20/#principle_a2">A2</a> <a href="https://www.w3.org/TR/ATAG20/#def-Editing-View">Widoki redaktorskie</a> są postrzegalne' h=3 class="" %}
 {:/}
 
--   Zapewnij twórcom treści alternatywne.
--   Zapewnij, aby prezentacja w widoku redaktorskim była [określona programowo](https://www.w3.org/TR/ATAG20/#def-Programmatically-Determined)]
+-   Zapewnij, aby prezentacja w widoku redaktorskim była [określona programowo](https://www.w3.org/TR/ATAG20/#def-Programmatically-Determined)
 
 {::nomarkdown}
 {% include box.html type="end" %}

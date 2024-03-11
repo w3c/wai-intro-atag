@@ -61,12 +61,12 @@ Szybkie łącza do innych materiałów:
 
 ## Narzędzia autorskie i ATAG
 
-Narzędzia autorskie to oprogramowanie i usługi, których „twórcy” (programiści, projektanci, autorzy itp.) używają do tworzenia treści internetowych (statycznych stron internetowych, dynamicznych aplikacji internetowych itp.)  Przykłady narzędzi autorskich wymieniono poniżej w sekcji „[Dla kogo są ATAG](#who-atag-is-for)”.
+Narzędzia autorskie to oprogramowanie i usługi, których „twórcy” (programiści, projektanci, autorzy itp.) używają do tworzenia treści internetowych (statycznych stron internetowych, dynamicznych aplikacji internetowych itp.). Przykłady narzędzi autorskich wymieniono poniżej w sekcji „[Dla kogo są ATAG](#who-atag-is-for)”.
 
-Wytyczne dla dostępności narzędzi autorskich (ATAG) wyjaśniają, jak:
+Wytyczne dla dostępności narzędzi autorskich (ATAG) wyjaśniają:
 
--   zapewnić dostępność samych narzędzi autorskich, aby osoby z niepełnosprawnościami mogły tworzyć treści internetowe, ***oraz***
--   pomagać twórcom w tworzeniu bardziej dostępnych treści internetowych - w szczególności: umożliwiać, wspierać i promować tworzenie treści zgodnych z wytycznymi dla dostępności treści internetowych ([WCAG](/standards-guidelines/wcag/)).
+-   jak zapewnić dostępność samych narzędzi autorskich, aby osoby z niepełnosprawnościami mogły tworzyć treści internetowe, ***oraz***
+-   jak pomagać twórcom w tworzeniu bardziej dostępnych treści internetowych - w szczególności: umożliwiać, wspierać i promować tworzenie treści zgodnych z wytycznymi dla dostępności treści internetowych ([WCAG](/standards-guidelines/wcag/)).
 
 
 ATAG jest częścią serii wytycznych dla dostępności, w tym Wytycznych dla dostępności treści internetowych (WCAG) i Wytycznych dla dostępności programów użytkownika (UAAG). Związek między różnymi wytycznymi wyjaśniają [Podstawowe komponenty dostępności cyfrowej](/fundamentals/components/).
@@ -84,7 +84,7 @@ ATAG są przeznaczone głównie dla programistów narzędzi autorskich, w tym na
 -   witryny internetowe, które pozwalają użytkownikom dodawać treści, takie jak blogi, wiki, strony służące do udostępniania zdjęć, fora internetowe i portale społecznościowe
 -   inne rodzaje narzędzi wymienione w słownikowej definicji [narzędzi autorskich](https://www.w3.org/TR/ATAG20/#def-Authoring-Tool)
 
-ATAG i zasoby pomocnicze mają również zaspokoić potrzeby wielu różnych odbiorców, w tym decydentów, menedżerów i innych. Na przykład:
+ATAG i materiały pomocnicze mają również zaspokoić potrzeby wielu różnych odbiorców, w tym decydentów, menedżerów i innych. Na przykład:
 
 -   Osoby szukające narzędzia autorskich, które są dostępne i tworzą dostępne treści, mogą użyć ATAG do oceny narzędzi autorskich.
 -   Osoby, które chcą zachęcić swojego dotychczasowego programistę narzędzi autorskich do poprawy dostępności w przyszłych wersjach, mogą skierować twórcę narzędzia autorskiego do ATAG.
@@ -98,7 +98,7 @@ ATAG i zasoby pomocnicze mają również zaspokoić potrzeby wielu różnych odb
 
 [[**ATAG w skrócie**]](/standards-guidelines/atag/glance/) zawierają krótkie streszczenie zasad i wytycznych dla dostępności ujętych w ATAG.
 
-**ATAG** są zorganizowany warstwowo:
+**ATAG** są zorganizowane warstwowo:
 
 -   **Zasady**  zapewniają najwyższy poziom organizacji wytycznych.
 -   **Wytyczne**  zapewniają ramy i cele dla kryteriów sukcesu.
@@ -120,6 +120,6 @@ ATAG 2.0 są dostępne jako autoryzowane tłumaczenie W3C w języku chińskim, u
 
 ## Kto opracował ATAG
 
-ATAG zostały opracowane przez Authoring Tool Accessibility Guidelines Working Group ([ATAG WG](https://www.w3.org/WAI/AU/)), która jest częścią Inicjatywy na Rzecz Dostępności Internetowej ([WAI](https://www.w3.org/WAI/)) w Konsorcjum <span lang="en">World Wide Web</span> ([W3C](http://www.w3.org)).
+ATAG zostały opracowane przez Grupę Roboczą ds. wytycznych dla dostępności narzędzi autorskich ([ATAG WG](https://www.w3.org/WAI/AU/)), która jest częścią Inicjatywy na Rzecz Dostępności Internetowej ([WAI](https://www.w3.org/WAI/)) w Konsorcjum <span lang="en">World Wide Web</span> ([W3C](http://www.w3.org)).
 
 Możliwości udziału w pracach WAI zostały przedstawione na stronie [[Uczestnictwo w WAI]](/about/participating/).
