@@ -60,7 +60,7 @@ Ta strona zawiera sparafrazowane podsumowanie Wytycznych dla dostępności narz�
 {% include box.html type="start" title='<a href="https://www.w3.org/TR/ATAG20/#principle_a2">A2</a> <a href="https://www.w3.org/TR/ATAG20/#def-Editing-View">Widoki redaktorskie</a> są postrzegalne' h=3 class="" %}
 {:/}
 
--   Zapewnij, aby prezentacja w widoku redaktorskim była [określona programowo](https://www.w3.org/TR/ATAG20/#def-Programmatically-Determined)
+-   Zapewnij, aby prezentację w widoku redaktorskim można [określić programowo](https://www.w3.org/TR/ATAG20/#def-Programmatically-Determined)
 
 {::nomarkdown}
 {% include box.html type="end" %}
