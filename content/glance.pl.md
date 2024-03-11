@@ -39,8 +39,7 @@ footer: |
 
 Ta strona zawiera sparafrazowane podsumowanie Wytycznych dla dostępności narzędzi autorskich (ATAG) 2.0. Normatywna specyfikacja techniczna znajduje się na stronie [www.w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/).
 
-**Aby dowiedzieć się więcej o ATAG 2.0, zapoznaj się z [[Omówieniem ATAG]](/standards-guidelines/atag/pl
-).**
+**Aby dowiedzieć się więcej o ATAG 2.0, zapoznaj się z [[Omówieniem ATAG]](/standards-guidelines/atag/pl).**
 {::nomarkdown}
 {% include_cached box.html type="end" %}
 {:/}
