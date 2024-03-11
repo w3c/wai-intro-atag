@@ -5,10 +5,13 @@
 title: "Omówienie Wytycznych dla dostępności narzędzi autorskich (ATAG)"
 nav_title: "Omówienie ATAG"
 lang: pl  # Change "en" to the translated-language shortcode
-last_updated: 2024-03-05   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-03-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators:
   - name: "Stefan Wajda"
+contributors:
+  - name: "Wojtek Kutyla"
+    org: "Human Thing Ltd"  
 
 github:
   repository: w3c/wai-intro-atag
@@ -69,7 +72,7 @@ Wytyczne dla dostępności narzędzi autorskich (ATAG) wyjaśniają:
 -   jak pomagać twórcom w tworzeniu bardziej dostępnych treści internetowych - w szczególności: umożliwiać, wspierać i promować tworzenie treści zgodnych z wytycznymi dla dostępności treści internetowych ([WCAG](/standards-guidelines/wcag/)).
 
 
-ATAG jest częścią serii wytycznych dla dostępności, w tym Wytycznych dla dostępności treści internetowych (WCAG) i Wytycznych dla dostępności programów użytkownika (UAAG). Związek między różnymi wytycznymi wyjaśniają [Podstawowe komponenty dostępności cyfrowej](/fundamentals/components/).
+ATAG jest częścią serii wytycznych dla dostępności, w tym Wytycznych dla dostępności treści internetowych (WCAG) i Wytycznych dla dostępności programów użytkownika (UAAG). Związek między różnymi wytycznymi wyjaśniają [[Podstawowe komponenty dostępności cyfrowej]](/fundamentals/components/).
 
 ATAG są dziś istotne, ponieważ są niezależne od technologii. ATAG zostały opublikowane w 2015 roku i odnoszą się do WCAG 2.0. Zachęcamy do korzystania z najnowszej wersji [WCAG 2](https://www.w3.org/TR/WCAG2/).
 

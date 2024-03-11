@@ -5,11 +5,13 @@
 title: "ATAG w skrócie"
 nav_title: "ATAG w skrócie"
 lang: pl   # Change "en" to the translated language shortcode
-last_updated: 2024-03-05   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-03-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators:
   - name: "Stefan Wajda"
-
+contributors:
+  - name: "Wojtek Kutyla"
+    org: "Human Thing Ltd"
 
 github:
   repository: w3c/wai-intro-atag
