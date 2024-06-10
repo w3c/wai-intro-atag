@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ab02a686-7227-4bc6-8a21-8909e0be3bb1/deploy-status)](https://app.netlify.com/sites/wai-intro-atag/deploys)
+> [!IMPORTANT]
+> This repository has been archived 10 June 2024.
+>
+> [Authoring Tool Accessibility Guidelines (ATAG)](https://www.w3.org/WAI/standards-guidelines/atag/)  pages are now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
